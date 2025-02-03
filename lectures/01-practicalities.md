@@ -94,19 +94,33 @@ Tricky because of way ANU accounts for teaching hours through "earnings codes" w
 - Provides guarantees of hours throughout the semester
 - Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
 
+## Safety: What to do if something bad happens?
 
-## Safety
+Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve!
 
+**Prioritise your safety. Just walk out.**
 
+- You are in control of your class, if you feel unsafe (1) **walk out!**
+- (2) go to a **safe place** (e.g., CSIT Front Office)
+- (3) call **ANU security**: **61252249**
+
+## Emergency Buttons and Phones
+
+- CSIT labs have a **red panic button** on the wall near the door: ANU Security will visit immediately if the button is pressed.
+- Life threatening emergency call **000** from your phone or **0000** from an ANU Phone, then call ANU Security **61252249** (**52249** from internal phone).
 
 ## Where to get help 
 
 - Other tutors: course team / communication channels (varies by course)
-- Convenor (your direct manager)
+- Course Convenor (your direct manager)
 - School of Computing front desk (CSIT Level 3 or <admin.comp@anu.edu.au>)
 - Peter Hoefner - Associate Director (Education) in School of Computing: <peter.hoefner@anu.edu.au>
 
 ## Working with convenors
+
+- Your convenor is your main "boss" and contact point for your job. 
+- Academics are... all really **different**!
+- You will probably meet with them (and your co-tutors) regularly and need to learn about how they operate.
 
 ## Getting to know you as a learner (5m task!)
 
