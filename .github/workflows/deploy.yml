@@ -46,7 +46,9 @@ jobs:
                   beamercolorthemeowl
 
       - name: Build Lectures
-        run: make all
+        run: |
+          . /venv/bin/activate
+          make all
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
