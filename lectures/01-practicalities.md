@@ -5,14 +5,17 @@ author: Dr Charles Martin
 
 ## Acknowledgement of Country
 
-
+![Image of Canberra from Mt Painter towards Black Mountain](img/canberra1.jpg){ width=70% }
 
 ## What are the goals for today?
 
 Admin and Strategies:
 
 - Admin: hours, payslips, timetables, who to ask about what
+- Knowledge: what is teaching about anyway?
 - Strategies: facilitating labs, marking and feedback, inclusive teaching
+
+_Acknowledgements:_ Many slides here created by members of the former ANU Centre for Learning and Teaching.
 
 ## Schedule
 
@@ -25,13 +28,15 @@ Admin and Strategies:
 - 15:30	4. Inclusive Teaching
 - 17:00	Finish
 
-## Journey as an Educator
+# Becoming an educator
+
+## Task: Journey as an educator (5mins)
 
 Everybody here has experience as a **learner** but this might be the start of your journey as an **educator**.
 
 Or you might have had some experiences before... (maybe not as a job!)
 
-Examples: piano teaching kids, coaching soccer team, homework help for highschoolers, leading a club or society  
+_Examples:_ piano teaching kids, coaching soccer team, homework help for high-schoolers, leading a club or society  
 
 **Who here has had a teaching experience before?**
 
@@ -47,7 +52,7 @@ Examples: piano teaching kids, coaching soccer team, homework help for highschoo
 
 ## Teaching Values
 
-I'm a Senior Fellow of the Higher Education Academy where we follow a [Professional Standards Framework](https://www.advance-he.ac.uk/teaching-and-learning/psf) one part of this is 5 _values_:
+I'm a Senior Fellow of the Higher Education Academy where we follow a [Professional Standards Framework](https://www.advance-he.ac.uk/teaching-and-learning/psf); one part of this is 5 _values_:
 
 - **V1**: respect individual learners and diverse groups of learners
 - **V2**: promote engagement in learning and equity of opportunity for all to reach their potential
@@ -55,7 +60,7 @@ I'm a Senior Fellow of the Higher Education Academy where we follow a [Professio
 - **V4**: respond to the wider context in which higher education operates, recognising implications for practice
 - **V5**: collaborate with others to enhance practice
 
-## Computing Education
+Talking to you is in accordance with these values!
 
 ## What's tutoring like?
 
@@ -75,7 +80,7 @@ Tricky because of way ANU accounts for teaching hours through "earnings codes" w
 - T21: **Teaching** "Supplementary / scaffolded form of delivery" (that is, tutorials or labs): 1-to-3 ratio (1 hour teaching + 2 hours of "associated working time")
 - T23: **Repeat Teaching** "Supplementary / scaffolded form of delivery" (1 hour teaching + 1 hour associated working time)
 
-[ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-resources/salaries-benefits/academic-casual-sessional-rates)
+Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-resources/salaries-benefits/academic-casual-sessional-rates)
 
 ## What is associated working time?
 
@@ -93,6 +98,18 @@ Tricky because of way ANU accounts for teaching hours through "earnings codes" w
 - It's in the Enterprise Agreement
 - Provides guarantees of hours throughout the semester
 - Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
+
+## Example:
+
+- In one week, Charles the tutor teaches two 2-hour labs and 6 hours of preparation, marking, admin, consultation and meetings related to those labs.
+- He also does 3 hours of marking assignments and 1 hour writing test cases for the exam.
+
+| Code | Units | Teaching Time | Associated Working Time | Actual Hours Work/Pay |
+|---|---|---|---|---|
+| T21 Teaching | 2 | 2 | 4 | 6 |
+| T23 Repeat Teaching | 2 | 2 | 2 | 4 |
+| T42 Marking | 3 |  |  | 3 |
+| T44 Other | 1 |  |  | 1 |
 
 ## Safety: What to do if something bad happens?
 
@@ -121,6 +138,7 @@ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual
 - Your convenor is your main "boss" and contact point for your job. 
 - Academics are... all really **different**!
 - You will probably meet with them (and your co-tutors) regularly and need to learn about how they operate.
+- Convenors can get quite **stressed**: budgets, plagiarism, appeals, marking, deadlines and this is only 40% of our job!
 
 ## Getting to know you as a learner (5m task!)
 
