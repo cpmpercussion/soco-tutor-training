@@ -42,7 +42,8 @@ jobs:
                   hanging \
                   beamer \
                   beamertheme-metropolis \
-                  pgfopts
+                  pgfopts \
+                  beamercolorthemeowl
 
       - name: Build Lectures
         run: make all
