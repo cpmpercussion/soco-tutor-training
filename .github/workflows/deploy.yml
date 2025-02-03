@@ -30,10 +30,10 @@ jobs:
 
       - name: Install Python and Dependencies
         run: |
-          apk add --no-cache python3 py3-pip make pipx
-          python3 -m venv /venv
-          . /venv/bin/activate
-          pip install pyyaml
+          apk add --no-cache python3 py3-pip py3-yaml make 
+          # python3 -m venv /venv
+          # . /venv/bin/activate
+          # pip install pyyaml
           tlmgr install libertine \
                   sourcecodepro \
                   ly1 \
@@ -47,11 +47,11 @@ jobs:
 
       - name: Build Lectures
         run: |
-          . /venv/bin/activate
+          # . /venv/bin/activate
           make all
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
