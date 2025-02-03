@@ -2,10 +2,12 @@
 
 # Directories
 LECTURES_DIR = lectures
-REVEAL_DIR = output/reveal
-DZ_DIR = output/dz
-BEAMER_DIR = output/beamer
 TEMPLATES_DIR = templates
+IMAGES_DIR = img
+REVEAL_DIR = output/reveal
+BEAMER_DIR = output/beamer
+OUTPUT_IMAGES_DIR = $(REVEAL_DIR)/$(IMAGES_DIR)
+# DZ_DIR = output/dz
 
 # Pandoc settings
 # -V revealjs-url=https://unpkg.com/reveal.js@4.5.0
@@ -38,22 +40,28 @@ BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(BEAMER_DIR)/%.pdf,$(LECTURE_MDS)
 # Default target
 all: reveal beamer
 
+# Create output directories including images
+.PHONY: directories
+directories:
+	mkdir -p $(REVEAL_DIR)
+	mkdir -p $(BEAMER_DIR)
+	mkdir -p $(OUTPUT_IMAGES_DIR)
+
+# Copy images to output directory
+.PHONY: images
+images: directories
+	cp -r $(IMAGES_DIR)/* $(OUTPUT_IMAGES_DIR)/
+
+
 # Create output directories
 $(REVEAL_DIR) $(BEAMER_DIR):
 	mkdir -p $@
 
 # Generate Reveal.js presentations
-reveal: $(REVEAL_DIR) $(REVEAL_HTMLS)
+reveal: $(REVEAL_DIR) $(REVEAL_HTMLS) images
 
 $(REVEAL_DIR)/%.html: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(REVEAL_OPTS) $< -o $@
-
-# Generate dzslides presenations
-
-dzslides: $(DZ_DIR) $(DZ_HTMLS)
-
-$(DZ_DIR)/%.html: $(LECTURES_DIR)/%.md
-	$(PANDOC) $(PANDOC_COMMON_OPTS) $(DZ_OPTS) $< -o $@
 
 # Generate Beamer PDFs
 beamer: $(BEAMER_DIR) $(BEAMER_PDFS)
@@ -63,6 +71,12 @@ $(BEAMER_DIR)/%.pdf: $(LECTURES_DIR)/%.md
 
 # Clean up generated files
 clean:
-	rm -rf $(REVEAL_DIR) $(BEAMER_DIR)
+	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) 	$(OUTPUT_IMAGES_DIR)
 
 .PHONY: all reveal beamer clean
+
+# Generate dzslides presenations
+# dzslides: $(DZ_DIR) $(DZ_HTMLS)
+
+# $(DZ_DIR)/%.html: $(LECTURES_DIR)/%.md
+# 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(DZ_OPTS) $< -o $@
