@@ -30,8 +30,8 @@ jobs:
 
       - name: Install Python and Dependencies
         run: |
-          apk add --no-cache python3 py3-pip make
-          pip3 install pyyaml
+          apk add --no-cache python3 py3-pip make pipx
+          pipx install pyyaml
 
       - name: Build Lectures
         run: make all
