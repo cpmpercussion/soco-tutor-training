@@ -2,11 +2,11 @@ name: Build and Deploy Lectures
 on:
   push:
     branches:
-      - main  # or master, depending on your default branch name
+      - main
   pull_request:
     branches:
       - main
-  workflow_dispatch:  # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
@@ -19,21 +19,19 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    
+    container:
+      image: pandoc/latex:latest
+      options: --user root
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
-      - name: Install Dependencies
+      - name: Install Python and Dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc
-          pip install pyyaml
+          apk add --no-cache python3 py3-pip make
+          pip3 install pyyaml
 
       - name: Build Lectures
         run: make all
