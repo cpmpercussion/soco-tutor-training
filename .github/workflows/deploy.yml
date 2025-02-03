@@ -41,7 +41,8 @@ jobs:
                   lastpage \
                   hanging \
                   beamer \
-                  beamertheme-metropolis
+                  beamertheme-metropolis \
+                  pgfopts
 
       - name: Build Lectures
         run: make all
