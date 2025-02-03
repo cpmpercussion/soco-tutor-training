@@ -4,10 +4,17 @@
 LECTURES_DIR = lectures
 TEMPLATES_DIR = templates
 IMAGES_DIR = img
-REVEAL_DIR = output/reveal
-BEAMER_DIR = output/beamer
+OUTPUT_DIR = output
+REVEAL_DIR = $(OUTPUT_DIR)/reveal
+BEAMER_DIR = $(OUTPUT_DIR)/beamer
 OUTPUT_IMAGES_DIR = $(REVEAL_DIR)/$(IMAGES_DIR)
 # DZ_DIR = output/dz
+
+# Index generation
+INDEX_HTML = $(OUTPUT_DIR)/index.html
+INDEX_GENERATOR = generate_index.py
+
+
 
 # Pandoc settings
 # -V revealjs-url=https://unpkg.com/reveal.js@4.5.0
@@ -34,11 +41,11 @@ BEAMER_OPTS = -t beamer \
 # Find all markdown lecture files
 LECTURE_MDS = $(wildcard $(LECTURES_DIR)/*.md)
 REVEAL_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(REVEAL_DIR)/%.html,$(LECTURE_MDS))
-DZ_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(DZ_DIR)/%.html,$(LECTURE_MDS))
 BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(BEAMER_DIR)/%.pdf,$(LECTURE_MDS))
+DZ_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(DZ_DIR)/%.html,$(LECTURE_MDS))
 
 # Default target
-all: reveal beamer
+all: reveal beamer $(INDEX_HTML)
 
 # Create output directories including images
 .PHONY: directories
@@ -69,9 +76,15 @@ beamer: $(BEAMER_DIR) $(BEAMER_PDFS)
 $(BEAMER_DIR)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
 
+
+$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS)
+	python3 $(INDEX_GENERATOR) $@ $(LECTURE_MDS)
+
+
+
 # Clean up generated files
 clean:
-	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) 	$(OUTPUT_IMAGES_DIR)
+	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) 	$(OUTPUT_IMAGES_DIR) $(INDEX_HTML)
 
 .PHONY: all reveal beamer clean
 
