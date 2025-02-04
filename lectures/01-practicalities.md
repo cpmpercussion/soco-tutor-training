@@ -117,9 +117,9 @@ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual
 
 **Prioritise your safety. Just walk out.**
 
-- You are in control of your class, if you feel unsafe (1) **walk out!**
-- (2) go to a **safe place** (e.g., CSIT Front Office)
-- (3) call **ANU security**: **61252249**
+1. You are in control of your class, if you feel unsafe **walk out!**
+2. go to a **safe place** (e.g., CSIT Front Office)
+3. call **ANU security**: **61252249**
 
 ## Emergency Buttons and Phones
 
