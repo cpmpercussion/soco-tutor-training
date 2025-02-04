@@ -133,7 +133,8 @@ How did the dog cross the river?
 
 ## The Goat Problem
 
-Imagine a circular fence enclosing an acre of grass. A goat is inside the fence, tied to a post. How long does the rope have to be so that the goat can eat half the grass?
+- Imagine a circular fence enclosing an acre of grass. A [goat](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/) is inside the fence, tied to a post. 
+- How long does the rope have to be so that the goat can eat half the grass?
 
 ## Dealing with challenges
 
