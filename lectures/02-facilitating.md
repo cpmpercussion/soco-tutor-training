@@ -5,49 +5,54 @@ author: Dr Charles Martin
 
 # Facilitating Learning
 
+## Facilitating Learning!
+
+This is really the main job of a **tutor**. (or is it?)
+
+- You're in a classroom full of motivated students
+- There's materials and activities for your class prepared
+- There's learning outcomes to meet
+
+How do we get the students to _learn_?
+
 ## Learning outcomes
 
 In this session we will:
 
 - _Identify_ the difference between instructing and facilitating
 - _Practise_ new facilitation skills
-- _Plan_  and  _practise_  questions to guide learning
+- _Plan_ and _practise_ questions to guide learning
 
-## Your experiences
+## Task: Your Tutorial Experiences (5mins)
 
 Think of a time you had:
 
 - a good tutorial experience
 - a disappointing tutorial experience
 
+Discuss with your group and find one example of each (one good, one bad) to share.
+
 ## Approaches to learning
 
-You are going to a [video](https://vimeo.com/506981439/3fcaf2ac8c)
- demonstrating a learning activity. Before you watch, consider the focus questions below.
+![](img/M2_5.jpg)
+
+You are going to a [video](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
+Before you watch, consider the focus questions below.
 
 - What is the objective of the activity?
 - What does the learner have to do?
 - What are the rules and conditions?
 
-![](img/M2_5.jpg)
+## Thinking about roles
 
-## Video: Instruction
+Consider the focus questions below.
 
-Before you watch the first activity (0:32 in video), consider the focus questions below.
+- Why is the educator called _an instructor_ in the first example?
+- Why is the educator called _a facilitator_ in the second example?
+- What specifically does educator _do_ in each example?
+- How _effective_ do you think each approach is?
 
-- Why is the educator called  _an instructor? _
-- What specifically does the instructor  _do?_
-- How  _effective_  do you think the approach is?
-
-## Video: Facilitation
-
-Before you watch the second activity (1:41 in video), consider the focus questions below.
-
-- Why is the educator called  _a facilitator? _
-- What specifically does the instructor  _do?_
-- How  _effective_  do you think the approach is?
-
-## Consider both versions of the activity
+## Task thinking about the activity (5min)
 
 Which approach do you think:
 
@@ -58,7 +63,7 @@ Which approach do you think:
 - Promotes deeper learning?
 - Provides a more engaging experience?
 
-Share you answer.
+Discuss in your group, and we'll discuss together in a few minutes.
 
 ## Asking questions
 
@@ -85,7 +90,7 @@ Facilitation questions can be used to:
 - Encourage discussion
 - Promote critical thinking
 
-[Asking questions to support learning](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0006/3637923/asking-questions-to-support-student-learning_final.pdf)
+Resource: [asking questions to support learning](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0006/3637923/asking-questions-to-support-student-learning_final.pdf)
 
 ## Activity: Plan and prepare
 
@@ -96,10 +101,12 @@ First: work with your group to plan and prepare.
 - Group 2: Dog Puzzle
 - Group 3: Rope Puzzle
 
+<!-- TODO: can we adjust these activities to relate to  -->
+
 ## Activity: Practice
 
 Now you are going facilitate the activity. 
-In your new group, take turns to be:
+In your group, take turns to be:
 
 - facilitator
 - student
@@ -118,11 +125,15 @@ How did the dog cross the river?
 
 - You have 2 ropes coated in oil to help them burn.
 - The ropes burn at constant rates, and each rope will take _exactly 1 hour_ to burn all the way through.
--  With only a lighter to ignite the ropes, how can you measure exactly 45 minutes? 
+- With only a lighter to ignite the ropes, how can you measure exactly 45 minutes? 
 
 ## Question Puzzle
 
 - I can break, I can get clogged, I can be attacked, I can be given, I can be kept, I can be crushed. Yet, I can be whole at the same time.
+
+## The Goat Problem
+
+Imagine a circular fence enclosing an acre of grass. A goat is inside the fence, tied to a post. How long does the rope have to be so that the goat can eat half the grass?
 
 ## Dealing with challenges
 
@@ -135,7 +146,33 @@ What might you do when...
 - Certain students never respond?
 - The student’s response is not correct or what you expected?
 
-[Asking questions to support learning](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0006/3637923/asking-questions-to-support-student-learning_final.pdf)
+## Coding Class Applications
+
+Solving a coding problem can feel a bit like walking around blindfolded!
+
+- We can use questioning to _slow_ down trying to "solve" the problem, identify resources, look for feedback, unblock thinking.
+- "Is there a resource we can use to help with this problem?"
+- "Is this a problem you've seen before?"
+- "What is the computer telling you"
+- "Is there anything you could change to find out what's happening?"
+- "Where does the computer start with this code?"
+
+Question: Does this conflict with _explicit teaching_?
+
+## I can't get this to work!!
+
+```python
+def fibonacci(n):
+    if n < 0:
+        return 0
+    if n == 1:
+        return 1
+    result = fibonacci(n-1) + fibonacci(n-2)
+    return result
+```
+
+<!-- TODO: Make this more broken. -->
+Help me solve my own problem. (PS I didn't go to the lecture and neither did you.)
 
 # Takeaways
 
@@ -147,8 +184,8 @@ What might you do when...
 - Consider what information students need and when.
 - Create and provide a supportive learning environment.
 - Engage students’ prior knowledge.
-- Encourage the learner to analyse problems, offer solutions and think for themselves.
-- Enable regular reflection on content, tasks and own learning.
+- Encourage the learner to **analyse** problems, **offer** solutions and **think for themselves**.
+- Enable regular **reflection** on content, tasks and own learning.
 - Connect current learning with future challenges and tasks.
 
 ## Questioning techniques

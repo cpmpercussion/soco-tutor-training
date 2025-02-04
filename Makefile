@@ -28,7 +28,7 @@ REVEAL_OPTS = -t revealjs \
 							-V height=1080 \
 							-V margin=0.1 \
 							--include-in-header css/slides.css \
-              -V theme=simple
+              -V theme=night
 
 DZ_OPTS = -t dzslides
 # -V colortheme=nord \
