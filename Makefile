@@ -21,13 +21,15 @@ INDEX_GENERATOR = generate_index.py
 PANDOC = pandoc
 PANDOC_COMMON_OPTS = --standalone --slide-level 2
 REVEAL_OPTS = -t revealjs \
-							-V theme=solarized \
 							-V controls=true \
 							-V progress=true \
 							-V center=false \
 							-V width=1920 \
 							-V height=1080 \
-							-V margin=0.1
+							-V margin=0.1 \
+							--include-in-header css/slides.css \
+              -V theme=simple
+
 DZ_OPTS = -t dzslides
 # -V colortheme=nord \
  
