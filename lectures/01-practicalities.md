@@ -28,7 +28,7 @@ _Acknowledgements:_ Many slides here created by members of the former ANU Centre
 - 15:30	4. Inclusive Teaching
 - 17:00	Finish
 
-# Becoming an educator
+# How to be a tutor
 
 ## Task: Journey as an educator (5mins)
 
@@ -50,7 +50,7 @@ _Examples:_ piano teaching kids, coaching soccer team, homework help for high-sc
 - 2022: Developed study programs for Human Centred and Creative Computing (HCCC-MAJ, HCCC-MIN, HCCC-SPEC, HCCM-SPEC)
 - 2025: New this year! Training new CSAs, teaching COMP3900/6390.
 
-## Teaching Values
+<!-- ## Teaching Values
 
 I'm a Senior Fellow of the Higher Education Academy where we follow a [Professional Standards Framework](https://www.advance-he.ac.uk/teaching-and-learning/psf); one part of this is 5 _values_:
 
@@ -60,7 +60,7 @@ I'm a Senior Fellow of the Higher Education Academy where we follow a [Professio
 - **V4**: respond to the wider context in which higher education operates, recognising implications for practice
 - **V5**: collaborate with others to enhance practice
 
-Talking to you is in accordance with these values!
+Talking to you is in accordance with these values! -->
 
 ## What's tutoring like?
 
@@ -135,12 +135,31 @@ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual
 
 ## Working with convenors
 
-- Your convenor is your main "boss" and contact point for your job. 
-- Academics are... all really **different**!
-- You will probably meet with them (and your co-tutors) regularly and need to learn about how they operate.
-- Convenors can get quite **stressed**: budgets, plagiarism, appeals, marking, deadlines and this is only 40% of our job!
+Communicate:
 
-## Getting to know you as a learner (5m task!)
+- Your convenor is your main "boss" and contact point for your job. 
+- You will probably meet with them (and your co-tutors) regularly and need to learn about how they operate.
+- Dynamic can change! Work _instructions_ are different to learning _suggestions_: e.g., how much time to spend on a task.
+
+Listen, observe, be understanding:
+
+- Academics are... all really **different**!
+- Convenors can get **stressed**: budgets, plagiarism, appeals, marking, deadlines and this is only 40% of our job!
+- If you aren't getting a reply consider: Are they trying to write their book? Are they at a conference?
+
+# Developing as an Educator
+
+## Am I expected to know everything on the first day?
+
+Of course not!
+
+- Teaching is a craft, we learn by doing.
+- As a tutor you have a well-defined role, lots of resources, and support.
+- Not expected to be perfect on day 1, or even day 100.
+
+We're going to talk about developing as an educator.
+
+## Task: Getting to know you as a learner (5mins)
 
 Reflect on your teaching experiences, expectations and learning needs.
 
@@ -150,15 +169,63 @@ Select three sticky notes from your table and answer these three questions:
 - What challenges __have you faced__ or do you __expect to face__ as a tutor?
 - What aspects of tutoring would you most like support with?
 
-When you are ready, stand up and place your sticky notes on the corresponding poster!
+Discuss with your group and then we'll hear one example of each question from each table.
+
+## How do people develop as teachers?
+
+[Kugel (1993)](https://doi.org/10.1080/03075079312331382241) describes one pathway of development as university teachers:
+
+- Self
+- Subject
+- Student...
+
+As educators we also learn and are influenced by our environment, experiences, and self.
+
+Citation: Peter Kugel (1993) How professors develop as teachers, Studies in Higher
+Education, 18:3, 315-328, DOI: [10.1080/03075079312331382241](https://doi.org/10.1080/03075079312331382241)
+
+## Phase 1: Emphasis on Teaching
+
+![](img/jason-goodman-Oalh2MojUuk-unsplash.jpg){width=40%}
+
+1. **Focus on self**: Survival in front of a class! Learning how to explain, fear of not knowing the "right" answers.
+2. **Focus on subject**: Covering the topic thoroughly (more than a student!). Preparing packaged, inspiring, and interesting content.  Fear of running out of time!
+3. **Focus on student**: Students are different! Prepare alternatives formulas and explanations. Learn about student needs, awareness of multiple valid approaches.
+
+## Phase 2: Emphasis on Learning
+
+![](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg){width=40%}
+
+4. **Student as active**: Let students do the work! Coaching students in applied learning activities. Teaching less, but more learning occurs.
+5. **Student as independent**: Coach students in learning how to learn. Let students independently explore. (What knowledge will be important in computing in 20 years?)
+6. **Tuning**: Established skills in previous stages. Move between stages as necessary, updating and experimenting.
+
+## Risks
+
+Early stages: 
+
+- Great content, students not engaging and not learning.
+- Overwhelm students with explanations: answering questions not asked.
+- Frustrating when student don't find this fascinating topic interesting!
+
+Later stages:
+
+- Getting students to **do** things: tricky.
+- Teaching _less_ doesn't mean _nothing_: still need telling/showing (explicit teaching).
+- Need to do _listening_ and _questioning_: these are hard skills.
+- Students annoyed! "Just tell me what to do!!"
 
 # Theories of teaching
 
-## Fox’s "Personal Theories of Teaching"
+## What do you mean by teaching?
 
-- You are going to a see a series of images as metaphors of different teaching approaches.
-- Consider each image as they are presented. What kind of teaching do you think the image represents?
-- Enter your idea in  _Poll Everywhere_.
+Knowing what teaching **is** can be tricky!
+
+[Fox’s (1983) "Personal Theories of Teaching"](https://doi.org/10.1080/03075078312331379014) offers metaphors for different ways that teaching happens.
+
+![Fox's five metaphors for teaching](img/M1_11.png)
+
+Citation: Fox, D. (1983). Personal theories of teaching. Studies in Higher Education, 8(2), 151–163. DOI: [10.1080/03075078312331379014](https://doi.org/10.1080/03075078312331379014)
 
 ## Transfer Theory
 
@@ -198,7 +265,7 @@ __The teacher is like an architect, draftsperson or city planner.__
 
 ![](img/M1_9.png)
 
--__The teacher is like an expert guide.__
+__The teacher is like an expert guide.__
 
 - Learning is a journey of exploration facilitated by the teacher.
 - Learner has a high degree of autonomy in navigating their learning path.
@@ -229,87 +296,81 @@ These are _metaphors_ for the dynamics between students and teachers, not intend
 
 ## Applying theory to practice
 
-Imagine you are teaching your students how to add fractions.
+Imagine you are a tutor for COMP1100 teaching your students how to write recursive functions in Python.
 
 - In the teaching materials, you find  __5 activity designs:__
 - You examine each activity and its teaching approach.
-- Thinking back on  __Fox’s Theories of Teaching,__  you decide to match  _each activity_  to  _one_  of Fox’s metaphors.
+- Thinking back on  __Fox’s Theories of Teaching,__  you decide to match _each activity_  to  _one_ of Fox’s metaphors.
+
+Go to Charles' PollEverywhere to match activities to metaphors: <PollEv.com/charlesmarti205>
 
 ## Approach A: Methods and Questions
 
-The tutor explains initial concept and demonstrates a prescribed method to solve the problems.
+The tutor explains initial concept and demonstrates a prescribed method to write recursive functions.
 
 - The tutor presents some basic examples.
 - The tutor provides a method to solve similar examples.
 
-The tutor provides materials and tools for students to use to solve more complex problems.
+The tutor points students to resources on the course website to help solve more complex problems.
 
-- The students solve set problems from the textbook using the resources provided by the teacher.
+- The students solve set problems from the lab webpage using the resources provided by the tutor.
 
 Some students solve the problems quickly and find them too easy
 
 - The tutor asks them to find more challenging questions to attempt but allows them to leave early.
 
-![](img/M1_28.png)
-
 ## Approach B: Activity Stations
 
-- The tutor sets out a series of problems across several tables. The problems become progressively more challenging as they go. The tutor provides resources and tools to help solve the problems.
+The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
+
+![](img/M1_29.png)
+
 - Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
 - The tutor encourages group work and moves around the room helping students who get stuck.
-
-![](img/M1_30.png)
 
 ## Approach C: Steps
 
 The tutor presents the following steps on the whiteboard.
 
-1. Make the denominators (bottom numbers) the same.
-2. Add the numerators (top numbers) and put them over the same denominator.
-3. Simplify the fraction (if needed).
+1. Write a function definition
+2. Determine the base case for function and return the answer to that first.
+3. Determine the recursive case for the function and call the function from inside itself (more than once if needed).
+4. Test your function with different inputs.
+5. If necessary, update your function so that the outputs are correct.
 
-The students complete practice questions from the textbook: 
-
-![](img/M1_35.png)
+The students complete practice problems from the lab webpage. 
 
 ## Approach D: Visualisation
 
-The tutor explains the concept of fractions by visualising them as pizza slices. The tutor draws the following image on the board:
+The tutor explains the concept of recursion by visualising a recursive datatype. The tutor shows the following image on the board and explains how count the number of people in the list recursively:
 
-![](img/M1_36.png)
+![[Lists (COMP1100)](https://comp.anu.edu.au/courses/comp1100/lectures/03-2-Intro_to_Lists.pdf)](img/recursive-line-datatype.jpg){ width=40% }
 
-- The tutor provides the students fraction problems to solve by using visualisation. The tutor moves around the room checking the students’ work.
-- When the students have understood the concept, the tutor shows on the board how to answer these types of questions  _without_  the visualisation (i.e. finding the common denominator).
+- The tutor provides recursion problems to solve by using visualisation. The tutor moves around the room checking the students’ work.
+- When the students have understood the concept, the tutor shows on the board how to answer these types of questions _without_ the visualisation.
 
 
 ## Approach E: Working in Groups
 
-The tutor asks students to work in groups to solve fraction problems.
+The tutor asks students to work in groups to solve recursion problems on the lab webpage.
 
-Some students are stuck right away.
+![](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg){ width=40% }
 
-- The tutor gives them simpler problems to solve.
-- The tutor encourages students at a similar level of understanding to work together.
+- The tutor moves ensures that students work on problems at the right level to them, grouping students of similar levels together.
+- The tutor looks out moments when students are ready for harder problems, points to advanced techniques.
+- If students are finished quickly, the tutor has challenging problems ready, or asks them to help others.
 
-Some students can solve problems by drawing diagrams but need to do this for every problem.
-
-- The tutor provides problems that encourage more advanced techniques.
-- The tutor provides tools and resources to support the students.
-
-Some students solve the problems quickly and find them too easy
-
-- The tutor has more challenging problems prepared, such as mixed fractions.
-- The tutor makes sure there are sufficient tools and resources for support.
-
-![](img/M1_39.png)
-
-## Applying theory to practice
+## Task: What activity resonates for you? (5min)
 
 - **Transfer:** presents, instructs, transfers, transmits and conveys learning.
 - **Shaping:** demonstrates, instructs, coaches and develops learning.
 - **Building:** instructs, enables, directs and structures learning.
 - **Travelling:** monitors, guides, facilitates, and enables learning. They point the way.
 - **Growing:** encourages, promotes, cultivates and nurtures learning.
+
+What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
+
+Let's discuss together.
 
 ## Applying theory to practice
 
