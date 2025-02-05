@@ -29,13 +29,13 @@ One question per sticky note! We will hear some together from each table.
 
 __Diagnosing__
 
-- Focus on what is known
+- Focus on what is known 
 - Beginning of topic/course
 - Identifies prior learning
 
  __Monitoring__ 
 
-- Focus on learning process
+- Focus on learning process during a course
 - During a topic/course
 - Promotes reflection and improvement
 
@@ -43,7 +43,6 @@ __Diagnosing__
 
 - Focus on evaluation
 - End of topic/course
-- Evaluates what has been learned
 
 ## Course assessments
 
@@ -62,7 +61,7 @@ Are these assessments opportunities for feedback? What is the purpose?
 
 ## Effective feedback
 
-Recall an example of  __“good”__  feedback you have experienced as a learner.
+Can you think of an example of  __“good”__  feedback you have experienced as a learner?
 
 __Consider the context, e.g.:__ 
 
@@ -166,12 +165,12 @@ What might you do to overcome or address these?
 
 ## Convenor tips:
 
-We _really_ rely on tutors to give good feedback (1 convenor can't mark 400 assignments). Students want to know what the level of their work is and why, some students will attack feedback and use the content to appeal a grade.
+Some students will attack feedback and use the content to appeal a grade.
 
-- For value judgements on work, align your adjectives with ANU grading rubric (more later): don't write "excellent work" when it's at the credit level. A credit is "good".
-- Good to say why the work was at the grade level, and good to say what areas prevent it from being higher.
+- Know the ANU grading rubric (more later): don't write "excellent work" when it's at the credit level. A credit is "good".
+- WRite why the work was at the grade level, and what areas prevent it from being higher.
 - If it's a fail, be clear: "This work does not meet our standards... (some parts) show developing understanding (these parts) could be improved".
-- Always address the work, not the student: "the proposed experiment design shows very good understanding of the topic" not "you understand the topic very well".
+- Always address the work, not the student.
 
 **Be careful** about providing feedback in person (e.g., in labs) on assessment items outside of written communication. Students can (and do) use casual conversations as a basis for appeal.
 
@@ -181,7 +180,7 @@ We _really_ rely on tutors to give good feedback (1 convenor can't mark 400 assi
 - Remain objective and measure the student’s work against the task objectives, marking criteria and standards.
 - Ensure feedback is clear, specific and tailored to the learner.
 - Avoid personalisation, e.g. "I..." and "you..." but also personally _judgemental_ and _emotive_ words.
-- **Be careful** when discussing marking guidelines, systems, processes or organisation etc.With students. Any student questions or concerns should go to convenors so that messaging is consistent.
+- **Be careful** when discussing marking guidelines, systems, processes or organisation with students. Any student questions or concerns should go to convenors so that messaging is consistent.
 - Encourage students to engage with feedback.
 
 # Evaluating Feedback
@@ -229,16 +228,18 @@ Here are some useful resources that are available now and relevant to your teach
 
 # Rubrics and Marking Criteria
 
-## Task: Talking about Rubrics (5mins)
+<!-- ## Task: Talking about Rubrics (5mins)
 
 Let's have a bit of a discussion:
 
 - What do you know about rubrics or marking criteria?
 - How would you find out the marking rubric for a task?
 - How can/should students use rubrics?
-- How can/should educators use rubrics?
+- How can/should educators use rubrics? -->
 
 ## Rubrics
+
+**Question:** Do you look at rubrics or marking criteria as a student? Do you know how to find them?
 
 - Provide clear criteria for both student and marker.
 - Allow consistency and clear feedback – where and how students can improve.
@@ -274,7 +275,7 @@ Let's have a bit of a discussion:
 
 ## Rubric: Blog
 
-![](img/rubric_blog.png){width=60%}
+![](img/rubric_blog.png){width=50%}
 
 ## Rubric: Essay
 
@@ -282,7 +283,7 @@ Let's have a bit of a discussion:
 
 ## Rubric: Presentation
 
-![](img/rubric_presentation.png){width=60%}
+![](img/rubric_presentation.png){width=75%}
 
 ## Rubric: Sonic Artwork (COMP1720)
 
@@ -306,6 +307,18 @@ Let's have a bit of a discussion:
 | Sophistication as a solo performance with a computer music instrument, of a computer music composition or as an interactive media work. (50%) | Excellent to outstanding performance. Sophisticated interaction and presentation demonstrating in-depth exploration of SMC software. Excellent adherence to the submission format. | Very good as a computer music performance with detailed interaction and presentation that demonstrates the SMC software. Excellent adherence to the submission format. | A good computer music performance that may not show sophisticated interaction and presentation of the SMC software. Good adherence to the submission format. | A satisfactory performance that may have limited interaction and weak presentation of the SMC software. The adherence to the submission format may be poor. | Below acceptable standards as a performance. May have very poor adherence to submission format. |
 
 :::
+
+<!-- ## Grade Level to Marks
+
+Tip for marking from a rubric: Work out consistent marks for each grade level, e.g., for a criterion out of 10:
+
+| Total | HD   | D   | CR | P   | N   |
+|-------|------|-----|----|-----|-----|
+| 10    | 8-10 | 7   | 6  | 5   | 0-4 |
+| 5     | 4-5  | 3-4 | 3  | 2-3 | 0-2 |
+| 4     | 4    | 3   | 2  | 2   | 0-1 |
+| 2     | 2    | 2   | 1  | 1   | 0   | -->
+
 
 ## Takeaways
 

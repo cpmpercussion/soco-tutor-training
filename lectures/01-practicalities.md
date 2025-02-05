@@ -99,7 +99,7 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 - Provides guarantees of hours throughout the semester
 - Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
 
-## Example:
+## A worked example:
 
 - In one week, Charles the tutor teaches two 2-hour labs and 6 hours of preparation, marking, admin, consultation and meetings related to those labs.
 - He also does 3 hours of marking assignments and 1 hour writing test cases for the exam.
@@ -111,6 +111,17 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 | T42 Marking | 3 |  |  | 3 |
 | T44 Other | 1 |  |  | 1 |
 
+## Submitting your timesheet
+
+Submit your timesheet **on time**. (please!!) 
+
+Suggested submit date is the [last Sunday in each two-week pay period](https://services.anu.edu.au/information-technology/software-systems/hr-online-remote-user-system/timesheet-approval-cut-off). Actual due date _can change_ due to public holidays.
+
+And **double check that you get paid!**
+
+Link: [Timesheets FAQ](https://services.anu.edu.au/information-technology/software-systems/hr-management-system/casual-academic-timesheets-faqs)
+
+
 ## Safety: What to do if something bad happens?
 
 Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve!
@@ -119,12 +130,14 @@ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual
 
 1. You are in control of your class, if you feel unsafe **walk out!**
 2. go to a **safe place** (e.g., CSIT Front Office)
-3. call **ANU security**: **61252249**
+3. call **ANU security**: **61252249** or [ANUOK App](https://services.anu.edu.au/campus-environment/safety-security/anuok-app)
 
 ## Emergency Buttons and Phones
 
 - CSIT labs have a **red panic button** on the wall near the door: ANU Security will visit immediately if the button is pressed.
 - Life threatening emergency call **000** from your phone or **0000** from an ANU Phone, then call ANU Security **61252249** (**52249** from internal phone).
+
+Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety-security)
 
 ## Where to get help 
 
@@ -223,13 +236,13 @@ Knowing what teaching **is** can be tricky!
 
 [Fox’s (1983) "Personal Theories of Teaching"](https://doi.org/10.1080/03075078312331379014) offers metaphors for different ways that teaching happens.
 
-![Fox's five metaphors for teaching](img/M1_11.png)
+![Fox's five metaphors for teaching](img/M1_11.png){width=70%}
 
 Citation: Fox, D. (1983). Personal theories of teaching. Studies in Higher Education, 8(2), 151–163. DOI: [10.1080/03075078312331379014](https://doi.org/10.1080/03075078312331379014)
 
 ## Transfer Theory
 
-![](img/M1_6.png)
+![](img/M1_6.png){width=25%}
 
 __The teacher is like a fountain of knowledge.__
 
@@ -240,7 +253,7 @@ __The teacher is like a fountain of knowledge.__
 
 ## Shaping Theory
 
-![](img/M1_7.png)
+![](img/M1_7.png){width=25%}
 
 __The teacher is like a craftsperson or a sculptor.__ 
 
@@ -251,7 +264,7 @@ __The teacher is like a craftsperson or a sculptor.__
 
 ## Building Theory
 
-![](img/M1_8.png)
+![](img/M1_8.png){width=25%}
 
 __The teacher is like an architect, draftsperson or city planner.__
 
@@ -263,7 +276,7 @@ __The teacher is like an architect, draftsperson or city planner.__
 
 ## Travelling Theory
 
-![](img/M1_9.png)
+![](img/M1_9.png){width=25%}
 
 __The teacher is like an expert guide.__
 
@@ -274,7 +287,7 @@ __The teacher is like an expert guide.__
 
 ## Growing Theory
 
-![](img/M1_10.png)
+![](img/M1_10.png){width=25%}
 
 __The teacher is like a gardener.__
 
@@ -286,7 +299,7 @@ __The teacher is like a gardener.__
 
 ## Task: What do these mean to us? (2mins)
 
-![](img/M1_11.png)
+![](img/M1_11.png){width=70%}
 
 These are _metaphors_ for the dynamics between students and teachers, not intended to be universal!
 
@@ -296,13 +309,13 @@ These are _metaphors_ for the dynamics between students and teachers, not intend
 
 ## Applying theory to practice
 
-Imagine you are a tutor for COMP1100 teaching your students how to write recursive functions in Python.
+Imagine you are a tutor for COMP1200 teaching your students how to write recursive functions in C.
 
 - In the teaching materials, you find  __5 activity designs:__
 - You examine each activity and its teaching approach.
 - Thinking back on  __Fox’s Theories of Teaching,__  you decide to match _each activity_  to  _one_ of Fox’s metaphors.
 
-Go to Charles' PollEverywhere to match activities to metaphors: <PollEv.com/charlesmarti205>
+Go to Charles' PollEverywhere to match activities to metaphors: <https://PollEv.com/charlesmarti205>
 
 ## Approach A: Methods and Questions
 
@@ -323,7 +336,7 @@ Some students solve the problems quickly and find them too easy
 
 The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
 
-![](img/M1_29.png)
+![Activity Tables](img/M1_29.png){width=30%}
 
 - Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
 - The tutor encourages group work and moves around the room helping students who get stuck.
@@ -352,7 +365,7 @@ The tutor explains the concept of recursion by visualising a recursive datatype.
 
 ## Approach E: Working in Groups
 
-The tutor asks students to work in groups to solve recursion problems on the lab webpage.
+The tutor puts students in groups to solve recursion problems on the lab webpage.
 
 ![](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg){ width=40% }
 

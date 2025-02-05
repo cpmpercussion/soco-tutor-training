@@ -26,14 +26,11 @@ How do we get the students to _learn_?
 
 Let's look at _facilitation_ as a strategy and skill for you to have in your teaching.
 
-
-
 ## Approaches to learning
 
 ![](img/M2_5.jpg){width=40%}
 
-You are going to a [video](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
-Before you watch, consider the focus questions below.
+You are going to a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
 
 - What is the objective of the activity?
 - What does the learner have to do?
@@ -41,7 +38,7 @@ Before you watch, consider the focus questions below.
 
 ## Thinking about roles
 
-Consider the focus questions below.
+Let's think about what was happening.
 
 - Why is the educator called _an instructor_ in the first example?
 - Why is the educator called _a facilitator_ in the second example?
@@ -125,10 +122,10 @@ How did the dog cross the river?
 
 - I can break, I can get clogged, I can be attacked, I can be given, I can be kept, I can be crushed. Yet, I can be whole at the same time.
 
-## The Goat Problem
+<!-- ## The Goat Problem
 
 - Imagine a circular fence enclosing an acre of grass. A [goat](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/) is inside the fence, tied to a post. 
-- How long does the rope have to be so that the goat can eat half the grass?
+- How long does the rope have to be so that the goat can eat half the grass? -->
 
 # Challenges and Tips for Facilitation
 
@@ -143,6 +140,13 @@ What might you do when...
 - Certain students never respond?
 - The student’s response is not correct or what you expected?
 
+## Task: Questioning in Computing Labs (5mins)
+
+Based on your experience as a learner, how can questioning be used in computing labs or your tutorials?
+
+- Come up with three examples with your group.
+- Choose one to share with the room.
+
 ## Coding Class Applications
 
 Solving a coding problem can feel a bit like walking around blindfolded!
@@ -155,21 +159,6 @@ Solving a coding problem can feel a bit like walking around blindfolded!
 - "Where does the computer start with this code?"
 
 Question: Does this conflict with _explicit teaching_?
-
-## I can't get this to work!!
-
-```python
-def fibonacci(n):
-    if n < 0:
-        return 0
-    if n == 1:
-        return 1
-    result = fibonacci(n-1) + fibonacci(n-2)
-    return result
-```
-
-<!-- TODO: Make this more broken. -->
-Help me solve my own problem. (PS I didn't go to the lecture and neither did you.)
 
 ## Facilitating effectively:
 
