@@ -14,4 +14,7 @@
 .reveal ol {
   display: block;
 }
+.small-table table {
+  font-size: .5em
+}
 </style>

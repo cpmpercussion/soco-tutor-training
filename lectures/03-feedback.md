@@ -16,12 +16,12 @@ In this session we will:
 ## Task: Worries and Questions (5mins)
 
 What worries and questions do you have about feedback and marking?
-Select sticky notes from your table and answer these two questions:
+Use the sticky notes from your table and answer these two questions:
 
 1. What questions do you have about __feedback__?
 2. What questions do you have about __marking__?
 
-One question per sticky note!
+One question per sticky note! We will hear some together from each table.
 
 # Introduction To Assessment
 
@@ -37,33 +37,28 @@ __Diagnosing__
 
 - Focus on learning process
 - During a topic/course
-- Promotes reflexivity
+- Promotes reflection and improvement
 
  __Evaluating__ 
 
 - Focus on evaluation
 - End of topic/course
-- Evaluates what has been learnt
+- Evaluates what has been learned
 
 ## Course assessments
 
 What are the assessments in the course(s) you’ll be tutoring in?
 
-- Familiarise yourself with:
+- What each assessment involves
+- When the assessments are due
+- Your role as a tutor
 
-  - What each assessment involves
-  - When the assessments are due
-  - Your role as a tutor
+Are these assessments opportunities for feedback? What is the purpose?
 
-![](img/M3_7.png)
-![](img/M3_8.png)
-![](img/M3_9.png)
-![](img/M3_10.png)
-![](img/M3_11.png)
-![](img/M3_12.png)
-![](img/M3_14.png)
-![](img/M3_15.png)
-![](img/M3_16.png)
+![](img/M3_7.png){width=20%}
+![](img/M3_8.png){width=20%}
+![](img/M3_9.png){width=20%}
+![](img/M3_10.png){width=20%}
 
 ## Effective feedback
 
@@ -78,21 +73,18 @@ __Consider the context, e.g.:__
 - how
 - why
 
-## Reflection
+## Task: Effective Feedback (5mins)
 
 - By yourself, reflect on your experiences  _giving_  and  _receiving_  learning feedback. _What does effective feedback look like?_
-- Individually write down 3 adjectives, _one per sticky note._
-
-_Effective feedback should be…_
-
-## Group discussion
+- Individually write down 3 adjectives, one per sticky note: _Effective feedback should be…_
 
 - Share your 3 adjectives with your group and explain why you chose them.
-- Discuss everyone's adjectives and create a Group Top 5.
+
+We will make a big list together on PollEverywhere.
 
 ## Principles of effective feedback
 
-![](img/M3_23.png)
+![](img/M3_23.png){width=75%}
 
 ## Actionable
 
@@ -155,9 +147,9 @@ _Effective feedback should be…_
 Consider the approach below when providing feedback that promotes the 9 Principles. 
 You may also apply facilitation techniques where appropriate.
 
-![](img/M3_34.png)
-![](img/M3_35.png)
-![](img/M3_36.png)
+![](img/M3_34.png){width=25%}
+![](img/M3_35.png){width=25%}
+![](img/M3_36.png){width=25%}
 
 ## Challenges with feedback
 
@@ -172,70 +164,60 @@ You may also apply facilitation techniques where appropriate.
 
 What might you do to overcome or address these?
 
+## Convenor tips:
+
+We _really_ rely on tutors to give good feedback (1 convenor can't mark 400 assignments). Students want to know what the level of their work is and why, some students will attack feedback and use the content to appeal a grade.
+
+- For value judgements on work, align your adjectives with ANU grading rubric (more later): don't write "excellent work" when it's at the credit level. A credit is "good".
+- Good to say why the work was at the grade level, and good to say what areas prevent it from being higher.
+- If it's a fail, be clear: "This work does not meet our standards... (some parts) show developing understanding (these parts) could be improved".
+- Always address the work, not the student: "the proposed experiment design shows very good understanding of the topic" not "you understand the topic very well".
+
+**Be careful** about providing feedback in person (e.g., in labs) on assessment items outside of written communication. Students can (and do) use casual conversations as a basis for appeal.
+
 ## Takeaways
 
 - Focus on the task, not the learner.
 - Remain objective and measure the student’s work against the task objectives, marking criteria and standards.
 - Ensure feedback is clear, specific and tailored to the learner.
-- Avoid personalisation, e.g. "I …" and "you …" but also personally  _judgemental_  and  _emotive_  words.
-- Be careful when discussing marking guidelines, systems, processes or organisation etc.With students. Any student questions or concerns should go to convenors so that messaging is consistent.
+- Avoid personalisation, e.g. "I..." and "you..." but also personally _judgemental_ and _emotive_ words.
+- **Be careful** when discussing marking guidelines, systems, processes or organisation etc.With students. Any student questions or concerns should go to convenors so that messaging is consistent.
 - Encourage students to engage with feedback.
 
-# Evaluating feedback
+# Evaluating Feedback
 
-__Individual work__ ​
+## Task: Evaluating Code Feedback (10mins)
 
-You will receive a sample assessment with feedback examples from three different markers.
-
-![](img/M3_42.png)
-![](img/M3_43.png)
-![](img/M3_44.png)
-
-__By yourself, consider:__
+![](img/feedback_code_1.png){width=32%}
+![](img/feedback_code_2.png){width=32%}
+![](img/feedback_code_3.png){width=32%}
 
 - Which marker’s feedback is the most effective?
 - What makes it effective?
 - What impact would the feedback have on the student?
 
-## Coding examples
+## Task: Evaluating Essay Feedback (10mins)
 
-## __Group work__ ​
-
-Discuss your thoughts and ideas in your group.
-
-![](img/M3_45.png)
-![](img/M3_46.png)
-![](img/M3_47.png)
+![](img/feedback_essay_1.png){width=32%}
+![](img/feedback_essay_2.png){width=32%}
+![](img/feedback_essay_3.png){width=32%}
 
 - Which marker’s feedback is the most effective?
 - What makes it effective?
 - What impact would the feedback have on the student?
 
-## __Group work__ ​
+## Task: Evaluating Maths Feedback (10mins)
 
-Discuss your thoughts and ideas in your group.
-
-![](img/M3_51.png)
-![](img/M3_52.png)
-![](img/M3_53.png)
+![](img/feedback_math_1.png){width=32%}
+![](img/feedback_math_2.png){width=32%}
+![](img/feedback_math_3.png){width=32%}
 
 - Which marker’s feedback is the most effective?
 - What makes it effective?
 - What impact would the feedback have on the student?
 
-## __Group work__ ​
-
-Discuss your thoughts and ideas in your group.
-
-![](img/M3_57.png)
-![](img/M3_58.png)
-![](img/M3_59.png)
-
-- Which marker’s feedback is the most effective?
-- What makes it effective?
-- What impact would the feedback have on the student?
-
-## Generative AI & assessments
+<!-- 
+## Generative AI
 
 Generative AI is a quickly and constantly evolving domain. 
 Guidance, policies and practices are also changing in response.  
@@ -243,25 +225,27 @@ Here are some useful resources that are available now and relevant to your teach
 
 - "AI Essentials" resources on the Learning & Teaching blog [https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/](https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/)
 - ANU Library AI Guide[https://libguides.anu.edu.au/generative-ai](https://libguides.anu.edu.au/generative-ai)
-- Academic Skills: Best practice when using generative AI[https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using](https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using)
+- Academic Skills: Best practice when using generative AI[https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using](https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using) -->
 
-# Marking criteria
+# Rubrics and Marking Criteria
 
-## Marking with rubrics
+## Task: Talking about Rubrics (5mins)
 
-What do you know about rubrics?
-How are rubrics used in your college/team?
-How can/should students use rubrics?
-How can/should educators use rubrics?
+Let's have a bit of a discussion:
+
+- What do you know about rubrics or marking criteria?
+- How would you find out the marking rubric for a task?
+- How can/should students use rubrics?
+- How can/should educators use rubrics?
 
 ## Rubrics
 
 - Provide clear criteria for both student and marker.
 - Allow consistency and clear feedback – where and how students can improve.
 - Can be provide various levels of detail.
-- Can be used before  __(preparation)__ , during  __(production)__  and after  __(feedback, reflection, review and improvement)__  
+- Can be used before  __(preparation)__ , during  __(production)__  and after  __(feedback, reflection, review and improvement)__
 
-## the assessment process
+## Rubrics in the assessment process
 
 - __Before assessment:__
   - Unpack what is required.
@@ -278,22 +262,50 @@ How can/should educators use rubrics?
 
 ## ANU Grade Standards
 
-| Grade | Letter Grade | Numerical Mark (%) | Standards |
+| Grade | Letter Grade | Mark (%) | Standards |
 | :-: | :-: | :-: | :-: |
-| High Distinction | HD | 80-100 | Work of  __exceptional quality__ , as demonstrated in the attainment of learning outcomes at or above the relevant qualification level |
-| Distinction | D | 70-79 | Work of  __superior quality__ , as demonstrated in the attainment of learning outcomes at or above the relevant qualification level |
-| Credit | C | 60-69 | Work of  __good quality__ , as demonstrated in the attainment of learning outcomes at or above the relevant qualification level |
-| Pass | P | 50-59 | Work of  __satisfactory quality__ , as demonstrated in the attainment of learning outcomes at or above the relevant qualification level |
-| Fail | N | 0-49 | Work in which the attainment of learning outcomes at or above the relevant qualification level has not been demonstrated |
+| High Distinction | HD | 80-100 | __exceptional quality__... |
+| Distinction | D | 70-79 | __superior quality__... |
+| Credit | C | 60-69 | __good quality__...|
+| Pass | P | 50-59 | __satisfactory quality__... |
+| Fail | N | 0-49 | Attainment of learning outcomes has **not been demonstrated** |
 
 [ANU Policy: Student assessment (Coursework)](https://policies.anu.edu.au/ppl/document/ANUP_004603)
 
-## Sample rubrics
+## Rubric: Blog
 
-![](img/M3_64.png)
-![](img/M3_65.png)
-![](img/M3_66.png)
-![](img/M3_67.png)
+![](img/rubric_blog.png){width=60%}
+
+## Rubric: Essay
+
+![](img/rubric_essay.png){width=60%}
+
+## Rubric: Presentation
+
+![](img/rubric_presentation.png){width=60%}
+
+## Rubric: Sonic Artwork (COMP1720)
+
+::: {.small-table}
+
+| CRITERIA | HD | D | CR | P | N |
+|---|---|---|---|---|---|
+| Sophistication of articulation and application of concepts of computer-based art. (50%) | The artwork applies highly sophisticated concepts. The statement describes and critically engages in these qualities to an excellent or outstanding degree. | The artwork that applies sophisticated concepts. The statement that describes and discusses these qualities. | Some concepts have been applied but there may be gaps in sophistication. The statement describes these qualities. | The artwork that may only apply some concepts or apply them in a simplistic way. The statement describes these qualities. | The artwork does not sufficiently apply these concepts and the statement may not describe them sufficiently. |
+| Sophistication of application of visual and physical interaction concepts that reflects on recent developments. (25%) | Excellent to outstanding interactions that are expressive, sophisticated, and enhance the viewer’s experience. | Very good application interactions that are expressive and enhance the viewer’s experience. | Interactions that are expressive but may not enhance the viewer’s experience. | Interactions that may be simplistic rather than expressive and do not enhance the viewer’s experience. | The work may not feature significant interactive features or features that do not engage the viewer or enhance their experience. |
+| Sophistication of design and construction of a p5.js program that is appropriate for the task. (25%) | Excellent to outstanding program design that is appropriate for the task and supports a highly engaging experience for the viewer. | Very good program design that is appropriate for the task and supports an engaging experience for the viewer. | Good design and construction. The program is functional and sufficiently sophisticated to support the task. | The program is functional and supports the task, but may not be entirely appropriate or sufficiently sophisticated. | The program does not adequately support the task, is not appropriate, or is not sufficiently sophisticated. |{font-size: 12px;}
+
+:::
+
+## Rubric: Solo Computer Music Work (COMP4350)
+
+::: {.small-table}
+
+| CRITERIA | HD | D | CR | P | N |
+|---|---|---|---|---|---|
+| Sophistication of application of fundamental concepts in sound and music computing. (50%) | Excellent to outstanding SMC implementations going beyond learning materials. | Very good application of SMC concepts, but not beyond learning materials. | Application of SMC at level of learning materials. May have gaps in some areas. | Some effort to replicate SMC learning materials resulting in functional SMC software. May have only applied some SMC concepts covered. | Very little SMC software or software that is below the level of learning materials. |
+| Sophistication as a solo performance with a computer music instrument, of a computer music composition or as an interactive media work. (50%) | Excellent to outstanding performance. Sophisticated interaction and presentation demonstrating in-depth exploration of SMC software. Excellent adherence to the submission format. | Very good as a computer music performance with detailed interaction and presentation that demonstrates the SMC software. Excellent adherence to the submission format. | A good computer music performance that may not show sophisticated interaction and presentation of the SMC software. Good adherence to the submission format. | A satisfactory performance that may have limited interaction and weak presentation of the SMC software. The adherence to the submission format may be poor. | Below acceptable standards as a performance. May have very poor adherence to submission format. |
+
+:::
 
 ## Takeaways
 
@@ -305,3 +317,7 @@ How can/should educators use rubrics?
 - Take regular breaks to avoid fatigue or getting stuck.
 - Be selective, deliberate and learning-focused with your feedback.
 - Be clear about your feedback _before_ assigning a grade or marks.
+
+## More Resources
+
+- [High Impact Teaching Strategies](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf) (Victoria State Government)
