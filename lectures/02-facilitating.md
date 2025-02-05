@@ -5,6 +5,15 @@ author: Dr Charles Martin
 
 # Facilitating Learning
 
+## Task: Your Tutorial Experiences (5mins)
+
+Think of a time you had:
+
+- a good tutorial experience
+- a disappointing tutorial experience
+
+Discuss with your group and find one example of each (one good, one bad) to share.
+
 ## Facilitating Learning!
 
 This is really the main job of a **tutor**. (or is it?)
@@ -15,26 +24,13 @@ This is really the main job of a **tutor**. (or is it?)
 
 How do we get the students to _learn_?
 
-## Learning outcomes
+Let's look at _facilitation_ as a strategy and skill for you to have in your teaching.
 
-In this session we will:
 
-- _Identify_ the difference between instructing and facilitating
-- _Practise_ new facilitation skills
-- _Plan_ and _practise_ questions to guide learning
-
-## Task: Your Tutorial Experiences (5mins)
-
-Think of a time you had:
-
-- a good tutorial experience
-- a disappointing tutorial experience
-
-Discuss with your group and find one example of each (one good, one bad) to share.
 
 ## Approaches to learning
 
-![](img/M2_5.jpg)
+![](img/M2_5.jpg){width=40%}
 
 You are going to a [video](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
 Before you watch, consider the focus questions below.
@@ -92,25 +88,23 @@ Facilitation questions can be used to:
 
 Resource: [asking questions to support learning](https://melbourne-cshe.unimelb.edu.au/__data/assets/pdf_file/0006/3637923/asking-questions-to-support-student-learning_final.pdf)
 
-## Activity: Plan and prepare
+## Task: Facilitating a learning activity (15mins).
 
-Soon you are going facilitate an activity on your own.
-First: work with your group to plan and prepare.
+Soon you are going facilitate an activity to solve a puzzle on your own.
 
-- Group 1: Question Puzzle
-- Group 2: Dog Puzzle
-- Group 3: Rope Puzzle
+You'll need groups of three, and we will do this three times so that **everybody** gets to be the facilitator.
 
-<!-- TODO: can we adjust these activities to relate to  -->
+- Round 1: Dog Puzzle
+- Round 2: Rope Puzzle
+- Round 3: Question Puzzle
 
-## Activity: Practice
+In each group, one person will be **student**, one **facilitator** and one **observer**. Switch after each round.
 
-Now you are going facilitate the activity. 
-In your group, take turns to be:
+## Roles
 
-- facilitator
-- student
-- observer
+- **Student**: needs to solve the problem (or make some progress), unfortunately, you really have no idea how to accomplish this by yourself.
+- **Facilitator**: needs to use facilitation questions to help the student solve the problem.
+- **Observer**: needs to evaluate the facilitation going on. How much are the questions helping, how much are we hearing from the student?
 
 At the end of each turn, the observer provides peer feedback to the facilitator to improve.
 
@@ -135,6 +129,8 @@ How did the dog cross the river?
 
 - Imagine a circular fence enclosing an acre of grass. A [goat](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/) is inside the fence, tied to a post. 
 - How long does the rope have to be so that the goat can eat half the grass?
+
+# Challenges and Tips for Facilitation
 
 ## Dealing with challenges
 
@@ -174,8 +170,6 @@ def fibonacci(n):
 
 <!-- TODO: Make this more broken. -->
 Help me solve my own problem. (PS I didn't go to the lecture and neither did you.)
-
-# Takeaways
 
 ## Facilitating effectively:
 
