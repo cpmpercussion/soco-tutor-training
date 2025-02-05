@@ -1,5 +1,5 @@
 ---
-title: How to be a tutor at the School of Computing
+title: How to be a tutor in the College of Systems and Society
 author: Dr Charles Martin
 ---
 
