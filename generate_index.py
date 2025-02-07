@@ -34,7 +34,7 @@ def generate_index(info, md_files):
         body {{ font-family: Arial, sans-serif; max-width: 800px; margin: 2em auto; padding: 0 1em; }}
         h1 {{ color: #333; }}
         ol {{ line-height: 1.6; }}
-        a {{ color: #0066cc; text-decoration: none; margin-right: 1em; }}
+        a {{ color: #0066cc; text-decoration: none;}}
         a:hover {{ text-decoration: underline; }}
     </style>
 </head>
