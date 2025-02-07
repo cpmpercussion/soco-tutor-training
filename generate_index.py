@@ -2,6 +2,7 @@
 import sys
 import os
 import yaml
+import tomllib
 
 def extract_title(md_file):
     """Extract title from YAML front matter"""
@@ -19,22 +20,28 @@ def extract_title(md_file):
                     return os.path.basename(md_file)
     return os.path.basename(md_file)
 
-def generate_index(md_files):
+def generate_index(info, md_files):
     """Generate HTML index page with links to slides and PDFs"""
-    html = """<!DOCTYPE html>
+    title = info["title"]
+    institution = info["institution"]
+    author = info["author"]
+
+    html = f"""<!DOCTYPE html>
 <html>
 <head>
-    <title>Lecture Index</title>
+    <title>{title}</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 2em auto; padding: 0 1em; }
-        h1 { color: #333; }
-        ol { line-height: 1.6; }
-        a { color: #0066cc; text-decoration: none; margin-right: 1em; }
-        a:hover { text-decoration: underline; }
+        body {{ font-family: Arial, sans-serif; max-width: 800px; margin: 2em auto; padding: 0 1em; }}
+        h1 {{ color: #333; }}
+        ol {{ line-height: 1.6; }}
+        a {{ color: #0066cc; text-decoration: none; margin-right: 1em; }}
+        a:hover {{ text-decoration: underline; }}
     </style>
 </head>
 <body>
-    <h1>Lecture Index</h1>
+    <h1>{title}</h1>
+    <h3>{author}</h3>
+    <h3>{institution}</h3>
     <ol>
 """
     
@@ -56,9 +63,12 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         print("Usage: script.py output_file markdown_files...")
         sys.exit(1)
-        
+    
+    with open("_config.toml", "rb") as f:
+        info = tomllib.load(f)
+
     output_file = sys.argv[1]
     md_files = sys.argv[2:]
     
     with open(output_file, 'w') as f:
-        f.write(generate_index(md_files))
+        f.write(generate_index(info, md_files))

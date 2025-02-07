@@ -47,7 +47,7 @@ BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(BEAMER_DIR)/%.pdf,$(LECTURE_MDS)
 DZ_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(DZ_DIR)/%.html,$(LECTURE_MDS))
 
 # Default target
-all: reveal beamer $(INDEX_HTML)
+all: reveal beamer index
 
 # Create output directories including images
 .PHONY: directories
@@ -79,10 +79,11 @@ $(BEAMER_DIR)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
 
 
-$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS)
+$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS) generate_index.py
 	python3 $(INDEX_GENERATOR) $@ $(LECTURE_MDS)
 
-
+.PHONY: index
+index: $(INDEX_HTML)
 
 # Clean up generated files
 clean:
