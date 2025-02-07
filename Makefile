@@ -14,8 +14,6 @@ OUTPUT_IMAGES_DIR = $(REVEAL_DIR)/$(IMAGES_DIR)
 INDEX_HTML = $(OUTPUT_DIR)/index.html
 INDEX_GENERATOR = generate_index.py
 
-
-
 # Pandoc settings
 # -V revealjs-url=https://unpkg.com/reveal.js@4.5.0
 PANDOC = pandoc
@@ -39,7 +37,6 @@ BEAMER_OPTS = -t beamer \
 							-V colortheme=owl \
               --pdf-engine=xelatex
 
-
 # Find all markdown lecture files
 LECTURE_MDS = $(wildcard $(LECTURES_DIR)/*.md)
 REVEAL_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(REVEAL_DIR)/%.html,$(LECTURE_MDS))
@@ -47,6 +44,7 @@ BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(BEAMER_DIR)/%.pdf,$(LECTURE_MDS)
 DZ_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(DZ_DIR)/%.html,$(LECTURE_MDS))
 
 # Default target
+.PHONY: all
 all: reveal beamer index
 
 # Create output directories including images
@@ -61,38 +59,31 @@ directories:
 images: directories
 	cp -r $(IMAGES_DIR)/* $(OUTPUT_IMAGES_DIR)/
 
-
 # Create output directories
 $(REVEAL_DIR) $(BEAMER_DIR):
 	mkdir -p $@
 
 # Generate Reveal.js presentations
+.PHONY: reveal
 reveal: $(REVEAL_DIR) $(REVEAL_HTMLS) images
 
 $(REVEAL_DIR)/%.html: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(REVEAL_OPTS) $< -o $@
 
 # Generate Beamer PDFs
+.PHONY: beamer
 beamer: $(BEAMER_DIR) $(BEAMER_PDFS)
 
 $(BEAMER_DIR)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
 
-
-$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS) generate_index.py
+$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS) $(INDEX_GENERATOR)
 	python3 $(INDEX_GENERATOR) $@ $(LECTURE_MDS)
 
 .PHONY: index
 index: $(INDEX_HTML)
 
 # Clean up generated files
+.PHONY: clean
 clean:
-	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) 	$(OUTPUT_IMAGES_DIR) $(INDEX_HTML)
-
-.PHONY: all reveal beamer clean
-
-# Generate dzslides presenations
-# dzslides: $(DZ_DIR) $(DZ_HTMLS)
-
-# $(DZ_DIR)/%.html: $(LECTURES_DIR)/%.md
-# 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(DZ_OPTS) $< -o $@
+	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) $(OUTPUT_IMAGES_DIR) $(INDEX_HTML)
