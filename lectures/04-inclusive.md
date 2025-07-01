@@ -145,30 +145,11 @@ Inclusive education facilitates the access, participation and success of student
 * Provide accessible materials, content and environments.
 * Ensure students can see themselves reflected in materials and activities.
 
----
-
-Make the comment: Don’t expect a person to represent a particular group based on some characteristic (you perceive) that “identifies” them as (possibly) coming from specific group.
-
-For each point give an example:
-
-Use inclusive language, including respect for choice 
-e.g. be respectful of people's chosen pronouns.
-try not to always refer to people as he.
-
-Allow for individual differences in how students want to access materials and participate in activities.
-e.g. we talked about posting a Word document versus Pdf on the LMS site.
-
-Provide accessible materials, content and environments.
-E.g. When developing lecture and tutorial slides ensure they are accessible for a diverse audience. This includes the language used and the way it is delivered.
-
-Ensure students can see themselves reflected in materials and activities 
-e.g. educational materials, such as case studies and examples, in lectures and tutorials, should accurately reflect the diversity of the audience and society generally. 
-
 ## Creating your own inclusive space
 
-__Think. Pair. Share.__ 
+Think. Pair. Share:
 
-* Suggest 1 - 3 practical changes to content, materials and activities to promote that sense of inclusivity. 
+* Suggest 1--3 practical changes to content, materials and activities to promote inclusion. 
 * Be as specific as you can.
 * Think and write each idea on a separate sticky note.
 * Share your ideas with your partner.
@@ -207,12 +188,13 @@ __Student distress__: Beyond an intellectual challenge, involving emotional or p
 
 ## Promoting an environment for discussion
 
-* __Consider how you can promote a safe and inclusive space in which challenging topics can be discussed. __  _How might you:_
-    * Establish a safe and respectful learning environment?
-    * Establish expectations and boundaries?
-    * Prepare yourself?
-* _Group work_
-* You will receive a set of cards offering various recommendations to address these questions. Discuss each card with your group and match the recommendations to the respective question.
+Consider how you can promote a safe and inclusive space in which challenging topics can be discussed.  
+
+_How might you:_
+
+  * Establish a safe and respectful learning environment?
+  * Establish expectations and boundaries?
+  * Prepare yourself?
 
 ## 1. Establish a safe and respectful learning environment
 
@@ -230,7 +212,7 @@ Use an interested and supportive tone when responding to a question, even if you
 
 ## 2. Establish expectations and boundaries
 
-How would you  __ensure there __  __is a mutual understanding __ around course content, student and staff behaviour, and any boundaries that exist?
+How would you  __ensure there is a mutual understanding__ around course content, student and staff behaviour, and any boundaries that exist?
 
 __HINT: __ Ensure the students know what to do if academic discomfort becomes distress. This should include information about ANU support services.
 
@@ -341,24 +323,11 @@ Your classes have many international students who are in their first semester of
 
 __Extension:__ As part of the assessment task, students submitted a rating of peer contribution. These peer ratings affect the mark allocated to individuals within the group. You note that overall, the international students have consistently received much lower ratings than the domestic students.
 
----
-
-Ensure that prior to the task commencing and groups being formed that there is a discussion on what makes a strong team (along with support resources).
-Ensure that there is role-based agreement as part of the deliverables that clearly identifies what each group member will contribute.
-Design the peer assessment to be a reflective writing task rather than a simple rating. Provide examples of this kind of writing and deliverable.
-
 ## Scenario 2
 
 It is week 4 of semester, your tutorials are running well, and your students are thoroughly engaged in the interactive group tasks that you use in each tutorial. However, one student is always late to the tutorials, which disrupts the class as you must repeat the lesson instructions. They tend not to engage in the tasks and don’t interact with the other students in their group.
 
- __Extension: __   You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
-
----
-
-If possible, have the room open ahead of time so that the student can enter and find a place before the bulk of the other students arrive.
-Make the student aware of the Education Access Plan (EAP) process and that they can make a booking with the Accessibility Team if they feel that is appropriate for them.
-Provide materials or outlines ahead of time when possible, to allow the student to preview and prepare for the class.
-Allow for a mix of activity types to cater for various learning preferences, and where possible, allow the student to form groups with others they are comfortable with.
+ __Extension:__  You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
 
 ## Scenario 3
 
@@ -368,33 +337,14 @@ Then, however, one student repeatedly expresses the opinion that women should no
 
 __Extension:__ There is an assessment task requiring students to respond to statements related to gender roles in the IT industry in the LMS discussion forum. Over the weekend, the same student from the last scenario has written a lot of content that is sexist in content and aggressive in tone.
 
----
-
-Consider the educational value of discussing this topic. Could it be explored in a different way that is not alienating or threatening for students?
-Consider managing the forum differently for this activity. Certainly, emphasise and practice online expectations ahead of time.
-Integrate in the course material concrete examples of women contributing and leading the industry.
-
 ## Scenario 4
 
 You are teaching in an undergraduate program. You have noticed a change in one of your students. Initially the student was showing up to tutorials on time, neat and tidy and engaged. It is now week 7 and they are arriving late, looking fatigued and not engaging much in tutorial activities.
 
- __Extension: __   You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with   uni   after this semester.
-
----
-
-For your own understanding, seek advice from colleagues, student well-being and student support in the university residences.
-Ensure that the student is aware of the support services available to them.
-DO NOT attempt to provide counselling yourself.
-Ensure that your respect the student’s privacy.
+ __Extension:__  You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with   uni   after this semester.
 
 ## Scenario 5
 
 Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
 
- __Extension: __   You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
-
----
-
-Ensure that the student knows their options for addressing the matter with the university.
-Ensure that the student is aware of the support services available to them.
-Be supportive of their needs in class, e.g. respect their chosen name and how they wish to be addressed.
+ __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
