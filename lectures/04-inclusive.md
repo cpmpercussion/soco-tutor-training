@@ -12,8 +12,8 @@ Brought to you by: __ANU Centre for Learning and Teaching (CLT)__ _Developed in 
 __In this session we will:__
 
 * __Understand__  the concepts of equitable access to learning, accessibility and inclusive design
-* __Develop __ techniques and tools for creating an inclusive learning community in your class
-* __Develop __ techniques and tools for facilitating inclusive, respectful, and safe discussions
+* __Develop__ techniques and tools for creating an inclusive learning community in your class
+* __Develop__ techniques and tools for facilitating inclusive, respectful, and safe discussions
 * __Practise__  these tools and techniques within a safe environment
 
 # Introduction to Inclusive Teaching Practice
@@ -45,7 +45,6 @@ _[Guideline: Code of practice for teaching and learning](https://policies.anu.ed
 
 
 # Benefits of diversity and inclusion
-
 
 ## Diversity in the classroom
 
@@ -80,12 +79,6 @@ Everyone receives the same support regardless of need.
 Individuals receive the support they need to achieve the desired outcomes.
 
 Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)
-
----
-
-Elaborate with the following example:
-
-Equality is information uploaded as a Pdf on the course LMS site. Equity is same information uploaded as MS Word on the course LMS site. Why? When a Word document is uploaded it can be used in multiple ways to enable learning: Screen readers can be used for those who are visually impaired. The font is easier to change for those with dyslexia. Additional page breaks can be added to make it easier to read. Easy to edit the content and add notes.
 
 ## Barriers to learning
 
