@@ -255,23 +255,27 @@ A suggested approach:
 
 ## Key stages when managing class discussions
 
+1. Setting the scene
+2. Before the discussion
+3. During the discussion
+4. After the discussion
+
 We will explore a sample of these ideas now. 
 
-Stage 1: Setting the scene
+## Stage 1: Setting the scene
 
-__From the beginning of semester…​__
+__From the beginning of semester...​__
 
-Be transparent about course content and activities.
+Convenor responsibilities: 
 
-Identify where topics are optional
+- Be transparent about course content and activities.
+- Identify where topics are optional
 
-Establish a safe and respectful learning environment.
+Convenor and tutor responsibilities:
 
-Establish expectations and boundaries.
-
-Prepare yourself.
-
-__Convenor’s responsibilities__
+- Establish a safe and respectful learning environment.
+- Establish expectations and boundaries.
+- Prepare yourself.
 
 ## Your responsibilities and limitations
 
