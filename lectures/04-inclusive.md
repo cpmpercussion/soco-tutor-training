@@ -5,7 +5,7 @@ author: Dr Charles Martin
 
 # Inclusive Teaching Practice
 
-Brought to you by: __ANU Centre for Learning and Teaching (CLT)__ _Developed in consultation with Cait Greenup, Snr Education Designer (Inclusive Design)_
+Developed from slides provided by __ANU Centre for Learning and Teaching (CLT)__
 
 ## Learning outcomes
 
@@ -16,7 +16,12 @@ __In this session we will:__
 * __Develop__ techniques and tools for facilitating inclusive, respectful, and safe discussions
 * __Practise__  these tools and techniques within a safe environment
 
+Notes: read this guide.
+<https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf>
+
 # Introduction to Inclusive Teaching Practice
+
+
 
 ## ANU stance on diversity and inclusion
 
