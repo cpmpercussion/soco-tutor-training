@@ -293,9 +293,77 @@ ANU academic and professional staff are not expected to, nor should they, provid
 
 [ANU Safety and Well-being](https://www.anu.edu.au/students/contacts/student-safety-and-wellbeing)
 
-# Workshop – Scenarios
+# Inclusion Anti-Patterns
 
-## Scenarios
+## Dangerous Patterns for Inclusion
+
+> Can you think of any common teaching patterns that are dangerous for inclusion?
+
+- Doesn't have to be actively hostile to be a bit less inclusive than we would hope.
+- Some practices may be less-than-inclusive but necessary or desired (on balance)
+
+## A few ideas...
+
+> We supply the tools, it's up to the students to do the rest.
+
+> All students need to read and fully understand the exercises before attending class.
+
+> Your a third year CS student and you still don't know how to use Linux?
+
+# Principles of Inclusive Teaching
+
+Broadly adapted from:
+<https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf>
+
+This guide is designed for students from "underrepresented backgrounds" but it's kindof just good advice!
+
+## Know your students
+
+This will make it easier to see and respond to their needs.
+
+If you know your students you will _want_ to help and in many cases you will _know what to do when you see it_.
+
+## Design Inclusive Curricula
+
+But what can _tutors_ do about this?
+
+- help convenor by communicating course and class structures.
+- signpost difficult topics for students, help scaffold them during class.
+- clarify expectations for assessments, one good way: "I can't help with the assignment but THIS exercise in the lab is directly related and I CAN help with that".
+- help understand **rationale** for assessments.
+- provide actionable feedback (within reason)
+
+## Embed Academic Literacies
+
+- Explicity teach academic conventions
+- Encourage active engagement in academic texts
+- Explicity teach information literacy skills
+
+## Use diverse teaching strategies and resources
+
+- Help students interact and engage: how can we increase collaboration and belonging in our classes?
+- Incorporate real-world applications:
+- Integrate accessibility into your teaching.
+
+## Create an inclusive classroom environment
+
+- Cultivate a positive and inclusive classroom culture
+- Support goal setting and achievement
+- Encourage self-reflection
+- Promote positive role models
+
+## Embed support systems
+
+- Incorporate help seeking into classes - how can we encourage questions?
+- Direct students to available support resources
+
+## Facilitate continuous reflection
+
+- Reflect on the effectiveness of your teaching strategies
+- Elicit feedback from students.
+
+
+# Workshop – Scenarios
 
 Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
@@ -308,7 +376,7 @@ Each group will have 10 minutes to work through a scenario and formulate a resp
   * __Discuss__  your thoughts with the group, and  _together_  come up with preferred solutions.
   * __Share __ and __ discuss __ your solutions with the class (extra 2-3 minutes).
 
-## Scenario ALL
+## Scenario 0 (Everybody)
 
 _Think-Pair-Share_: You are teaching in an older building on campus. One of your students requires a walking stick for mobility purposes. In the first week, the student has alerted you to the fact and/or you have observed that to attend the class they have to climb three flights of stairs, as there is no lift available.
 
