@@ -2,22 +2,85 @@
 
 # Directories
 LECTURES_DIR = lectures
+RESOURCES_DIR = resources
+ASSESSMENTS_DIR = assessments
+WORKSHOPS_DIR = workshops
 TEMPLATES_DIR = templates
-IMAGES_DIR = img
-OUTPUT_DIR = output
-REVEAL_DIR = $(OUTPUT_DIR)/reveal
-BEAMER_DIR = $(OUTPUT_DIR)/beamer
-OUTPUT_IMAGES_DIR = $(REVEAL_DIR)/$(IMAGES_DIR)
-# DZ_DIR = output/dz
+OUTPUT_DIR = build
+IMAGE_DIR = img
+LECTURES_OUT = $(OUTPUT_DIR)/lectures
+ASSESSMENTS_OUT = $(OUTPUT_DIR)/assessments
+WORKSHOPS_OUT = $(OUTPUT_DIR)/workshops
+RESOURCES_OUT = $(OUTPUT_DIR)/resources
+REFERENCES = references.bib
+
+# Images
+LECTURES_IMG := $(wildcard lectures/img/*.png lectures/img/*.jpg)
+RESOURCES_IMG := $(wildcard resources/img/*.png resources/img/*.jpg)
+WORKSHOPS_IMG := $(wildcard workshops/img/*.png workshops/img/*.jpg)
+ASSESSMENTS_IMG := $(wildcard assessments/img/*.png assessments/img/*.jpg)
+ALL_SRC_IMGS := $(LECTURES_IMG) $(RESOURCES_IMG) $(WORKSHOPS_IMG) $(ASSESSMENTS_IMG)
+
+# build targets
+LECTURES_BUILD_IMG := $(patsubst lectures/img/%,build/lectures/img/%,$(LECTURES_IMG))
+RESOURCES_BUILD_IMG := $(patsubst resources/img/%,build/resources/img/%,$(RESOURCES_IMG))
+WORKSHOPS_BUILD_IMG := $(patsubst workshops/img/%,build/workshops/img/%,$(WORKSHOPS_IMG))
+ASSESSMENTS_BUILD_IMG := $(patsubst assessments/img/%,build/assessments/img/%,$(ASSESSMENTS_IMG))
+ALL_BUILD_IMGS := $(LECTURES_BUILD_IMG) $(RESOURCES_BUILD_IMG) $(WORKSHOPS_BUILD_IMG) $(ASSESSMENTS_BUILD_IMG)
 
 # Index generation
 INDEX_HTML = $(OUTPUT_DIR)/index.html
 INDEX_GENERATOR = generate_index.py
 
+# phony targets
+.PHONY: all
+all: reveal beamer assessments resources workshops images index
+
+.PHONY: public
+public: reveal index
+
+.PHONY: html
+html: reveal assessments resources workshops images index
+
+.PHONY: clean
+clean:
+	rm -rf $(OUTPUT_DIR)
+
+# images
+
+.PHONY: images
+images: $(ALL_BUILD_IMGS)
+
+# $(ALL_BUILD_IMGS): build/%/img/%: %/img/%
+# 	@mkdir -p $(dir $@)
+# 	cp $< $@
+
+$(OUTPUT_DIR)/$(LECTURES_DIR)/$(IMAGE_DIR)/%: $(LECTURES_DIR)/$(IMAGE_DIR)/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+
+$(OUTPUT_DIR)/$(ASSESSMENTS_DIR)/$(IMAGE_DIR)/%: $(ASSESSMENTS_DIR)/$(IMAGE_DIR)/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+
+$(OUTPUT_DIR)/$(RESOURCES_DIR)/$(IMAGE_DIR)/%: $(RESOURCES_DIR)/$(IMAGE_DIR)/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+
+$(OUTPUT_DIR)/$(WORKSHOPS_DIR)/$(IMAGE_DIR)/%: $(WORKSHOPS_DIR)/$(IMAGE_DIR)/%
+	@mkdir -p $(dir $@)
+	cp $< $@
+
 # Pandoc settings
 # -V revealjs-url=https://unpkg.com/reveal.js@4.5.0
 PANDOC = pandoc
-PANDOC_COMMON_OPTS = --standalone --slide-level 2
+PANDOC_COMMON_OPTS = --standalone \
+										 --slide-level 2 \
+										 --citeproc \
+										 --bibliography=$(REFERENCES) \
+										 --csl=apa.csl \
+										 --resource-path=.:$(LECTURES_DIR):$(ASSESSMENTS_DIR):$(RESOURCES_DIR):$(WORKSHOPS_DIR)
+
 REVEAL_OPTS = -t revealjs \
 							-V controls=true \
 							-V progress=true \
@@ -25,65 +88,110 @@ REVEAL_OPTS = -t revealjs \
 							-V width=1920 \
 							-V height=1080 \
 							-V margin=0.1 \
+							-V transition=fade \
+							-V backgroundTransition=fade \
+							-V hash=true \
+							-V history=false \
+							-V slideNumber=true \
 							--include-in-header css/slides.css \
-              -V theme=night
+							-V theme=night
 
-DZ_OPTS = -t dzslides
-# -V colortheme=nord \
- 
+PDF_OPTS = --metadata date="$(date '+%Y-%m-%d')" \
+						--output=$PORTFOLIO_PDF \
+						-V 'geometry: left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm' \
+		       -V 'papersize: a4' \
+					 -V 'pagestyle:headings' \
+					 -V 'fontfamily:libertine,sourcecodepro' \
+					 -V 'fontsize:11pt' \
+
 BEAMER_OPTS = -t beamer \
               -V aspectratio=169 \
 							-V theme=metropolis \
 							-V colortheme=owl \
-              --pdf-engine=xelatex
+							--pdf-engine=lualatex \
+							-V mainfont="Noto Sans" \
+							-V mainfontfallback="NotoColorEmoji:mode=harf"
+
+# --pdf-engine=xelatex
+# options for the pandoc HTML writer
+HTML_OPTS = -V mainfont="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
 
 # Find all markdown lecture files
 LECTURE_MDS = $(wildcard $(LECTURES_DIR)/*.md)
-REVEAL_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(REVEAL_DIR)/%.html,$(LECTURE_MDS))
-BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(BEAMER_DIR)/%.pdf,$(LECTURE_MDS))
-DZ_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(DZ_DIR)/%.html,$(LECTURE_MDS))
+REVEAL_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(LECTURES_OUT)/%.html,$(LECTURE_MDS))
+BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(LECTURES_OUT)/%.pdf,$(LECTURE_MDS))
 
-# Default target
-.PHONY: all
-all: reveal beamer index
+# Find all markdown resources
+RESOURCES_MDS = $(wildcard $(RESOURCES_DIR)/*.md)
+RESOURCES_HTMLS = $(patsubst $(RESOURCES_DIR)/%.md,$(RESOURCES_OUT)/%.html,$(RESOURCES_MDS))
 
-# Create output directories including images
+$(RESOURCES_OUT)/%.html: $(RESOURCES_DIR)/%.md
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(HTML_OPTS) $< -o $@
+
+# Generate resources
+.PHONY: resources
+resources: $(RESOURCES_OUT) $(RESOURCES_HTMLS)
+
+# Find all markdown assessments
+ASSESSMENTS_MDS = $(wildcard $(ASSESSMENTS_DIR)/*.md)
+ASSESSMENTS_HTMLS = $(patsubst $(ASSESSMENTS_DIR)/%.md,$(ASSESSMENTS_OUT)/%.html,$(ASSESSMENTS_MDS))
+ASSESSMENTS_PDFS = $(patsubst $(ASSESSMENTS_DIR)/%.md,$(ASSESSMENTS_OUT)/%.pdf,$(ASSESSMENTS_MDS))
+
+
+$(ASSESSMENTS_OUT)/%.html: $(ASSESSMENTS_DIR)/%.md
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(HTML_OPTS) $< -o $@
+
+$(ASSESSMENTS_OUT)/%.pdf: $(ASSESSMENTS_DIR)/%.md
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PDF_OPTS) $< -o $@
+
+# Generate assessments
+.PHONY: assessments
+assessments: $(ASSESSMENTS_OUT) $(ASSESSMENTS_HTMLS) $(ASSESSMENTS_PDFS) index
+
+# Find all markdown workshops
+WORKSHOPS_MDS = $(wildcard $(WORKSHOPS_DIR)/*.md)
+WORKSHOPS_HTMLS = $(patsubst $(WORKSHOPS_DIR)/%.md,$(WORKSHOPS_OUT)/%.html,$(WORKSHOPS_MDS))
+
+$(WORKSHOPS_OUT)/%.html: $(WORKSHOPS_DIR)/%.md
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(HTML_OPTS) $< -o $@
+
+# Generate workshops
+.PHONY: workshops
+workshops: $(WORKSHOPS_OUT) $(WORKSHOPS_HTMLS)
+
 .PHONY: directories
-directories:
-	mkdir -p $(REVEAL_DIR)
-	mkdir -p $(BEAMER_DIR)
-	mkdir -p $(OUTPUT_IMAGES_DIR)
-
-# Copy images to output directory
-.PHONY: images
-images: directories
-	cp -r $(IMAGES_DIR)/* $(OUTPUT_IMAGES_DIR)/
+directories: $(LECTURES_OUT) $(WORKSHOPS_OUT) $(ASSESSMENTS_OUT) $(RESOURCES_OUT)
 
 # Create output directories
-$(REVEAL_DIR) $(BEAMER_DIR):
+$(LECTURES_OUT) $(WORKSHOPS_OUT) $(ASSESSMENTS_OUT) $(RESOURCES_OUT):
 	mkdir -p $@
 
 # Generate Reveal.js presentations
 .PHONY: reveal
-reveal: $(REVEAL_DIR) $(REVEAL_HTMLS) images
+reveal: $(LECTURES_OUT) $(REVEAL_HTMLS) images $(LECTURES_OUT)/charles_reveal_dark.css
 
-$(REVEAL_DIR)/%.html: $(LECTURES_DIR)/%.md
+$(LECTURES_OUT)/%.html: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(REVEAL_OPTS) $< -o $@
 
-# Generate Beamer PDFs
-.PHONY: beamer
-beamer: $(BEAMER_DIR) $(BEAMER_PDFS)
+# Styles
+%/charles_reveal_dark.css: css/charles_reveal_dark.scss
+	sass --style=compressed css/charles_reveal_dark.scss $@
 
-$(BEAMER_DIR)/%.pdf: $(LECTURES_DIR)/%.md
+# Generate Beamer Lecture PDFs
+
+.PHONY: beamer
+beamer: $(LECTURES_OUT) $(BEAMER_PDFS)
+
+$(LECTURES_OUT)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
 
-$(INDEX_HTML): $(LECTURE_MDS) $(REVEAL_HTMLS) $(BEAMER_PDFS) $(INDEX_GENERATOR)
-	python3 $(INDEX_GENERATOR) $@ $(LECTURE_MDS)
+
+
+
+# Index
+
+$(INDEX_HTML): $(LECTURE_MDS) $(ASSESSMENTS_MDS) $(WORKSHOPS_MDS) $(RESOURCES_MDS) $(INDEX_GENERATOR)
+	python3 $(INDEX_GENERATOR) $@ $(OUTPUT_DIR)
 
 .PHONY: index
 index: $(INDEX_HTML)
-
-# Clean up generated files
-.PHONY: clean
-clean:
-	rm -rf $(REVEAL_DIR) $(BEAMER_DIR) $(OUTPUT_IMAGES_DIR) $(INDEX_HTML)

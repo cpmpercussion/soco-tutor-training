@@ -1,4 +1,5 @@
 *.pptx
 old-slides
 output
+build
 pptx

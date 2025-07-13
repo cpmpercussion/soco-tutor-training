@@ -31,9 +31,6 @@ jobs:
       - name: Install Python and Dependencies
         run: |
           apk add --no-cache python3 py3-pip py3-yaml make 
-          # python3 -m venv /venv
-          # . /venv/bin/activate
-          # pip install pyyaml
           tlmgr update --self
           tlmgr install libertine \
                   sourcecodepro \
@@ -46,10 +43,17 @@ jobs:
                   pgfopts \
                   beamercolorthemeowl
 
-      - name: Build Lectures
+      - name: Install Dart Sass
         run: |
-          # . /venv/bin/activate
-          make all
+          wget -O dart-sass.tar.gz https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-linux-x64-musl.tar.gz
+          tar -xzf dart-sass.tar.gz -C /usr/local/
+          echo "/usr/local/dart-sass" >> $GITHUB_PATH
+          rm dart-sass.tar.gz
+          /usr/local/dart-sass/sass --version
+
+      - name: Build public documents for website
+        run: |
+          make public
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -57,7 +61,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './output'
+          path: './build'
 
       - name: Deploy to GitHub Pages
         id: deployment
