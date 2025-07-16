@@ -3,43 +3,23 @@ title: Inclusive Teaching Practice
 author: Dr Charles Martin
 ---
 
-# Inclusive Teaching Practice
+## Plan for this session
 
-Developed from slides provided by __ANU Centre for Learning and Teaching (CLT)__
+As a _student_ you have had to teach yourself. Tutoring means working with others with different backgrounds and experiences.
 
-## Learning outcomes
+1. Benefits of inclusive teaching 
+2. Equitable access to learning
+3. Inclusion anti-patterns
+4. Strategies for inclusive teaching
+5. Scenario discussions
 
-__In this session we will:__
+## ANU stance on inclusion
 
-* __Understand__  the concepts of equitable access to learning, accessibility and inclusive design
-* __Develop__ techniques and tools for creating an inclusive learning community in your class
-* __Develop__ techniques and tools for facilitating inclusive, respectful, and safe discussions
-* __Practise__  these tools and techniques within a safe environment
+> Membership of the ANU community means committing to our institutional values, including “being a standard-bearer for equity and inclusion”. [ANU Strategic Plan 2021-2025](https://www.anu.edu.au/about/strategic-planning/anu-strategic-plan-2021-2025)
 
-Notes: read this guide.
-<https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf>
+![Inclusion, equity and diversity are ANU values.](img/anu_values.png)
 
-# Introduction to Inclusive Teaching Practice
-
-
-
-## ANU stance on diversity and inclusion
-
-> Membership of the ANU community means committing to our institutional values, including “being a standard-bearer for equity and inclusion”.
-
-![](img/anu_values.png)
-
-[ANU Strategic Plan 2021-2025](https://www.anu.edu.au/about/strategic-planning/anu-strategic-plan-2021-2025)
-
-## Code of practice for teaching and learning at ANU
-
-  * All involved in L&T
-  * Students
-  * Teachers
-
-_[Guideline: Code of practice for teaching and learning](https://policies.anu.edu.au/ppl/document/ANUP_000726#:~:text=Teach%20courses%20in%20a%20structured,taught%20content%20and%20assessment%20tasks.)_
-
-## Code of practice: Key points for teaching staff
+## Code of practice for teaching and learning 
 
 * _Respect diversity,_  e.g., diversity of culture, religious belief, age, race, gender and other personal and group-based attributes. 
 * _Recognise_ that _diversity_ of student and staff  backgrounds, opinions and views _is a valuable resource_ for enhancing critical, motivated and dialogic teaching and learning. 
@@ -71,19 +51,14 @@ Now that you have watched the video, make a note for yourself (1 minute):
 
 > What does inclusive teaching mean to me?
 
-As you develop as teachers, you will either informally or formally develop a teaching philosophy.
-
 # What is equitable access to learning?
 
-## Key definitions
+## A definition of equity
 
-![](img/equity.png)
+![Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)](img/equity.png)
 
-Everyone receives the same support regardless of need.
-
-Individuals receive the support they need to achieve the desired outcomes.
-
-Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)
+- Everyone receives the same support regardless of need.
+- Individuals receive the support they need to achieve the desired outcomes.
 
 ## Barriers to learning
 
@@ -159,163 +134,42 @@ When teaching, where could you provide diverse representation in your course ma
 
 How can you ensure your students can see themselves in the materials?
 
-# Facilitating discussion of challenging topics
-
-## Challenging topics
-
-Students typically may need to engage with topics, ideas and concepts that may be challenging, due to:
-
-* polarised or strongly held  __opinions__  or  __ideologies__;
-* __lived experience__  of traumatic events or unsafe environments;
-* __strong emotions__  or even  __distress__  when engaging directly with this content;
-* __prior interactions__  with the teaching staff or other students;
-* feeling  __unfairly burdened__  by the expectation of representing a marginalised group(s).
-
-## Challenging topics
-
-__Discuss__:
-
-* What value to students is there in discussing   challenging topics in the classroom?
-* How does this help your students?
-
-## Be aware of the difference between…
-
-__Academic discomfort__: The intellectual challenge students experience when they engage with new, complex, or controversial ideas.
-
-__Student distress__: Beyond an intellectual challenge, involving emotional or psychological strain that can hinder a student's ability to learn effectively.
-
-## Promoting an environment for discussion
-
-Consider how you can promote a safe and inclusive space in which challenging topics can be discussed.  
-
-_How might you:_
-
-  * Establish a safe and respectful learning environment?
-  * Establish expectations and boundaries?
-  * Prepare yourself?
-
-## 1. Establish a safe and respectful learning environment
-
-How would you __create a safe space__ where students feel comfortable expressing their thoughts and opinions without fear of judgment or reprisal?
-
-**Hint**: Where possible, plan to have highly challenging conversations later in the semester, when students have had the opportunity to develop rapport with one another.
-
-Conduct a short, (e.g. 5-minute) check-in at the beginning of tutorials to see how students are feeling about their studies.
-
-Actively model respect for differing perspectives in both asynchronous and synchronous discussions.
-
-Explicitly invite dissenting views from students and model respectful engagement in the discussion. Take care not to single out specific students for dissenting views.
-
-Use an interested and supportive tone when responding to a question, even if you feel that the question was overly simplistic or off topic. Seek clarification from the  student.
-
-## 2. Establish expectations and boundaries
-
-How would you  __ensure there is a mutual understanding__ around course content, student and staff behaviour, and any boundaries that exist?
-
-__HINT: __ Ensure the students know what to do if academic discomfort becomes distress. This should include information about ANU support services.
-
-Remind students of their responsibilities under the Student Code of Conduct.
-
-Establish clear guidelines and boundaries with the students for respecting perspectives and experiences during discussion, e.g. no interruptions, blame or inflammatory language;  use objective language etc.
-
-Seriously consider points-of-view that differ from your current thinking and be open to changing your own perspectives based on what you learn from others.
-
-Emphasise to the students the importance of active listening. One way to frame it is: “Listening and understanding is not the same as agreeing”. Being willing to listen and understand is how learning happens.
-
-## 3. Prepare yourself
-
-How could you prepare yourself for discussing difficult course topics, noting that sometimes unplanned discussions can also occur?
-
-__HINT:__ Check in with your course convenor to ensure that you are adequately prepared and supported.
-
-__The convenor will be able to give you:__   advance notice of the content, expectations around how that content will be managed, and direction to resources for maintaining your own and their students' wellbeing.
-
-Consider how you might deal, emotionally and pedagogically, with potentially challenging topics. Consider how you would respond should you be asked for your view during a challenging discussion.
-
-Think about the kind of behaviour you want to see from your students and how you might promote and model it.
-
-Reflect upon your own preconceptions and assumptions of others.
-
-Do not make assumptions about a student’s identity or to expect them to speak for an entire demographic, ethnic, religious or cultural group.
-
-Speak to your convenor and other teaching staff in your course about how they are planning to approach challenging topics in their own courses.
-
-## Key strategies for engaging with challenging topics.
-
-1. Foster a respectful learning environment
-2. Critically review your course content to ensure specific topics are essential to learning.
-3. Prepare for and manage both planned and unplanned discussions on difficult topics.
-4. Know about and refer students to support services.
-5. Seek support for yourself, if necessary.
-
-Source: Student wellbeing in the classroom: A CLT guide to discussing challenging topics for educators.
-
-## Managing unplanned discussions
-
-A suggested approach:
-
-* Decide whether you are __willing to engage__  with the topic and if you are prepared emotionally and pedagogically to continue.
-* If you do pursue a discussion, __set a time limit__  for the discussion, and then __look to the strategies provided__ previously for suggestions about facilitating the discussion.
-* Be prepared to __step in proactively__ to protect students from inappropriate behaviour from other students using techniques provided above.
-
-## Key stages when managing class discussions
-
-1. Setting the scene
-2. Before the discussion
-3. During the discussion
-4. After the discussion
-
-We will explore a sample of these ideas now. 
-
-## Stage 1: Setting the scene
-
-__From the beginning of semester...​__
-
-Convenor responsibilities: 
-
-- Be transparent about course content and activities.
-- Identify where topics are optional
-
-Convenor and tutor responsibilities:
-
-- Establish a safe and respectful learning environment.
-- Establish expectations and boundaries.
-- Prepare yourself.
-
-## Your responsibilities and limitations
-
-ANU academic and professional staff are not expected to, nor should they, provide counselling, except where they are employed for that specific purpose.
-
-* Know your boundaries
-* Consult your convenor
-* Refer to experts and professionals
-* [Review the ANU Policy: Support for students](https://policies.anu.edu.au/ppl/document/ANUP_7742264)
-
-[ANU Safety and Well-being](https://www.anu.edu.au/students/contacts/student-safety-and-wellbeing)
-
 # Inclusion Anti-Patterns
 
-## Dangerous Patterns for Inclusion
+![Photo by seabass creatives on Unsplash](img/seabass-creatives-U3m4_cKbUfc-unsplash.jpg)
+
+## Inclusive teaching is not automatic.
+
+- Our teaching is probably not inclusive enough.
+- Some typical ways of working leave students out.
+- We need to work hard to detect inclusion anti-patterns and to mitigate or eliminate the effects.
+
+> Inclusive teaching is valued at CSS, that's why we are spending time on it today!
+
+## Task: Dangerous Patterns for Inclusion (5mins)
 
 > Can you think of any common teaching patterns that are dangerous for inclusion?
 
 - Doesn't have to be actively hostile to be a bit less inclusive than we would hope.
 - Some practices may be less-than-inclusive but necessary or desired (on balance)
 
-## A few ideas...
+Discuss as groups, and share an example from each table. 
+
+## Heard around ANU: why are these statements problematic?
 
 > We supply the tools, it's up to the students to do the rest.
 
 > All students need to read and fully understand the exercises before attending class.
 
-> Your a third year CS student and you still don't know how to use Linux?
+> All third year CS students should be comfortable using Linux.
 
-# Principles of Inclusive Teaching
+How do these statements interact with the idea of _academic standards_?
 
-Broadly adapted from:
-<https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf>
+# Strategies for Inclusive Teaching
 
-This guide is designed for students from "underrepresented backgrounds" but it's kindof just good advice!
+![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=50%}
+
+Broadly adapted from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)
 
 ## Know your students
 
@@ -362,19 +216,13 @@ But what can _tutors_ do about this?
 - Reflect on the effectiveness of your teaching strategies
 - Elicit feedback from students.
 
-
-# Workshop – Scenarios
+# Scenario Discussions
 
 Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
-* _Phase 1:_  _ Think-Pair-Share (Front of sheet)_
-  * __Consider __ the  scenario  and  __think__  about your response.
-  * __Pair __ with  _another group member_  to share and discuss your thoughts.
-  * __Share__  and  __discuss__  your preferred solutions with the group.
-* _Phase 2:_  _ Reflection and extension (Back of sheet)_
-  * __Consider__  the  “extension” information  and whether it changes your approach.
-  * __Discuss__  your thoughts with the group, and  _together_  come up with preferred solutions.
-  * __Share __ and __ discuss __ your solutions with the class (extra 2-3 minutes).
+- __Consider__ the  scenario  and  __think__  about your response.
+- __Pair__ with  _another group member_  to share and discuss your thoughts.
+- __Share__  and  __discuss__  your preferred solutions with the group.
 
 ## Scenario 0 (Everybody)
 
@@ -418,3 +266,4 @@ You are teaching in an undergraduate program. You have noticed a change in one o
 Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
 
  __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
+
