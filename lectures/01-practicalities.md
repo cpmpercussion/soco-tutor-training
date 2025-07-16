@@ -59,10 +59,9 @@ _Examples:_ piano teaching kids, coaching soccer team, homework help for high-sc
 - **Meeting with course convenors and other tutors:** going to meetings, understanding duties and tasks, providing ideas/info, incorporating feedback
 - **Filling in timesheets, doing admin:** navigating ANU websites, understanding rights/responsibilities at work, asking for help
 
-## Timesheets and hours
+## Timesheets, hours, and earnings codes
 
-Every two weeks you will need to fill in a timesheet on HORUS (the ANU HR website). You won't get paid until you fill in the timesheet and your manager (course convenor) approves it!
-
+Every two weeks you will need to fill in a timesheet on HORUS (the ANU HR website). 
 Tricky because of way ANU accounts for teaching hours through "earnings codes" where 1 unit of the code may include more than 1 hour of work.
 
 - T42: Marking: 1-to-1 ratio
@@ -74,7 +73,7 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 
 ## What is associated working time?
 
-[S2.5---S2.6](https://services.anu.edu.au/human-resources/enterprise-agreement/schedule-2-casual-sessional-academic-activities-and-rates)
+ANU Enterprise Agreemtns [S2.5---S2.6](https://services.anu.edu.au/human-resources/enterprise-agreement/schedule-2-casual-sessional-academic-activities-and-rates)
 
 - Preparing of teaching activities
 - Contemporaneous marking
@@ -88,12 +87,15 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 - It's in the Enterprise Agreement
 - Provides guarantees of hours throughout the semester
 - Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
-- Provides an automatic allowance for preparation, Q&A and admin work. **Your manager** needs to provide tasks for you to complete for this time.
+- Provides an automatic allowance for preparation, Q&A and admin work. 
+
+**Your manager** needs to provide tasks for you to complete in Associated Working Time.
 
 ## A worked example:
 
-- In one week, Charles the tutor teaches two 1.5-hour labs and 3 hours of preparation, marking, admin, consultation and meetings related to those labs.
-- He also does 3 hours of marking assignments and 1 hour writing test cases for the exam.
+- Charles the tutor teaches two 1.5-hour labs, 3 hours of work (preparation, marking, admin, consultation and meetings) related to those labs, 
+- 3 hours of marking assignments, 
+- and 1 hour writing test cases for the exam.
 
 | **Code** | **Units** | **Teaching Time** | **Associated Working Time** | **Total Hours Worked/Paid** |
 |---|---|---|---|---|
@@ -107,14 +109,12 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 In the School of Computing, many of our classes have a 1.5 hour teaching + 0.5 hour drop-in individual consulting structure.
 
 - Computer Lab: 1.5 hours (T21/23 teaching)
-- Drop-in: 0.5 hours (taken from the associated hours from the T21/23 hours)
-
-The consultation time is scheduled into the timetable.
+- Drop-in: 0.5 hours (taken from the associated hours)
 
 **Charles advice**:
 
 - At the end of 1.5 hours announce "the tutorial is now over, I am staying until X o'clock to answer individual questions."
-- Answer questions about any aspect of the course (redirect problem quesitons to the forum and help the student to write and submit the post). It doesn't have to be questions about this week's lab work.
+- Answer questions about any aspect of the course (redirect problem quesitons to the forum and help the student to write and submit the post). 
 - Don't do any **group teaching** in consultation time.
 
 ## Submitting your timesheet
@@ -123,11 +123,9 @@ The consultation time is scheduled into the timetable.
 ::: {.column width="50%"}
 Submit your timesheet **on time**. (please!!) 
 
-Suggested submit date is the [last Sunday in each two-week pay period](https://services.anu.edu.au/information-technology/software-systems/hr-online-remote-user-system/timesheet-approval-cut-off). Actual due date _can change_ due to public holidays.
-
-And **double check that you get paid!**
-
-Link: [Timesheets FAQ](https://services.anu.edu.au/information-technology/software-systems/hr-management-system/casual-academic-timesheets-faqs)
+- Suggested submit date is the [last Sunday in each two-week pay period](https://services.anu.edu.au/information-technology/software-systems/hr-online-remote-user-system/timesheet-approval-cut-off). Actual due date _can change_ due to public holidays.
+- And **double check that you get paid!**
+- [Timesheets FAQ](https://services.anu.edu.au/information-technology/software-systems/hr-management-system/casual-academic-timesheets-faqs)
 :::
 ::: {.column width="50%"}
 ![Photo by Joshua Olsen on Unsplash](img/joshua-olsen-4XZ_vIH1x3M-unsplash.jpg)
@@ -136,7 +134,7 @@ Link: [Timesheets FAQ](https://services.anu.edu.au/information-technology/softwa
 
 ## Safety: What to do if something bad happens?
 
-Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve!
+⚠️⚠️⚠️ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve! ⚠️⚠️⚠️
 
 **Prioritise your safety. Just walk out.**
 
@@ -155,14 +153,14 @@ Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety
 
 
 :::::::::::::: {.columns}
-::: {.column width="40%"}
+::: {.column width="50%"}
 - Other tutors: course team / communication channels (varies by course)
 - Course Convenor (your direct manager)
 - School of Computing front desk (CSIT Level 3 or <admin.comp@anu.edu.au>)
 - Peter Hoefner - Associate Director (Education) in School of Computing: <adir.education.comp@anu.edu.au>
 - **me** - Assistant to the above - also <adir.education.comp@anu.edu.au>
 :::
-::: {.column width="60%"}
+::: {.column width="50%"}
 ![Photo by Matthew Waring on Unsplash](img/matthew-waring-MJAoiige14E-unsplash.jpg)
 :::
 ::::::::::::::
@@ -172,7 +170,7 @@ Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety
 Communicate:
 
 - Your convenor is your main "boss" and contact point for your job. 
-- You will probably meet with them (and your co-tutors) regularly and need to learn about how they operate.
+- You will need to learn about how they operate.
 - Dynamic can change! Work _instructions_ are different to learning _suggestions_: e.g., how much time to spend on a task.
 
 Listen, observe, be understanding:
@@ -230,19 +228,31 @@ Education, 18:3, 315-328, DOI: [10.1080/03075079312331382241](https://doi.org/10
 
 ## Phase 1: Emphasis on Teaching
 
-![A teacher up the front](img/jason-goodman-Oalh2MojUuk-unsplash.jpg){width=35%}
-
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 1. **Focus on self**: Survival in front of a class! Learning how to explain, fear of not knowing the "right" answers.
 2. **Focus on subject**: Covering the topic thoroughly (more than a student!). Preparing packaged, inspiring, and interesting content.  Fear of running out of time!
 3. **Focus on student**: Students are different! Prepare alternatives formulas and explanations. Learn about student needs, awareness of multiple valid approaches.
+:::
+::: {.column width="40%"}
+![A teacher up the front](img/jason-goodman-Oalh2MojUuk-unsplash.jpg)
+:::
+::::::::::::::
+
 
 ## Phase 2: Emphasis on Learning
 
-![A teacher at the side](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg){width=35%}
-
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 4. **Student as active**: Let students do the work! Coaching students in applied learning activities. Teaching less, but more learning occurs.
 5. **Student as independent**: Coach students in learning how to learn. Let students independently explore. (What knowledge will be important in computing in 20 years?)
 6. **Tuning**: Established skills in previous stages. Move between stages as necessary, updating and experimenting.
+:::
+::: {.column width="40%"}
+![A teacher at the side](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg)
+:::
+::::::::::::::
+
 
 ## Risks
 
@@ -421,9 +431,9 @@ The students complete practice problems from the lab webpage.
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-The tutor explains the concept of recursion by visualising a recursive datatype. The tutor shows the following image on the board and explains how count the number of people in the list recursively:
+The tutor shows this image on the board and explains how count the number of people in the list recursively.
 
-- The tutor provides recursion problems to solve by using visualisation. The tutor moves around the room checking the students’ work.
+- The tutor provides recursion problems to solve using visualisation. The tutor moves around the room checking the students’ work.
 - When the students have understood the concept, the tutor shows on the board how to answer these types of questions _without_ the visualisation.
 :::
 ::: {.column width="50%"}
@@ -437,8 +447,8 @@ The tutor explains the concept of recursion by visualising a recursive datatype.
 ::: {.column width="50%"}
 The tutor puts students in groups to solve recursion problems on the lab webpage.
 
-- The tutor moves ensures that students work on problems at the right level to them, grouping students of similar levels together.
-- The tutor looks out moments when students are ready for harder problems, points to advanced techniques.
+- The tutor groups students of similar levels together.
+- The tutor looks out for moments when students are ready for harder problems pointing to advanced techniques.
 - If students are finished quickly, the tutor has challenging problems ready, or asks them to help others.
 :::
 ::: {.column width="50%"}
