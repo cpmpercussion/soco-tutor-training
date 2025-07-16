@@ -50,18 +50,6 @@ _Examples:_ piano teaching kids, coaching soccer team, homework help for high-sc
 - 2022: Developed study programs for Human Centred and Creative Computing (HCCC-MAJ, HCCC-MIN, HCCC-SPEC, HCCM-SPEC)
 - 2025: New this year! Training new CSAs, teaching COMP3900/6390.
 
-<!-- ## Teaching Values
-
-I'm a Senior Fellow of the Higher Education Academy where we follow a [Professional Standards Framework](https://www.advance-he.ac.uk/teaching-and-learning/psf); one part of this is 5 _values_:
-
-- **V1**: respect individual learners and diverse groups of learners
-- **V2**: promote engagement in learning and equity of opportunity for all to reach their potential
-- **V3**: use scholarship, or research, or professional learning, or other evidence-informed approaches as a basis for effective practice
-- **V4**: respond to the wider context in which higher education operates, recognising implications for practice
-- **V5**: collaborate with others to enhance practice
-
-Talking to you is in accordance with these values! -->
-
 ## What's tutoring like?
 
 - **Teaching labs:** standing at the front speaking to a whole class, helping individuals with work, answering questions, listening to problems and issues, helping students learn!
@@ -98,6 +86,7 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 - It's in the Enterprise Agreement
 - Provides guarantees of hours throughout the semester
 - Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
+- Provides an automatic allowance for preparation, Q&A and admin work. **Your manager** needs to provide tasks for you to complete for this time.
 
 ## A worked example:
 
@@ -110,6 +99,21 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 | T23 Repeat Teaching | 2 | 2 | 2 | 4 |
 | T42 Marking | 3 |  |  | 3 |
 | T44 Other | 1 |  |  | 1 |
+
+## School of Computing: 1.5 + 0.5 structure
+
+In the School of Computing, many of our classes have a 1.5 hour teaching + 0.5 hour drop-in individual consulting structure.
+
+- Computer Lab: 1.5 hours (T21/23 teaching)
+- Drop-in: 0.5 hours (taken from the associated hours from the T21/23 hours)
+
+The consultation time is scheduled into the timetable.
+
+**Charles advice**:
+
+- At the end of 1.5 hours announce "the tutorial is now over, I am staying until X o'clock to answer individual questions."
+- Answer questions about any aspect of the course (redirect problem quesitons to the forum and help the student to write and submit the post). It doesn't have to be questions about this week's lab work.
+- Don't do any **group teaching** in this time.
 
 ## Submitting your timesheet
 
