@@ -30,6 +30,8 @@ _Acknowledgements:_ Many slides here created by members of the former ANU Centre
 
 # How to be a tutor
 
+![An ANU classroom in the Fulton Muir Building](img/anu-classroom.jpg){width=50%}
+
 ## Task: Journey as an educator (5mins)
 
 Everybody here has experience as a **learner** but this might be the start of your journey as an **educator**.
@@ -90,13 +92,13 @@ Source: [ANU Academic Casual Sessional Rates](https://services.anu.edu.au/human-
 
 ## A worked example:
 
-- In one week, Charles the tutor teaches two 2-hour labs and 6 hours of preparation, marking, admin, consultation and meetings related to those labs.
+- In one week, Charles the tutor teaches two 1.5-hour labs and 3 hours of preparation, marking, admin, consultation and meetings related to those labs.
 - He also does 3 hours of marking assignments and 1 hour writing test cases for the exam.
 
-| Code | Units | Teaching Time | Associated Working Time | Actual Hours Work/Pay |
+| **Code** | **Units** | **Teaching Time** | **Associated Working Time** | **Total Hours Worked/Paid** |
 |---|---|---|---|---|
-| T21 Teaching | 2 | 2 | 4 | 6 |
-| T23 Repeat Teaching | 2 | 2 | 2 | 4 |
+| T21 Teaching | 1.5 | 1.5 | 3 | 4.5 |
+| T23 Repeat Teaching | 1.5 | 1.5 | 1.5 | 3 |
 | T42 Marking | 3 |  |  | 3 |
 | T44 Other | 1 |  |  | 1 |
 
@@ -113,10 +115,12 @@ The consultation time is scheduled into the timetable.
 
 - At the end of 1.5 hours announce "the tutorial is now over, I am staying until X o'clock to answer individual questions."
 - Answer questions about any aspect of the course (redirect problem quesitons to the forum and help the student to write and submit the post). It doesn't have to be questions about this week's lab work.
-- Don't do any **group teaching** in this time.
+- Don't do any **group teaching** in consultation time.
 
 ## Submitting your timesheet
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Submit your timesheet **on time**. (please!!) 
 
 Suggested submit date is the [last Sunday in each two-week pay period](https://services.anu.edu.au/information-technology/software-systems/hr-online-remote-user-system/timesheet-approval-cut-off). Actual due date _can change_ due to public holidays.
@@ -124,7 +128,11 @@ Suggested submit date is the [last Sunday in each two-week pay period](https://s
 And **double check that you get paid!**
 
 Link: [Timesheets FAQ](https://services.anu.edu.au/information-technology/software-systems/hr-management-system/casual-academic-timesheets-faqs)
-
+:::
+::: {.column width="50%"}
+![Photo by Joshua Olsen on Unsplash](img/joshua-olsen-4XZ_vIH1x3M-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Safety: What to do if something bad happens?
 
@@ -145,10 +153,19 @@ Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety
 
 ## Where to get help 
 
+
+:::::::::::::: {.columns}
+::: {.column width="40%"}
 - Other tutors: course team / communication channels (varies by course)
 - Course Convenor (your direct manager)
 - School of Computing front desk (CSIT Level 3 or <admin.comp@anu.edu.au>)
-- Peter Hoefner - Associate Director (Education) in School of Computing: <peter.hoefner@anu.edu.au>
+- Peter Hoefner - Associate Director (Education) in School of Computing: <adir.education.comp@anu.edu.au>
+- **me** - Assistant to the above - also <adir.education.comp@anu.edu.au>
+:::
+::: {.column width="60%"}
+![Photo by Matthew Waring on Unsplash](img/matthew-waring-MJAoiige14E-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Working with convenors
 
@@ -164,10 +181,15 @@ Listen, observe, be understanding:
 - Convenors can get **stressed**: budgets, plagiarism, appeals, marking, deadlines and this is only 40% of our job!
 - If you aren't getting a reply consider: Are they trying to write their book? Are they at a conference?
 
-# Developing as an Educator
+# Developing as an educator
+
+![Teaching at a workshop](img/teaching-at-nime.jpg){width=40%}
 
 ## Am I expected to know everything on the first day?
 
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Of course not!
 
 - Teaching is a craft, we learn by doing.
@@ -175,6 +197,11 @@ Of course not!
 - Not expected to be perfect on day 1, or even day 100.
 
 We're going to talk about developing as an educator.
+:::
+::: {.column width="50%"}
+![Photo by David Schultz on Unsplash](img/david-schultz-yxje8hiX3Vk-unsplash.jpg){width=50%}
+:::
+::::::::::::::
 
 ## Task: Getting to know you as a learner (5mins)
 
@@ -203,7 +230,7 @@ Education, 18:3, 315-328, DOI: [10.1080/03075079312331382241](https://doi.org/10
 
 ## Phase 1: Emphasis on Teaching
 
-![](img/jason-goodman-Oalh2MojUuk-unsplash.jpg){width=40%}
+![A teacher up the front](img/jason-goodman-Oalh2MojUuk-unsplash.jpg){width=35%}
 
 1. **Focus on self**: Survival in front of a class! Learning how to explain, fear of not knowing the "right" answers.
 2. **Focus on subject**: Covering the topic thoroughly (more than a student!). Preparing packaged, inspiring, and interesting content.  Fear of running out of time!
@@ -211,7 +238,7 @@ Education, 18:3, 315-328, DOI: [10.1080/03075079312331382241](https://doi.org/10
 
 ## Phase 2: Emphasis on Learning
 
-![](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg){width=40%}
+![A teacher at the side](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg){width=35%}
 
 4. **Student as active**: Let students do the work! Coaching students in applied learning activities. Teaching less, but more learning occurs.
 5. **Student as independent**: Coach students in learning how to learn. Let students independently explore. (What knowledge will be important in computing in 20 years?)
@@ -234,6 +261,8 @@ Later stages:
 
 # Theories of teaching
 
+![Image by domlafou (Unsplash), Students at Aalto University, Espoo, Finland](img/dom-fou-YRMWVcdyhmI-unsplash.jpg){width=50%}
+
 ## What do you mean by teaching?
 
 Knowing what teaching **is** can be tricky!
@@ -246,30 +275,40 @@ Citation: Fox, D. (1983). Personal theories of teaching. Studies in Higher Educa
 
 ## Transfer Theory
 
-![](img/M1_6.png){width=25%}
-
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 __The teacher is like a fountain of knowledge.__
 
 - The teacher transfers knowledge to the learner who “receives” it.
 - Learners are passive and have very little autonomy in their learning.
 - The teacher presents, instructs, transfers, transmits and conveys learning.
 - Often found in lectures, presentations, seminars, reading lists and study notes etc.
+:::
+::: {.column width="50%"}
+![Pouring knowledge into students.](img/M1_6.png){width=80%}
+:::
+::::::::::::::
 
 ## Shaping Theory
 
-![](img/M1_7.png){width=25%}
-
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 __The teacher is like a craftsperson or a sculptor.__ 
 
 - The teacher shapes and “moulds” knowledge in the learner.
 - Learners have limited autonomy in their learning.
 - The teacher demonstrates, instructs, coaches and develops learning.
 - Often found in lectures, labs and practicals, workshops etc.
+:::
+::: {.column width="50%"}
+![Shaping young minds.](img/M1_7.png){width=80%}
+:::
+::::::::::::::
 
 ## Building Theory
 
-![](img/M1_8.png){width=25%}
-
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 __The teacher is like an architect, draftsperson or city planner.__
 
 - A hybrid of transfer and shaping.
@@ -277,22 +316,34 @@ __The teacher is like an architect, draftsperson or city planner.__
 - Learners have more autonomy to apply knowledge and skills to achieve predetermined outcomes.
 - The teacher instructs, enables, directs and structures learning.
 - Often found in lectures, labs and practicals, workshops etc.
+:::
+::: {.column width="50%"}
+![Here's the plans, get to work.](img/M1_8.png){width=70%}
+:::
+::::::::::::::
 
 ## Travelling Theory
 
-![](img/M1_9.png){width=25%}
-
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 __The teacher is like an expert guide.__
 
 - Learning is a journey of exploration facilitated by the teacher.
 - Learner has a high degree of autonomy in navigating their learning path.
 - Teacher monitors, guides, facilitates, and enables learning. They point the way.
 - Often found in problem and project-based learning, research projects etc.
+:::
+::: {.column width="50%"}
+![The valleys of difficulty and the peaks of enlightenmnt.](img/M1_9.png){width=80%}
+:::
+::::::::::::::
+
+
 
 ## Growing Theory
 
-![](img/M1_10.png){width=25%}
-
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 __The teacher is like a gardener.__
 
 - The learner produces knowledge through exploration and discovery.
@@ -300,12 +351,15 @@ __The teacher is like a gardener.__
 - The teacher encourages, promotes, cultivates and nurtures learning.
 - Often found in self-directed learning, problem and project-based learning etc.
 - An on-going, evolving process.
+:::
+::: {.column width="50%"}
+![You get to work, I'll be back to check on you in a month.](img/M1_10.png){width=70%}
+:::
+::::::::::::::
 
 ## Task: What do these mean to us? (2mins)
 
-![](img/M1_11.png){width=70%}
-
-These are _metaphors_ for the dynamics between students and teachers, not intended to be universal!
+![The _metaphors_ are not intended to be universal!](img/M1_11.png){width=70%}
 
 - Which of these approaches have you experienced?
 - What was the context and how did it affect learning?
@@ -338,12 +392,18 @@ Some students solve the problems quickly and find them too easy
 
 ## Approach B: Activity Stations
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
 
-![Activity Tables](img/M1_29.png){width=30%}
 
 - Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
 - The tutor encourages group work and moves around the room helping students who get stuck.
+:::
+::: {.column width="50%"}
+![Activity Tables](img/M1_29.png){width=90%}
+:::
+::::::::::::::
 
 ## Approach C: Steps
 
@@ -359,23 +419,32 @@ The students complete practice problems from the lab webpage.
 
 ## Approach D: Visualisation
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 The tutor explains the concept of recursion by visualising a recursive datatype. The tutor shows the following image on the board and explains how count the number of people in the list recursively:
-
-![[Lists (COMP1100)](https://comp.anu.edu.au/courses/comp1100/lectures/03-2-Intro_to_Lists.pdf)](img/recursive-line-datatype.jpg){ width=40% }
 
 - The tutor provides recursion problems to solve by using visualisation. The tutor moves around the room checking the students’ work.
 - When the students have understood the concept, the tutor shows on the board how to answer these types of questions _without_ the visualisation.
-
+:::
+::: {.column width="50%"}
+![[Lists (COMP1100)](https://comp.anu.edu.au/courses/comp1100/lectures/03-2-Intro_to_Lists.pdf)](img/recursive-line-datatype.jpg){ width=90% }
+:::
+::::::::::::::
 
 ## Approach E: Working in Groups
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 The tutor puts students in groups to solve recursion problems on the lab webpage.
-
-![](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg){ width=40% }
 
 - The tutor moves ensures that students work on problems at the right level to them, grouping students of similar levels together.
 - The tutor looks out moments when students are ready for harder problems, points to advanced techniques.
 - If students are finished quickly, the tutor has challenging problems ready, or asks them to help others.
+:::
+::: {.column width="50%"}
+![A group at work.](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg){ width=95% }
+:::
+::::::::::::::
 
 ## Task: What activity resonates for you? (5min)
 
@@ -385,14 +454,16 @@ The tutor puts students in groups to solve recursion problems on the lab webpage
 - **Travelling:** monitors, guides, facilitates, and enables learning. They point the way.
 - **Growing:** encourages, promotes, cultivates and nurtures learning.
 
-What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
+> What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
 
 Let's discuss together.
 
 ## Applying theory to practice
 
+> "Everything works somewhere; nothing works everywhere."
+
 - No single approach is “correct”. Each has its purpose and context. They are all integral to effective teaching practice.
 - No approach is “singular”. They are used in combination in various ways and often occur at the same time in different contexts or at different levels of learning.
 - No approach is “universal”. In each class, there will be learners with their own individual learning needs. Your teaching approach should be responsive, adaptive and inclusive.
 
-"Everything works somewhere; nothing works everywhere."
+
