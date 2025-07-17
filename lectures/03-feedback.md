@@ -168,7 +168,7 @@ What might you do to overcome or address these?
 Some students will attack feedback and use the content to appeal a grade.
 
 - Know the ANU grading rubric (more later): don't write "excellent work" when it's at the credit level. A credit is "good".
-- WRite why the work was at the grade level, and what areas prevent it from being higher.
+- WRrte why the work was at the grade level, and what areas prevent it from being higher.
 - If it's a fail, be clear: "This work does not meet our standards... (some parts) show developing understanding (these parts) could be improved".
 - Always address the work, not the student.
 
@@ -254,6 +254,7 @@ Let's have a bit of a discussion:
   - Focus learning and set goals.
 - __During assessment:__
   - Students examine and evaluate own progress.
+  - Teachers use rubrics as focal point for moderation (e.g., in a larger cohort)
 - __After assessment:__
   - Give feedback against specified criteria.
   - Identify strengths and weaknesses and areas to improve
@@ -319,10 +320,9 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 | 4     | 4    | 3   | 2  | 2   | 0-1 |
 | 2     | 2    | 2   | 1  | 1   | 0   | -->
 
-
 ## Takeaways
 
-- Understand (and practise) the tools and approaches for feedback and marking expected in your School or College.
+- Understand (and practice) the tools and approaches for feedback and marking expected in your School or College.
 - Where possible, ask for guidance or an opportunity to work or mark as a team.
 - Use available rubrics, criteria documents, task descriptions and standards.
 - Attend any assessment orientation, benchmarking or moderation meetings organised for the team.
@@ -333,4 +333,5 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 
 ## More Resources
 
+- [ANU L&T Designing and Using Rubrics](https://learningandteaching.anu.edu.au/resource-collection/designing-and-using-rubrics/)
 - [High Impact Teaching Strategies](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf) (Victoria State Government)
