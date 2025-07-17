@@ -41,7 +41,9 @@ jobs:
                   beamer \
                   beamertheme-metropolis \
                   pgfopts \
-                  beamercolorthemeowl
+                  beamercolorthemeowl \
+                  noto \
+                  noto-emoji
 
       - name: Install Dart Sass
         run: |
@@ -53,7 +55,7 @@ jobs:
 
       - name: Build public documents for website
         run: |
-          make public
+          make all
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
