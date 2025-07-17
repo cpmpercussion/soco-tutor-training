@@ -132,3 +132,37 @@ ANU academic and professional staff are not expected to, nor should they, provid
 
 [ANU Safety and Well-being](https://www.anu.edu.au/students/contacts/student-safety-and-wellbeing)
 
+
+
+# Creating inclusive learning communities
+
+## Creating an inclusive space
+
+_Reflect:_
+
+> "You can have accessibility without inclusion, but not inclusion without accessibility."
+
+## The elements of an inclusive space
+
+Inclusive education facilitates the access, participation and success of students.
+
+- Use inclusive language, including respect for choice.
+- Allow for individual differences in how students want to access materials and participate in activities.
+- Provide accessible materials, content and environments.
+- Ensure students can see themselves reflected in materials and activities.
+
+## Creating your own inclusive space
+
+Think-Pair-Share:
+
+- Suggest 1--3 practical changes to content, materials and activities to promote inclusion. 
+- Be as specific as you can.
+- Think and write each idea on a separate sticky note.
+- Share your ideas with your partner.
+- Place on the appropriate sheets around the room.
+
+__Think about:__
+
+When teaching, where could you provide diverse representation in your course materials?
+
+How can you ensure your students can see themselves in the materials?

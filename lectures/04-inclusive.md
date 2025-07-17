@@ -7,11 +7,44 @@ author: Dr Charles Martin
 
 As a _student_ you have had to teach yourself. Tutoring means working with others with different backgrounds and experiences.
 
-1. Benefits of inclusive teaching 
+This session is about how we can teach to support a _diversity_ of students and to make sure they succeed.
+
+1. Inclusion, Diversity, Accessibility 
 2. Equitable access to learning
 3. Inclusion anti-patterns
 4. Strategies for inclusive teaching
 5. Scenario discussions
+
+# Inclusion, Diversity and Accessibility
+
+![Photo by Clay Banks on Unsplash](img/clay-banks-LjqARJaJotc-unsplash.jpg){width=50%}
+
+## Diversity, Inclusion, Accessibility are different concepts
+
+- **Diversity**: The mix of people in an environment and how they identify in terms of social and professional (academic?) identities.
+
+- **Inclusion**: The mix of people in an environment working together so that everyone feels _respected_, _connected_, _contributing_, _progressing_.
+
+[Source: Diversity Council Australia, Inclusion Model, Sydney, DCA, 2025.](https://www.dca.org.au/resources/di-planning/what-is-diversity-inclusion)
+
+- **Accessibility**: "Assisting students to participate fully in their program of study by minimising the impact of _disability_ and _disadvantage_ on learning." [ANU Accessibility Page](https://www.anu.edu.au/students/accessibility)
+
+## Diversity in the classroom
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+Think-Pair-Share:
+
+> Given that university classrooms are diverse, what opportunities and benefits does this provide?
+
+1. Think individually (1 min)
+2. Pair – discuss with a partner (1 min)
+3. Share in class - Listen to participants responses (2 mins)
+:::
+::: {.column width="50%"}
+![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=60%}
+:::
+::::::::::::::
 
 ## ANU stance on inclusion
 
@@ -28,30 +61,21 @@ As a _student_ you have had to teach yourself. Tutoring means working with other
 
 [Guideline - Code of practice for teaching and learning](https://policies.anu.edu.au/ppl/document/ANUP_000726)
 
+## Accessibility vs Inclusion
 
-# Benefits of inclusion
+Again, these concepts are related. What are the difference in practice?
 
-![Photo by Clay Banks on Unsplash](img/clay-banks-LjqARJaJotc-unsplash.jpg){width=50%}
+### Accessibility (foundations)
 
-## Diversity in the classroom
+- **Barrier removal:** Focuses on eliminating specific obstacles to access learning materials and environments
+- **Compliance-driven:** Requirements in law and ANU policy
+- **Reactive approach:** Responds to identified needs through accommodations and modifications (e.g., ANU EAP)
 
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-Think-Pair-Share:
+### Inclusion (next steps)
 
-> Given that university classrooms are diverse, what opportunities and benefits does this provide?
-
-1. Think individually (1 min)
-2. Pair – discuss with a partner (1 min)
-3. Share in class - Listen to participants responses (2 mins)
-
-:::
-::: {.column width="50%"}
-![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=60%}
-:::
-::::::::::::::
-
-
+- **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
+- **Proactive design:** Intentionally shapes the entire educational experience to support diverse learners from the outset
+- **Community-building:** beyond accommodations to support all students
 
 # Equitable access to learning
 
@@ -84,70 +108,43 @@ Some other barriers:
 :::
 ::::::::::::::
 
+## Task: Identifying barriers to learning
 
+What's a barrier to learning that you have observed as a student? 
+Is there something you have experienced or seen in action temporarily, or in particular situations?
 
-## Identifying barriers to learning
+1. Write down on some sticky notes barriers you can think of.
 
-Now we are going to consider some of the barriers to learning that our students may experience.
+2. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
 
-_Think-&-Share_
-
-1. Consider the student personas provided. Use these to reflect upon the potential barriers to learning that students at ANU may experience.
-
-2. Write down on some sticky notes (one idea per note) any barriers you can think of.
-
-3. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
-
-## Overcoming barriers to learning
+## Task: Overcoming barriers to learning
 
 > Consider the students you may be teaching and the permanent or temporary or situational barriers to learning that they may face.
 
-_Reflect_: What could you do to help __reduce__, __alleviate__ or __remove__ some of these barriers in _your_ learning environment, content, materials and activities?
+_Reflect_: What could you do to help **reduce**, **alleviate** or **remove** some of these barriers in _your_ learning environment, content, materials and activities?
 
 _Share_: Spend two minutes sharing ideas with the person next to you.
 
-## Accessibility tools
+## Accessible Digital Content
 
-When thinking about your materials and activities, there are a lot of accessibility situations of which you need to be aware.
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+- Digital content in your classes may not be accessible our students because of issues with formats, images, or structure.
 
-Refer to the [ANU Learning and Teaching blog](https://learningandteaching.anu.edu.au/blog/) and [resources](https://learningandteaching.anu.edu.au/resources/).
+- For example, folks who use screen readers or other assistive technologies.
 
-![](img/learning-and-teaching-resources.png)
+- But also, folks looking at course sites on their phone or tablet (!)
 
-# Creating inclusive learning communities
+- ANU has [some advice about accessible digital content](https://learningandteaching.anu.edu.au/resource-collection/accessible-digital-content/)
 
-## Creating an inclusive space
+- Advice on text, colours, images, tables, accessibility checkers, etc.
+:::
+::: {.column width="50%"}
+![ANU's Learning and Teaching resources](img/learning-and-teaching-resources.png)
+:::
+::::::::::::::
 
-_Reflect:_
-
-> "You can have accessibility without inclusion, but not inclusion without accessibility."
-
-## The elements of an inclusive space
-
-Inclusive education facilitates the access, participation and success of students.
-
-- Use inclusive language, including respect for choice.
-- Allow for individual differences in how students want to access materials and participate in activities.
-- Provide accessible materials, content and environments.
-- Ensure students can see themselves reflected in materials and activities.
-
-## Creating your own inclusive space
-
-Think. Pair. Share:
-
-- Suggest 1--3 practical changes to content, materials and activities to promote inclusion. 
-- Be as specific as you can.
-- Think and write each idea on a separate sticky note.
-- Share your ideas with your partner.
-- Place on the appropriate sheets around the room.
-
-__Think about:__
-
-When teaching, where could you provide diverse representation in your course materials?
-
-How can you ensure your students can see themselves in the materials?
-
-# Inclusion Anti-Patterns
+# Inclusion anti-patterns
 
 ![Photo by seabass creatives on Unsplash](img/seabass-creatives-U3m4_cKbUfc-unsplash.jpg)
 
@@ -161,14 +158,14 @@ How can you ensure your students can see themselves in the materials?
 
 ## Task: Dangerous Patterns for Inclusion (5mins)
 
-> Can you think of any common teaching patterns that are dangerous for inclusion?
+Can you think of any common teaching patterns that are dangerous for inclusion?
 
 - Doesn't have to be actively hostile to be a bit less inclusive than we would hope.
 - Some practices may be less-than-inclusive but necessary or desired (on balance)
 
 Discuss as groups, and share an example from each table. 
 
-## Heard around ANU: why are these statements problematic?
+## Heard around ANU: why could these statements be problematic?
 
 > We supply the tools, it's up to the students to do the rest.
 
@@ -176,9 +173,13 @@ Discuss as groups, and share an example from each table.
 
 > All third year CS students should be comfortable using Linux.
 
+> You won't get an extension without a medical certificate.
+
+> You can't use generative AI for any aspect of this course.
+
 How do these statements interact with the idea of _academic standards_?
 
-# Strategies for Inclusive Teaching
+# Strategies for inclusive teaching
 
 ![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=50%}
 
@@ -274,7 +275,7 @@ At your table:
 
 We'll bring the room together to hear some ideas.
 
-# Scenario Discussions
+# Scenario discussions
 
 Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
