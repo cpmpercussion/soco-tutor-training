@@ -2,16 +2,14 @@
 title: Feedback and Marking
 author: Dr Charles Martin
 ---
-
-# Feedback and Marking for learning
-
-## Learning outcomes
+## Plan for this session
 
 In this session we will:
 
-- __Identify__ assessments from various courses
-- __Identify__ features of effective feedback
-- __Evaluate__ different approaches to feedback
+1. Understand a bit about the goals and design of assessments
+2. Look at the features of effective feedback
+3. Evaluate some different approaches to feedback
+4. Look at how rubrics can support assessment
 
 ## Task: Worries and Questions (5mins)
 
@@ -23,7 +21,7 @@ Use the sticky notes from your table and answer these two questions:
 
 One question per sticky note! We will hear some together from each table.
 
-# Introduction To Assessment
+# Assessment and Feedback
 
 ## Purpose of assessment
 
