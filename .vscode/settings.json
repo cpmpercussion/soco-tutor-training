@@ -1,0 +1,12 @@
+{
+  "makefile.configureOnOpen": false,
+  "liveServer.settings.root": "/build",
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".md",
+        "cmd": "make html"
+      }
+    ]
+  },
+}

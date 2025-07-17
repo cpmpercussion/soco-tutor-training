@@ -21,57 +21,70 @@ As a _student_ you have had to teach yourself. Tutoring means working with other
 
 ## Code of practice for teaching and learning 
 
-* _Respect diversity,_  e.g., diversity of culture, religious belief, age, race, gender and other personal and group-based attributes. 
-* _Recognise_ that _diversity_ of student and staff  backgrounds, opinions and views _is a valuable resource_ for enhancing critical, motivated and dialogic teaching and learning. 
-* _Experience_ an environment that is _equitable, collegial, and responsive to the diversity of individuals.   
-* _Contribute_ to an environment _free from harassment, discrimination and bullying_, with access to complaint procedures which will facilitate _speedy and just resolutions._
+- _Respect diversity,_ e.g., diversity of culture, religious belief, age, race, gender and other personal and group-based attributes. 
+- _Recognise_ that _diversity_ of student and staff backgrounds, opinions and views _is a valuable resource_ for enhancing critical, motivated and dialogic teaching and learning.
+- _Experience_ an environment that is _equitable, collegial, and responsive to the diversity of individuals.
+- _Contribute_ to an environment _free from harassment, discrimination and bullying_, with access to complaint procedures which will facilitate _speedy and just resolutions._
 
-[Guideline - Code of practice for teaching and learning](https://policies.anu.edu.au/ppl/document/ANUP_000726#:~:text=Teach%20courses%20in%20a%20structured,taught%20content%20and%20assessment%20tasks.)
+[Guideline - Code of practice for teaching and learning](https://policies.anu.edu.au/ppl/document/ANUP_000726)
 
 
-# Benefits of diversity and inclusion
+# Benefits of inclusion
+
+![Photo by Clay Banks on Unsplash](img/clay-banks-LjqARJaJotc-unsplash.jpg){width=50%}
 
 ## Diversity in the classroom
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 Think-Pair-Share:
 
-> Given that university classrooms are diverse, what  opportunities and benefits does this provide?
+> Given that university classrooms are diverse, what opportunities and benefits does this provide?
 
 1. Think individually (1 min)
 2. Pair – discuss with a partner (1 min)
 3. Share in class - Listen to participants responses (2 mins)
 
-## Diversity at Columbia Video
+:::
+::: {.column width="50%"}
+![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=60%}
+:::
+::::::::::::::
 
-[Diversity at Columbia University](https://www.youtube.com/watch?v=-akUss3uj0M)
 
-## An Inclusive Space
 
-Now that you have watched the video, make a note for yourself (1 minute):
+# Equitable access to learning
 
-> What does inclusive teaching mean to me?
+![Photo by Nick Fewings on Unspalsh](img/nick-fewings-1ao3jJp4w9g-unsplash.jpg){width=45%}
 
-# What is equitable access to learning?
+## Equity vs Equality
 
-## A definition of equity
+![Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)](img/equity.png){width=70%}
 
-![Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)](img/equity.png)
-
-- Everyone receives the same support regardless of need.
-- Individuals receive the support they need to achieve the desired outcomes.
+- **Equality**: Everyone receives the same support regardless of need.
+- **Equity**: Individuals receive the support they need to achieve the desired outcomes.
 
 ## Barriers to learning
 
-![](img/learning-and-teaching-resources.png)
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+- Barriers could be: physical, sensory, mental, emotional, cognitive, cultural, social.
+- Factors may lead to challenges depending on context, or only some situations.
+- They may be permanent, temporary, or situational for the individual
+- Inclusive teaching can help individuals with specific challenges but the assistance can extend to others as well.
 
-Various factors may lead to difficulties, challenges and barriers for learners depending on context.
+Some other barriers:
 
-* Student factors may be  permanent, temporary  or  situational  for the individual.
-* Learning environment factors can be  reduced, alleviated  or  removed  through more inclusive teaching practice.
+- cognitive: information processing, learning speed
+- sensory: classroom environment, learning activity format and presentation
 
-Barriers could be: Physical, sensory, mental, emotional, cognitive, cultural, social.
+:::
+::: {.column width="40%"}
+![[The Persona Spectrum, Microsoft Inclusive Design](https://inclusive.microsoft.design/)](img/barriers.png){width=60%}
+:::
+::::::::::::::
 
-You can read more here: [Microsoft Inclusive Design](https://inclusive.microsoft.design/)
+
 
 ## Identifying barriers to learning
 
@@ -79,7 +92,7 @@ Now we are going to consider some of the barriers to learning that our students 
 
 _Think-&-Share_
 
-1. Consider the  student personas  provided. Use these to reflect upon the potential barriers to learning that students at ANU may experience.
+1. Consider the student personas provided. Use these to reflect upon the potential barriers to learning that students at ANU may experience.
 
 2. Write down on some sticky notes (one idea per note) any barriers you can think of.
 
@@ -89,7 +102,7 @@ _Think-&-Share_
 
 > Consider the students you may be teaching and the permanent or temporary or situational barriers to learning that they may face.
 
-_Reflect_: What could you do to help  __reduce__,  __alleviate__ or __remove__ some of these barriers in  _your_  learning environment, content, materials and activities?
+_Reflect_: What could you do to help __reduce__, __alleviate__ or __remove__ some of these barriers in _your_ learning environment, content, materials and activities?
 
 _Share_: Spend two minutes sharing ideas with the person next to you.
 
@@ -113,20 +126,20 @@ _Reflect:_
 
 Inclusive education facilitates the access, participation and success of students.
 
-* Use inclusive language, including respect for choice.
-* Allow for individual differences in how students want to access materials and participate in activities.
-* Provide accessible materials, content and environments.
-* Ensure students can see themselves reflected in materials and activities.
+- Use inclusive language, including respect for choice.
+- Allow for individual differences in how students want to access materials and participate in activities.
+- Provide accessible materials, content and environments.
+- Ensure students can see themselves reflected in materials and activities.
 
 ## Creating your own inclusive space
 
 Think. Pair. Share:
 
-* Suggest 1--3 practical changes to content, materials and activities to promote inclusion. 
-* Be as specific as you can.
-* Think and write each idea on a separate sticky note.
-* Share your ideas with your partner.
-* Place on the appropriate sheets around the room.
+- Suggest 1--3 practical changes to content, materials and activities to promote inclusion. 
+- Be as specific as you can.
+- Think and write each idea on a separate sticky note.
+- Share your ideas with your partner.
+- Place on the appropriate sheets around the room.
 
 __Think about:__
 
@@ -184,7 +197,7 @@ But what can _tutors_ do about this?
 - help convenor by communicating course and class structures.
 - signpost difficult topics for students, help scaffold them during class.
 - clarify expectations for assessments, one good way: "I can't help with the assignment but THIS exercise in the lab is directly related and I CAN help with that".
-- help understand **rationale** for assessments.
+- help understand *rationale*- for assessments.
 - provide actionable feedback (within reason)
 
 ## Embed Academic Literacies
@@ -220,9 +233,9 @@ But what can _tutors_ do about this?
 
 Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
-- __Consider__ the  scenario  and  __think__  about your response.
-- __Pair__ with  _another group member_  to share and discuss your thoughts.
-- __Share__  and  __discuss__  your preferred solutions with the group.
+- __Consider__ the scenario and __think__ about your response.
+- __Pair__ with _another group member_ to share and discuss your thoughts.
+- __Share__ and __discuss__ your preferred solutions with the group.
 
 ## Scenario 0 (Everybody)
 
@@ -230,10 +243,10 @@ _Think-Pair-Share_: You are teaching in an older building on campus. One of your
 
 __Discuss:__
 
-* What do you do?
-* Who do you contact?
-* What factors need to be considered here?
-* What is a short-term solution?
+- What do you do?
+- Who do you contact?
+- What factors need to be considered here?
+- What is a short-term solution?
 
 ## Scenario 1
 
@@ -245,7 +258,7 @@ __Extension:__ As part of the assessment task, students submitted a rating of pe
 
 It is week 4 of semester, your tutorials are running well, and your students are thoroughly engaged in the interactive group tasks that you use in each tutorial. However, one student is always late to the tutorials, which disrupts the class as you must repeat the lesson instructions. They tend not to engage in the tasks and don’t interact with the other students in their group.
 
- __Extension:__  You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
+ __Extension:__ You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
 
 ## Scenario 3
 
@@ -259,7 +272,7 @@ __Extension:__ There is an assessment task requiring students to respond to stat
 
 You are teaching in an undergraduate program. You have noticed a change in one of your students. Initially the student was showing up to tutorials on time, neat and tidy and engaged. It is now week 7 and they are arriving late, looking fatigued and not engaging much in tutorial activities.
 
- __Extension:__  You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with   uni   after this semester.
+ __Extension:__ You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with  uni  after this semester.
 
 ## Scenario 5
 
