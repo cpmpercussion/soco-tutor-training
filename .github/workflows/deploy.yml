@@ -53,7 +53,7 @@ jobs:
 
       - name: Build public documents for website
         run: |
-          make all
+          make public
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
