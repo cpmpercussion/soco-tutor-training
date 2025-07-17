@@ -186,25 +186,43 @@ Broadly adapted from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-
 
 ## Know your students
 
-This will make it easier to see and respond to their needs.
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+Seems straightforward, but is it?
 
-If you know your students you will _want_ to help and in many cases you will _know what to do when you see it_.
+- This will make it easier to see and respond to their needs.
+- If you know your students you will _want_ to help
+- In many cases you will _know what to do when you see it_.
+:::
+::: {.column width="50%"}
+![Photo by Mikael Kristenson on Unsplash](img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Design Inclusive Curricula
 
-But what can _tutors_ do about this?
+This is about the course content, structure and assignments. So what can _tutors_ do about this?
 
 - help convenor by communicating course and class structures.
 - signpost difficult topics for students, help scaffold them during class.
 - clarify expectations for assessments, one good way: "I can't help with the assignment but THIS exercise in the lab is directly related and I CAN help with that".
-- help understand *rationale*- for assessments.
+- help understand _rationale_ for assessments.
 - provide actionable feedback (within reason)
 
 ## Embed Academic Literacies
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+This is about being explicit in the skills needed to complete and demonstrate learning.
+
 - Explicity teach academic conventions
 - Encourage active engagement in academic texts
 - Explicity teach information literacy skills
+:::
+::: {.column width="50%"}
+![Photo by Yancy Min on Unsplash](img/yancy-min-842ofHC6MaI-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Use diverse teaching strategies and resources
 
@@ -214,32 +232,61 @@ But what can _tutors_ do about this?
 
 ## Create an inclusive classroom environment
 
+:::::::::::::: {.columns}
+::: {.column width="40%"}
 - Cultivate a positive and inclusive classroom culture
 - Support goal setting and achievement
 - Encourage self-reflection
 - Promote positive role models
+:::
+::: {.column width="60%"}
+![Teaching at a workshop](img/teaching-at-nime.jpg)
+:::
+::::::::::::::
 
 ## Embed support systems
 
-- Incorporate help seeking into classes - how can we encourage questions?
+:::::::::::::: {.columns}
+::: {.column width="40%"}
+- Incorporate help seeking into classes 
+- how can we encourage questions?
 - Direct students to available support resources
+:::
+::: {.column width="60%"}
+![Photo by Matthew Waring on Unsplash](img/matthew-waring-MJAoiige14E-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Facilitate continuous reflection
 
 - Reflect on the effectiveness of your teaching strategies
 - Elicit feedback from students.
 
+## Task: Applying one strategy ✨
+
+At your table:
+
+- Choose a strategy that you could apply in a class you are teaching or have previous taken.
+
+- Discuss concrete actions you could take to implement that strategy.
+
+- What would the benefits be? Would there be any drawbacks?
+
+We'll bring the room together to hear some ideas.
+
 # Scenario Discussions
 
 Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
-- __Consider__ the scenario and __think__ about your response.
-- __Pair__ with _another group member_ to share and discuss your thoughts.
-- __Share__ and __discuss__ your preferred solutions with the group.
+- **Consider** the scenario and **think** about your response.
+- **Pair** with _another group member_ to share and discuss your thoughts.
+- **Share** and **discuss** your preferred solutions with the group.
 
 ## Scenario 0 (Everybody)
 
-_Think-Pair-Share_: You are teaching in an older building on campus. One of your students requires a walking stick for mobility purposes. In the first week, the student has alerted you to the fact and/or you have observed that to attend the class they have to climb three flights of stairs, as there is no lift available.
+_Think-Pair-Share_: 
+
+You are teaching in an older building on campus. One of your students requires a walking stick for mobility purposes. In the first week, you have observed that to attend the class they have to climb three flights of stairs, as there is no lift available.
 
 __Discuss:__
 
@@ -250,33 +297,25 @@ __Discuss:__
 
 ## Scenario 1
 
-Your classes have many international students who are in their first semester of studying in Australia. In Week 3, the students are asked to form groups for a team-based assessment task. You notice that some of the international students are struggling to form teams with the domestic students. This leaves them without a group.
-
-__Extension:__ As part of the assessment task, students submitted a rating of peer contribution. These peer ratings affect the mark allocated to individuals within the group. You note that overall, the international students have consistently received much lower ratings than the domestic students.
+> - Your classes have many international students who are in their first semester of studying in Australia. In Week 3, the students are asked to form groups for a team-based assessment task. You notice that some of the international students are struggling to form teams with the domestic students. This leaves them without a group.
+> - __Extension:__ As part of the assessment task, students submitted a rating of peer contribution. These peer ratings affect the mark allocated to individuals within the group. You note that overall, the international students have consistently received much lower ratings than the domestic students.
 
 ## Scenario 2
 
-It is week 4 of semester, your tutorials are running well, and your students are thoroughly engaged in the interactive group tasks that you use in each tutorial. However, one student is always late to the tutorials, which disrupts the class as you must repeat the lesson instructions. They tend not to engage in the tasks and don’t interact with the other students in their group.
-
- __Extension:__ You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
+> - It is week 4 of semester, your tutorials are running well, and your students are thoroughly engaged in the interactive group tasks that you use in each tutorial. However, one student is always late to the tutorials, which disrupts the class as you must repeat the lesson instructions. They tend not to engage in the tasks and don’t interact with the other students in their group.
+> - __Extension:__ You take the opportunity to have a chat with them after the week 4 tutorial. They share that they are autistic and have extreme anxiety. They arrive on time for the tutorial but then struggle to enter the room. They feel overwhelmed by the challenges of university.
 
 ## Scenario 3
 
-You plan to discuss the changing roles of women in IT. As the topic might be challenging, you have included two 5-minute breaks in the hour-long tutorial to allow processing time and a break if the debate gets heated. Initially, the discussion goes well.​
-
-Then, however, one student repeatedly expresses the opinion that women should not be working in the IT industry. You notice many of the female students progressively disengage from the discussion.​
-
-__Extension:__ There is an assessment task requiring students to respond to statements related to gender roles in the IT industry in the LMS discussion forum. Over the weekend, the same student from the last scenario has written a lot of content that is sexist in content and aggressive in tone.
+> - You plan to discuss the changing roles of women in IT. As the topic might be challenging, you have included two 5-minute breaks in the hour-long tutorial to allow processing time and a break if the debate gets heated. Initially, the discussion goes well.​ Then, however, one student repeatedly expresses the opinion that women should not be working in the IT industry. You notice many of the female students progressively disengage from the discussion.​
+> - __Extension:__ There is an assessment task requiring students to respond to statements related to gender roles in the IT industry in the LMS discussion forum. Over the weekend, the same student from the last scenario has written a lot of content that is sexist in content and aggressive in tone.
 
 ## Scenario 4
 
-You are teaching in an undergraduate program. You have noticed a change in one of your students. Initially the student was showing up to tutorials on time, neat and tidy and engaged. It is now week 7 and they are arriving late, looking fatigued and not engaging much in tutorial activities.
-
- __Extension:__ You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with  uni  after this semester.
+> - You are teaching in an undergraduate program. You have noticed a change in one of your students. Initially the student was showing up to tutorials on time, neat and tidy and engaged. It is now week 7 and they are arriving late, looking fatigued and not engaging much in tutorial activities.
+> - __Extension:__ You talk with the student after the tutorial and the student discloses to you that this is their first time living away from home which is a small town in far west NSW. They are feeling very isolated and sad. They have no family or friend support close by so spend a lot of time messaging and talking to their family and friends back home. They are considering not continuing with uni after this semester.
 
 ## Scenario 5
 
-Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
-
- __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
-
+> - Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
+> - __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
