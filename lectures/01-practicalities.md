@@ -114,7 +114,7 @@ In the School of Computing, many of our classes have a 1.5 hour teaching + 0.5 h
 **Charles advice**:
 
 - At the end of 1.5 hours announce "the tutorial is now over, I am staying until X o'clock to answer individual questions."
-- Answer questions about any aspect of the course (redirect problem quesitons to the forum and help the student to write and submit the post). 
+- Answer questions about any aspect of the course (redirect problem questions to the forum and help the student to write and submit the post). 
 - Don't do any **group teaching** in consultation time.
 
 ## Submitting your timesheet
