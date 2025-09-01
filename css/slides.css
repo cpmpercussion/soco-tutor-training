@@ -16,6 +16,9 @@
   display: block;
   padding-left: 1em;
 }
+.reveal blockquote p {
+  padding-left: 1em;
+}
 .small-table table {
   font-size: .65em
 }

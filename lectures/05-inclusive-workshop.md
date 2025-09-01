@@ -32,6 +32,28 @@ theme: black
 ## Big Problems
 
 :::::::::::::: {.columns}
+::: {.column width="60%"}
+> our teaching staff make or break inclusion
+
+> they don't know how to help!
+
+> they might be inclusion skeptics ⚠️⚠️
+
+- _Teachers_ in higher ed often have broad autonomy
+- Course convenors/lecturers/unit coordinators often in charge of:
+    - content, learning activities, assessment
+    - decision maker on some types of adjustments and special considerations
+    - sets tone for learning environment
+
+:::
+::: {.column width="40%"}
+![Teaching a workshop (source: Charles)](img/teaching-at-nime.jpg)
+:::
+::::::::::::::
+
+## Big Questions
+
+:::::::::::::: {.columns}
 ::: {.column width="50%"}
 > what teacher development strategies can help make computing education inclusive?
 
@@ -44,29 +66,21 @@ theme: black
 :::
 ::::::::::::::
 
-## Why think about this?
-
-- _Teachers_ in higher education often have broad autonomy
-- Course convenors/lecturers/unit coordinators often in charge of:
-    - content, learning activities, assessment
-    - decision maker on some types of adjustments and special considerations
-    - sets tone for learning environment
-
 ## Accessibility vs Inclusion
 
 Concepts are related but not identical. What are the difference in practice?
 
 ### Accessibility (foundations)
 
-- **Barrier removal:** Focuses on eliminating specific obstacles to access learning materials and environments
-- **Compliance-driven:** Requirements in law and ANU policy
-- **Reactive approach:** Responds to identified needs through accommodations and modifications (e.g., ANU EAP)
+- **barrier removal:** focuses on eliminating specific obstacles to access learning materials and environments
+- **compliance-driven:** requirements in law and anu policy
+- **reactive approach:** (sort of) responds to identified needs through accommodations and modifications (e.g., ANU EAP)
 
-### Inclusion (next steps)
+### inclusion (next steps)
 
-- **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
-- **Proactive design:** Intentionally shapes the entire educational experience to support diverse learners from the outset
-- **Community-building:** beyond accommodations to support all students
+- **belonging-focused:** creates environments where all students feel valued, supported, and able to participate fully
+- **proactive design:** intentionally shapes the entire educational experience to support diverse learners from the outset
+- **community-building:** beyond accommodations to support all students
 
 ## Example: Small Class Teacher Training at ANU
 
@@ -75,16 +89,17 @@ Concepts are related but not identical. What are the difference in practice?
 ANU Centre for Learning and Teaching provided tutor training for computing until 2024.
 
 I stepped in to re-design tutor training for the College of Systems and Society (~90 tutors in 2025).
-25% of the content is inclusive teaching practice:
+
+1.5 hours on inclusive teaching practice:
 
 1. what is inclusion?
 2. why does it matter?
 3. what can **you** (a casual) do about it?
 
-Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf) to make sense for tutors (in closest contact with tutors).
+Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf) to make sense for tutors.
 :::
 ::: {.column width="40%"}
-![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png)
+![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png){width=70%}
 :::
 ::::::::::::::
 
@@ -101,7 +116,7 @@ Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/
 7. **facilitate continuous reflection**
 :::
 ::: {.column width="40%"}
-![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png)
+![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png){width=70%}
 :::
 ::::::::::::::
 
@@ -111,12 +126,13 @@ Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/
 ::: {.column width="50%"}
 <!-- The idea of this task is to list measures and resources that can be used to develop teachers to support **inclusion** in education. -->
 
-The idea of this task is to list 10 measures and resources that can help staff to enact the principles of **inclusion** in education.
+- **list 10 measures to help implement the principles of inclusion**
 
-Rules of engagement: This is about developing teaching or support staff, less about measures in policy at department/faculty level.
+<!-- The idea of this task is to list 10 measures and resources that can help staff to enact the principles of **inclusion** in education. -->
 
-**Then:** Rank the measures and tell us about three from each table.
+Rules of engagement: This is about developing staff, not policy at department/faculty level.
 
+- **then:** rank the measures and tell us about the top three from each table.
 :::
 ::: {.column width="50%"}
 the principles: 
@@ -130,8 +146,6 @@ the principles:
 7. facilitate continuous reflection
 :::
 ::::::::::::::
-
-# Dealing with Skeptics
 
 ## Heard around ANU: why could these statements be problematic?
 
@@ -147,8 +161,30 @@ the principles:
 
 How do these statements interact with the idea of _academic standards_?
 
-## Task 2: Top Kool-Aid Measures for 
+## Task 2: Dealing with Skeptics Eight Ways
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+- **the task is to _ideate_ measures to bring skeptics on side**
+
+we'll do a Crazy 8s design sprint.
+
+1. fold your piece of paper into 8 sections.
+2. start the 8 minute timer
+3. sketch one idea in each rectangle
+4. stop when the alarm goes off
+:::
+::: {.column width="50%"}
+![[Crazy 8s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s) is a design sprint method.](img/crazy-8s.png)
+:::
+::::::::::::::
+
+## What did we learn?
+
+Hopefully something!
+
+
+<!-- 
 ## Attendance 1
 
 In your table, discuss ideas for encouraging attendance in your courses, or courses in our school.
@@ -182,4 +218,4 @@ Would it be effective?
 Are there disadvantages?
 
 At the end: Collect all the ideas and bring them together to document.
-
+ -->
