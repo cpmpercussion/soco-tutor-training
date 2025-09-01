@@ -94,7 +94,8 @@ REVEAL_OPTS = -t revealjs \
 							-V history=false \
 							-V slideNumber=true \
 							--include-in-header css/slides.css \
-							-V theme=night
+
+# 							-V theme=moon
 
 PDF_OPTS = --metadata date="$(date '+%Y-%m-%d')" \
 						--output=$PORTFOLIO_PDF \
