@@ -73,7 +73,7 @@ Concepts are related but not identical. What are the difference in practice?
 ### Accessibility (foundations)
 
 - **barrier removal:** focuses on eliminating specific obstacles to access learning materials and environments
-- **compliance-driven:** requirements in law and anu policy
+- **compliance-driven:** requirements in law and ANU policy
 - **reactive approach:** (sort of) responds to identified needs through accommodations and modifications (e.g., ANU EAP)
 
 ### inclusion (next steps)
