@@ -130,7 +130,7 @@ Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/
 
 <!-- The idea of this task is to list 10 measures and resources that can help staff to enact the principles of **inclusion** in education. -->
 
-Rules of engagement: This is about developing staff, not policy at department/faculty level.
+Rules: This is about developing staff, not policy at department/faculty level.
 
 - **then:** rank the measures and tell us about the top three from each table.
 :::
