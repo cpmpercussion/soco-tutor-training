@@ -159,6 +159,8 @@ the principles:
 
 > You can't use generative AI for any aspect of this course.
 
+> Mobile phones have rotted students brains, they don't understand computers anymore.
+
 How do these statements interact with the idea of _academic standards_?
 
 ## Task 2: Dealing with Skeptics Eight Ways
