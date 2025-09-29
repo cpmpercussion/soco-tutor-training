@@ -57,30 +57,28 @@ theme: black
 ::: {.column width="50%"}
 > what teacher development strategies can help make computing education inclusive?
 
-1. **For engaged colleagues:** what resources and measures can we suggest?
+1. **for engaged colleagues:** what resources and measures can we suggest?
 
-2. **For skeptics:** how can we bring them on side?
+2. **for skeptics:** how can we bring them on side?
 :::
 ::: {.column width="50%"}
 ![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=100%}
 :::
 ::::::::::::::
 
-## Accessibility vs Inclusion
-
-Concepts are related but not identical. What are the difference in practice?
+## Accessibility vs Inclusion are related but not identical
 
 ### Accessibility (foundations)
 
-- **barrier removal:** focuses on eliminating specific obstacles to access learning materials and environments
+- **remmove barriers:** eliminating specific obstacles for accessing learning materials and environments
 - **compliance-driven:** requirements in law and ANU policy
-- **reactive approach:** (sort of) responds to identified needs through accommodations and modifications (e.g., ANU EAP)
+- **reactive:** respond to needs through accommodations and modifications (e.g., ANU EAP)
 
 ### inclusion (next steps)
 
-- **belonging-focused:** creates environments where all students feel valued, supported, and able to participate fully
-- **proactive design:** intentionally shapes the entire educational experience to support diverse learners from the outset
-- **community-building:** beyond accommodations to support all students
+- **belonging:** create environments where everybody feels valued, supported, and able to participate
+- **proactive:** shape the educational experience to support all learners from the outset
+- **community:** beyond accommodations to support all students
 
 ## Example: Small Class Teacher Training at ANU
 
@@ -126,7 +124,7 @@ Adapted strategies from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/
 ::: {.column width="50%"}
 <!-- The idea of this task is to list measures and resources that can be used to develop teachers to support **inclusion** in education. -->
 
-- **list 10 measures to help implement the principles of inclusion**
+- **list 10 ideas to help implement the principles of inclusion**
 
 <!-- The idea of this task is to list 10 measures and resources that can help staff to enact the principles of **inclusion** in education. -->
 
@@ -159,15 +157,15 @@ the principles:
 
 > You can't use generative AI for any aspect of this course.
 
-> Mobile phones have rotted students brains, they don't understand computers anymore.
+> Students don't understand computers anymore.
 
 How do these statements interact with the idea of _academic standards_?
 
-## Task 2: Dealing with Skeptics Eight Ways
+## Task 2: Engaging Skeptics Eight Ways
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-- **the task is to _ideate_ measures to bring skeptics on side**
+- **the task is to _ideate_ ways to bring skeptics on side**
 
 we'll do a Crazy 8s design sprint.
 
@@ -184,40 +182,3 @@ we'll do a Crazy 8s design sprint.
 ## What did we learn?
 
 Hopefully something!
-
-
-<!-- 
-## Attendance 1
-
-In your table, discuss ideas for encouraging attendance in your courses, or courses in our school.
-
-Aim for 15 ideas (one Post-It per idea).
-
-Be prepared to share 3 with the room at the end.
-
-Goal is very broad range of tactics!
-
-Be ambitious, chaotic, ruthless, understanding, etc.
-
-Can include ideas you have/haven’t tried, would/wouldn’t do, evidence supported or not.
-Can encompass things you could do now or would require course design.
-Don’t worry about resources/costs!
-Don’t worry about what students might think!
-Don’t worry about ANU policy!
-Weird and entertaining ideas encouraged!
-Only limitations is all ideas will be shared with the school.
-
-## Attendance 2
-
-
-Do this in Miro – QR code for link!
-Each table: share your top tactics (must be unique!) and we will get them on Miro for discussion.
-You can start by putting your top tactic on Miro (follow QR code!)
-Discussion questions:
-Who is responsible for change?
-What would it take to make it a reality?
-Would it be effective?
-Are there disadvantages?
-
-At the end: Collect all the ideas and bring them together to document.
- -->
