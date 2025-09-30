@@ -70,7 +70,7 @@ theme: black
 
 ### Accessibility (foundations)
 
-- **remmove barriers:** eliminating specific obstacles for accessing learning materials and environments
+- **remove barriers:** eliminating specific obstacles for accessing learning materials and environments
 - **compliance-driven:** requirements in law and ANU policy
 - **reactive:** respond to needs through accommodations and modifications (e.g., ANU EAP)
 
