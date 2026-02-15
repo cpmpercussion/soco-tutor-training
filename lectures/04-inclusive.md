@@ -320,3 +320,20 @@ __Discuss:__
 
 > - Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
 > - __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
+
+
+# Questions: Who has a question?
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Who has a question?**
+
+_It's time to head home! Happy to take questions now or hear from you over email anytime..._
+
+:::
+::: {.column width="40%"}
+![Time to head home, see you out there teachers!](img/sky-and-sea.jpg)
+:::
+::::::::::::::
+
+# References {.allowframebreaks}

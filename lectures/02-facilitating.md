@@ -181,3 +181,19 @@ Question: Does this conflict with _explicit teaching_?
 - Be prepared to clarify or rephrase your questions.
 - Be supportive in responding to questions.
 - Be mindful of students' feelings.
+
+# Questions: Who has a question?
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Who has a question?**
+
+_It's time for a break so we can remember questions for when we come back or for discussion over coffee..._
+
+:::
+::: {.column width="40%"}
+![Time for coffee.](img/coffee-sisko.jpg)
+:::
+::::::::::::::
+
+# References {.allowframebreaks}

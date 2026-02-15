@@ -476,4 +476,18 @@ Let's discuss together.
 - No approach is “singular”. They are used in combination in various ways and often occur at the same time in different contexts or at different levels of learning.
 - No approach is “universal”. In each class, there will be learners with their own individual learning needs. Your teaching approach should be responsive, adaptive and inclusive.
 
+# Questions: Who has a question?
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Who has a question?**
+
+_It's time for a break so we can remember questions for when we come back or for discussion over coffee..._
+
+:::
+::: {.column width="40%"}
+![Time for coffee.](img/coffee-janeway.jpg)
+:::
+::::::::::::::
+
+# References {.allowframebreaks}

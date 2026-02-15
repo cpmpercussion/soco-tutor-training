@@ -333,3 +333,20 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 
 - [ANU L&T Designing and Using Rubrics](https://learningandteaching.anu.edu.au/resource-collection/designing-and-using-rubrics/)
 - [High Impact Teaching Strategies](https://www.education.vic.gov.au/Documents/school/teachers/support/high-impact-teaching-strategies.pdf) (Victoria State Government)
+
+
+# Questions: Who has a question?
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Who has a question?**
+
+_It's time for a break so we can remember questions for when we come back or for discussion over tea..._
+
+:::
+::: {.column width="40%"}
+![Time for tea.](img/tea-earlgrey-hot.jpg)
+:::
+::::::::::::::
+
+# References {.allowframebreaks}
