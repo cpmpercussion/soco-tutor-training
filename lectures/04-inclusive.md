@@ -70,17 +70,22 @@ Think-Pair-Share:
 
 Again, these concepts are related. What are the difference in practice?
 
-### Accessibility (foundations)
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+### Accessibility: foundations
 
 - **Barrier removal:** Eliminating specific obstacles to access learning materials and environments
 - **Compliance-driven:** Requirements in law and ANU policy
 - **Reactive approach:** Responds to found needs through accommodations (e.g., ANU EAP)
-
-### Inclusion (next steps)
+:::
+::: {.column width="50%"}
+### Inclusion: next steps
 
 - **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
 - **Proactive design:** Intentionally shapes education to support diverse learners from the outset
 - **Community-building:** beyond accommodations to support all students
+:::
+::::::::::::::
 
 # Equitable access to learning
 
