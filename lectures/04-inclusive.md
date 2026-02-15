@@ -66,9 +66,7 @@ Think-Pair-Share:
 
 [Guideline - Code of practice for teaching and learning](https://policies.anu.edu.au/ppl/document/ANUP_000726)
 
-## Accessibility vs Inclusion
-
-Again, these concepts are related. What are the difference in practice?
+## Accessibility and Inclusion are related but not identical
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
@@ -78,7 +76,7 @@ Again, these concepts are related. What are the difference in practice?
 - **Compliance-driven:** Requirements in law and ANU policy
 - **Reactive approach:** Responds to found needs through accommodations (e.g., ANU EAP)
 :::
-::: {.column width="50%"}
+::: {.column width="50%"}g
 ### Inclusion: next steps
 
 - **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
