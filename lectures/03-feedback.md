@@ -13,75 +13,102 @@ In this session we will:
 
 ## Task: Worries and Questions (5mins)
 
-What worries and questions do you have about feedback and marking?
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+> What worries and questions do you have about feedback and marking?
+
 Use the sticky notes from your table and answer these two questions:
 
-1. What questions do you have about __feedback__?
-2. What questions do you have about __marking__?
+1. What questions do you have about **feedback**?
+2. What questions do you have about **marking**?
 
 One question per sticky note! We will hear some together from each table.
+:::
+::: {.column width="40%"}
+![](img/dom-fou-YRMWVcdyhmI-unsplash.jpg)
+:::
+::::::::::::::
 
 # Assessment and Feedback
 
 ## Purpose of assessment
 
-__Diagnosing__
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+**Diagnosing**
 
 - Focus on what is known 
 - Beginning of topic/course
 - Identifies prior learning
 
- __Monitoring__ 
+**Monitoring**
 
 - Focus on learning process during a course
 - During a topic/course
 - Promotes reflection and improvement
-
- __Evaluating__ 
+:::
+::: {.column width="50%"}
+**Evaluating**
 
 - Focus on evaluation
 - End of topic/course
+:::
+::::::::::::::
 
 ## Course assessments
 
-What are the assessments in the course(s) you’ll be tutoring in?
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+What are the assessments in the course(s) you'll be tutoring in?
 
 - What each assessment involves
 - When the assessments are due
 - Your role as a tutor
 
 Are these assessments opportunities for feedback? What is the purpose?
+:::
+::: {.column width="40%"}
+![](img/M3_7.png){width=40%}
+![](img/M3_8.png){width=40%}
+![](img/M3_9.png){width=40%}
+![](img/M3_10.png){width=40%}
+:::
+::::::::::::::
 
-![](img/M3_7.png){width=20%}
-![](img/M3_8.png){width=20%}
-![](img/M3_9.png){width=20%}
-![](img/M3_10.png){width=20%}
+<!-- ## Effective feedback
 
-## Effective feedback
+Can you think of an example of  **“good”**  feedback you have experienced as a learner?
 
-Can you think of an example of  __“good”__  feedback you have experienced as a learner?
+**Consider the context, e.g.:**
 
-__Consider the context, e.g.:__ 
-
-- who 
+- who
 - what
 - when
 - where
 - how
-- why
+- why -->
 
 ## Task: Effective Feedback (5mins)
 
-- By yourself, reflect on your experiences  _giving_  and  _receiving_  learning feedback. _What does effective feedback look like?_
-- Individually write down 3 adjectives, one per sticky note: _Effective feedback should be…_
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+By yourself, reflect on your experiences  _giving_  and  _receiving_ learning feedback. _What does effective feedback look like?_
 
-- Share your 3 adjectives with your group and explain why you chose them.
+Individually write down 3 adjectives, one per sticky note: _Effective feedback should be…_
+
+Share your 3 adjectives with your group and explain why you chose them.
 
 We will make a big list together on PollEverywhere.
+:::
+::: {.column width="40%"}
+![Reflect on feedback.](img/reflection.jpg)
+:::
+::::::::::::::
+
 
 ## Principles of effective feedback
 
-![](img/M3_23.png){width=75%}
+![Aspects of feedback](img/M3_23.png){width=65%}
 
 ## Actionable
 
@@ -141,12 +168,13 @@ We will make a big list together on PollEverywhere.
 
 ## Applying the principles
 
-Consider the approach below when providing feedback that promotes the 9 Principles. 
-You may also apply facilitation techniques where appropriate.
+Consider this approach below when providing feedback:
 
 ![](img/M3_34.png){width=25%}
 ![](img/M3_35.png){width=25%}
 ![](img/M3_36.png){width=25%}
+
+You may also apply facilitation techniques where appropriate.
 
 ## Challenges with feedback
 
@@ -154,19 +182,19 @@ You may also apply facilitation techniques where appropriate.
 
 - Managing time and resources for providing and following up on feedback
 - Potential student over-reliance on teacher feedback
-- Managing class sizes or marking loads
+- Managing class sizes or marking loads
 - Managing student expectations about feedback.
-- Effectively tailoring feedback to learner needs
+- Effectively tailoring feedback to learner needs
 - Potential miscommunication or misunderstanding
 
 What might you do to overcome or address these?
 
-## Convenor tips:
+## Tips from a Convenor
 
 Some students will attack feedback and use the content to appeal a grade.
 
 - Know the ANU grading rubric (more later): don't write "excellent work" when it's at the credit level. A credit is "good".
-- WRrte why the work was at the grade level, and what areas prevent it from being higher.
+- Write why the work was at the grade level, and what areas prevent it from being higher.
 - If it's a fail, be clear: "This work does not meet our standards... (some parts) show developing understanding (these parts) could be improved".
 - Always address the work, not the student.
 
@@ -220,7 +248,7 @@ Generative AI is a quickly and constantly evolving domain.
 Guidance, policies and practices are also changing in response.  
 Here are some useful resources that are available now and relevant to your teaching.
 
-- "AI Essentials" resources on the Learning & Teaching blog [https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/](https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/)
+- "AI Essentials" resources on the Learning & Teaching blog [https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/](https://learningandteaching.anu.edu.au/resource-collection/ai-essentials/)
 - ANU Library AI Guide[https://libguides.anu.edu.au/generative-ai](https://libguides.anu.edu.au/generative-ai)
 - Academic Skills: Best practice when using generative AI[https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using](https://www.anu.edu.au/students/academic-skills/academic-integrity/best-practice-principles/best-practice-when-using) -->
 
@@ -240,20 +268,20 @@ Let's have a bit of a discussion:
 **Question:** Do you look at rubrics or marking criteria as a student? Do you know how to find them?
 
 - Provide clear criteria for both student and marker.
-- Allow consistency and clear feedback – where and how students can improve.
+- Allow consistency and clear feedback – where and how students can improve.
 - Can be provide various levels of detail.
-- Can be used before  __(preparation)__ , during  __(production)__  and after  __(feedback, reflection, review and improvement)__
+- Can be used before  **(preparation)** , during  **(production)**  and after  **(feedback, reflection, review and improvement)**
 
 ## Rubrics in the assessment process
 
-- __Before assessment:__
+- **Before assessment:**
   - Unpack what is required.
   - Understand expectations and approaches.
   - Focus learning and set goals.
-- __During assessment:__
+- **During assessment:**
   - Students examine and evaluate own progress.
   - Teachers use rubrics as focal point for moderation (e.g., in a larger cohort)
-- __After assessment:__
+- **After assessment:**
   - Give feedback against specified criteria.
   - Identify strengths and weaknesses and areas to improve
   - Understand the standards and how grades are allocated
@@ -264,17 +292,17 @@ Let's have a bit of a discussion:
 
 | Grade | Letter Grade | Mark (%) | Standards |
 | :-: | :-: | :-: | :-: |
-| High Distinction | HD | 80-100 | __exceptional quality__... |
-| Distinction | D | 70-79 | __superior quality__... |
-| Credit | C | 60-69 | __good quality__...|
-| Pass | P | 50-59 | __satisfactory quality__... |
+| High Distinction | HD | 80-100 | **exceptional quality**... |
+| Distinction | D | 70-79 | **superior quality**... |
+| Credit | C | 60-69 | **good quality**...|
+| Pass | P | 50-59 | **satisfactory quality**... |
 | Fail | N | 0-49 | Attainment of learning outcomes has **not been demonstrated** |
 
 [ANU Policy: Student assessment (Coursework)](https://policies.anu.edu.au/ppl/document/ANUP_004603)
 
 ## Rubric: Blog
 
-![](img/rubric_blog.png){width=50%}
+![](img/rubric_blog.png){width=45%}
 
 ## Rubric: Essay
 
@@ -320,14 +348,14 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 
 ## Takeaways
 
-- Understand (and practice) the tools and approaches for feedback and marking expected in your School or College.
+- Understand (and practice) the tools and approaches for feedback and marking expected in your School or College.
 - Where possible, ask for guidance or an opportunity to work or mark as a team.
-- Use available rubrics, criteria documents, task descriptions and standards.
-- Attend any assessment orientation, benchmarking or moderation meetings organised for the team.
-- Set a timer for each stage of the process and stick to it!
-- Take regular breaks to avoid fatigue or getting stuck.
+- Use available rubrics, criteria documents, task descriptions and standards.
+- Attend any assessment orientation, benchmarking or moderation meetings organised for the team.
+- Set a timer for each stage of the process and stick to it!
+- Take regular breaks to avoid fatigue or getting stuck.
 - Be selective, deliberate and learning-focused with your feedback.
-- Be clear about your feedback _before_ assigning a grade or marks.
+- Be clear about your feedback _before_ assigning a grade or marks.
 
 ## More Resources
 
