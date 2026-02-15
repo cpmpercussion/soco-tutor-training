@@ -59,6 +59,23 @@ _Examples:_ piano teaching kids, coaching soccer team, homework help for high-sc
 - **Meeting with course convenors and other tutors:** going to meetings, understanding duties and tasks, providing ideas/info, incorporating feedback
 - **Filling in timesheets, doing admin:** navigating ANU websites, understanding rights/responsibilities at work, asking for help
 
+## Qualifications for teaching
+
+> Why did I have to fill in a `docx` form?
+
+HESF (Higher Education Standards Framework) expects universities to have teachers with one degree higher than the taught curriculum.
+Some level of professional equivalency allowed given they have **supervision** and **professional development** (PD), e.g.,  
+
+- PhD students allowed to teach master students
+- undergrads may teach undergrads provided they have achieved excellent results in the subject
+- Other examples, see [ANUP_016608 S28 Table 2](https://policies.anu.edu.au/ppl/document/ANUP_016608)
+
+These rules are not new, but CSS is coming into compliance.
+
+This semester, we learned that the `.docx` form is unhelpful, ongoing process to replace this.
+
+Professional development: training at the start 😇, refresher session every year 👩🏽‍🏫
+
 ## Timesheets, hours, and earnings codes
 
 Every two weeks you will need to fill in a timesheet on HORUS (the ANU HR website). 
@@ -207,8 +224,8 @@ Reflect on your teaching experiences, expectations and learning needs.
 
 Select three sticky notes from your table and answer these three questions:
 
-- What __do you enjoy__ or __expect to enjoy__ about tutoring?
-- What challenges __have you faced__ or do you __expect to face__ as a tutor?
+- What **do you enjoy** or **expect to enjoy** about tutoring?
+- What challenges **have you faced** or do you **expect to face** as a tutor?
 - What aspects of tutoring would you most like support with?
 
 Discuss with your group and then we'll hear one example of each question from each table.
@@ -284,7 +301,7 @@ Knowing what teaching **is** can be tricky!
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-__The teacher is like a fountain of knowledge.__
+**The teacher is like a fountain of knowledge.**
 
 - The teacher transfers knowledge to the learner who “receives” it.
 - Learners are passive and have very little autonomy in their learning.
@@ -300,7 +317,7 @@ __The teacher is like a fountain of knowledge.__
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-__The teacher is like a craftsperson or a sculptor.__ 
+**The teacher is like a craftsperson or a sculptor.** 
 
 - The teacher shapes and “moulds” knowledge in the learner.
 - Learners have limited autonomy in their learning.
@@ -316,16 +333,17 @@ __The teacher is like a craftsperson or a sculptor.__
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-__The teacher is like an architect, draftsperson or city planner.__
+**The teacher is like an architect, or city planner.**
 
 - A hybrid of transfer and shaping.
 - The teacher provides the "materials” and “plans” for the learners to build from.
 - Learners have more autonomy to apply knowledge and skills to achieve predetermined outcomes.
 - The teacher instructs, enables, directs and structures learning.
 - Often found in lectures, labs and practicals, workshops etc.
+
 :::
 ::: {.column width="50%"}
-![Here's the plans, get to work.](img/M1_8.png){width=70%}
+![Here's the plans, get to work.](img/M1_8.png){width=60%}
 :::
 ::::::::::::::
 
@@ -333,25 +351,24 @@ __The teacher is like an architect, draftsperson or city planner.__
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-__The teacher is like an expert guide.__
+**The teacher is like an expert guide.**
 
-- Learning is a journey of exploration facilitated by the teacher.
+- Learning is a journey of exploration facilitated by the teacher.
 - Learner has a high degree of autonomy in navigating their learning path.
 - Teacher monitors, guides, facilitates, and enables learning. They point the way.
 - Often found in problem and project-based learning, research projects etc.
+
 :::
 ::: {.column width="50%"}
-![The valleys of difficulty and the peaks of enlightenmnt.](img/M1_9.png){width=80%}
+![The valleys of difficulty and the peaks of enlightenment.](img/M1_9.png){width=80%}
 :::
 ::::::::::::::
-
-
 
 ## Growing Theory
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-__The teacher is like a gardener.__
+**The teacher is like a gardener.**
 
 - The learner produces knowledge through exploration and discovery.
 - Learners have the autonomy to actively define their own learning path.
@@ -360,7 +377,7 @@ __The teacher is like a gardener.__
 - An on-going, evolving process.
 :::
 ::: {.column width="50%"}
-![You get to work, I'll be back to check on you in a month.](img/M1_10.png){width=70%}
+![You get to work, I'll be back to check on you in a month.](img/M1_10.png){width=60%}
 :::
 ::::::::::::::
 
@@ -376,9 +393,9 @@ __The teacher is like a gardener.__
 
 Imagine you are a tutor for COMP1200 teaching your students how to write recursive functions in C.
 
-- In the teaching materials, you find  __5 activity designs:__
+- In the teaching materials, you find  **5 activity designs:**
 - You examine each activity and its teaching approach.
-- Thinking back on  __Fox’s Theories of Teaching,__  you decide to match _each activity_  to  _one_ of Fox’s metaphors.
+- Thinking back on  **Fox’s Theories of Teaching,**  you decide to match _each activity_  to  _one_ of Fox’s metaphors.
 
 Go to Charles' PollEverywhere to match activities to metaphors: <https://PollEv.com/charlesmarti205>
 
@@ -386,8 +403,8 @@ Go to Charles' PollEverywhere to match activities to metaphors: <https://PollEv.
 
 The tutor explains initial concept and demonstrates a prescribed method to write recursive functions.
 
-- The tutor presents some basic examples.
-- The tutor provides a method to solve similar examples.
+- The tutor presents some basic examples.
+- The tutor provides a method to solve similar examples.
 
 The tutor points students to resources on the course website to help solve more complex problems.
 
@@ -395,14 +412,13 @@ The tutor points students to resources on the course website to help solve more 
 
 Some students solve the problems quickly and find them too easy
 
-- The tutor asks them to find more challenging questions to attempt but allows them to leave early.
+- The tutor asks them to find more challenging questions to attempt but allows them to leave early.
 
 ## Approach B: Activity Stations
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
-
 
 - Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
 - The tutor encourages group work and moves around the room helping students who get stuck.
