@@ -183,6 +183,8 @@ Discuss as groups, and share an example from each table.
 
 > You can't use generative AI for any aspect of this course.
 
+> Students don't understand computers anymore.
+
 How do these statements interact with the idea of _academic standards_?
 
 # Strategies for inclusive teaching
