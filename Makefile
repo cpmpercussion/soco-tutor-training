@@ -37,7 +37,7 @@ INDEX_GENERATOR = generate_index.py
 all: reveal beamer assessments resources workshops images index
 
 .PHONY: public
-public: reveal index
+public: reveal beamer assessments workshops images index
 
 .PHONY: html
 html: reveal assessments resources workshops images index
@@ -79,6 +79,7 @@ PANDOC_COMMON_OPTS = --standalone \
 										 --citeproc \
 										 --bibliography=$(REFERENCES) \
 										 --csl=apa.csl \
+										 -M link-citations=true \
 										 --resource-path=.:$(LECTURES_DIR):$(ASSESSMENTS_DIR):$(RESOURCES_DIR):$(WORKSHOPS_DIR)
 
 REVEAL_OPTS = -t revealjs \
@@ -93,17 +94,24 @@ REVEAL_OPTS = -t revealjs \
 							-V hash=true \
 							-V history=false \
 							-V slideNumber=true \
-							--include-in-header css/slides.css \
-
-# 							-V theme=moon
+							--css charles_reveal_dark.css
 
 PDF_OPTS = --metadata date="$(date '+%Y-%m-%d')" \
-						--output=$PORTFOLIO_PDF \
-						-V 'geometry: left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm' \
+					 --number-sections=true \
+					 -V 'geometry: left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm' \
 		       -V 'papersize: a4' \
-					 -V 'pagestyle:headings' \
-					 -V 'fontfamily:libertine,sourcecodepro' \
 					 -V 'fontsize:11pt' \
+					 -V 'pagestyle:headings' \
+					 --pdf-engine=lualatex \
+					 -V mainfont="Linux Libertine O" \
+					 -V sansfont="Noto Sans" \
+					 -V mainfontfallback="NotoColorEmoji:mode=harf" \
+
+# 					 -V 'fontfamily:libertine,sourcecodepro' \
+
+
+# --include-in-header css/slides.css \
+# -V theme=night
 
 BEAMER_OPTS = -t beamer \
               -V aspectratio=169 \
@@ -111,7 +119,7 @@ BEAMER_OPTS = -t beamer \
 							-V colortheme=owl \
 							--pdf-engine=lualatex \
 							-V mainfont="Noto Sans" \
-							-V mainfontfallback="NotoColorEmoji:mode=harf"
+							-V mainfontfallback="NotoColorEmoji:mode=harf" \
 
 # --pdf-engine=xelatex
 # options for the pandoc HTML writer
@@ -147,13 +155,13 @@ $(ASSESSMENTS_OUT)/%.pdf: $(ASSESSMENTS_DIR)/%.md
 
 # Generate assessments
 .PHONY: assessments
-assessments: $(ASSESSMENTS_OUT) $(ASSESSMENTS_HTMLS) $(ASSESSMENTS_PDFS) index
+assessments: $(ASSESSMENTS_OUT) $(ASSESSMENTS_HTMLS) $(ASSESSMENTS_PDFS)
 
 # Find all markdown workshops
 WORKSHOPS_MDS = $(wildcard $(WORKSHOPS_DIR)/*.md)
 WORKSHOPS_HTMLS = $(patsubst $(WORKSHOPS_DIR)/%.md,$(WORKSHOPS_OUT)/%.html,$(WORKSHOPS_MDS))
 
-$(WORKSHOPS_OUT)/%.html: $(WORKSHOPS_DIR)/%.md
+$(WORKSHOPS_OUT)/%.html: $(WORKSHOPS_DIR)/%.md $(REFERENCES)
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(HTML_OPTS) $< -o $@
 
 # Generate workshops
@@ -186,9 +194,6 @@ beamer: $(LECTURES_OUT) $(BEAMER_PDFS)
 $(LECTURES_OUT)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
 
-
-
-
 # Index
 
 $(INDEX_HTML): $(LECTURE_MDS) $(ASSESSMENTS_MDS) $(WORKSHOPS_MDS) $(RESOURCES_MDS) $(INDEX_GENERATOR)
@@ -196,3 +201,21 @@ $(INDEX_HTML): $(LECTURE_MDS) $(ASSESSMENTS_MDS) $(WORKSHOPS_MDS) $(RESOURCES_MD
 
 .PHONY: index
 index: $(INDEX_HTML)
+
+# Mega PDFs for lectures and tutorials.
+
+ALL_LECTURES = $(OUTPUT_DIR)/all_lectures.pdf
+ALL_ASSESSMENTS = $(OUTPUT_DIR)/all_assessments.pdf
+ALL_WORKSHOPS = $(OUTPUT_DIR)/all_workshops.pdf
+
+$(ALL_LECTURES): $(LECTURE_MDS)
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PDF_OPTS) --metadata title="Lectures on Human-Computer Interaction" --metadata author="Charles Martin" --metadata date="2025" --toc=true -o $@ $^ 
+
+$(ALL_ASSESSMENTS): $(ASSESSMENTS_MDS)
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PDF_OPTS) --metadata title="Assessments for Human-Computer Interaction" --metadata author="Charles Martin" --metadata date="2025" --toc=true -o $@ $^
+
+$(ALL_WORKSHOPS): $(WORKSHOPS_MDS)
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PDF_OPTS) --metadata title="Workshops for Human-Computer Interaction" --metadata author="Charles Martin" --metadata date="2025" --toc=true -o $@ $^
+
+.PHONY: bigfiles
+bigfiles: $(ALL_LECTURES) $(ALL_ASSESSMENTS) $(ALL_WORKSHOPS)
