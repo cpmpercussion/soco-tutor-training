@@ -180,5 +180,4 @@ Question: Does this conflict with _explicit teaching_?
 - Keep questions as simple as possible.
 - Be prepared to clarify or rephrase your questions.
 - Be supportive in responding to questions.
-- Be mindful of students’ feelings.
-
+- Be mindful of students' feelings.
