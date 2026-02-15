@@ -24,3 +24,10 @@ _Acknowledgements:_ Many slides here created by members of the former ANU Centre
 - 00:30 2. Reflection
 - 01:15 3. Strategies
 
+# Strategies: High Impact Teaching Strategies
+
+## High Impact Teaching Strategies
+
+![The 10 high impact teaching strategies](img/high-impact-teaching-strategies.jpg)
+
+[@high_impact_teaching_strategies]
