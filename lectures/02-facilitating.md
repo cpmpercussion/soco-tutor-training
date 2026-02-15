@@ -9,7 +9,7 @@ author: Dr Charles Martin
 
 Think of a time you had:
 
-- a good tutorial experience
+- a  good tutorial experience
 - a disappointing tutorial experience
 
 Discuss with your group and find one example of each (one good, one bad) to share.
@@ -28,13 +28,18 @@ Let's look at _facilitation_ as a strategy and skill for you to have in your tea
 
 ## Approaches to learning
 
-![](img/M2_5.jpg){width=40%}
-
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 You are going to a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
 
 - What is the objective of the activity?
 - What does the learner have to do?
 - What are the rules and conditions?
+:::
+::: {.column width="40%"}
+![Learning how to cross a room blindfolded.](img/M2_5.jpg){width=90%}
+:::
+::::::::::::::
 
 ## Thinking about roles
 
@@ -47,6 +52,8 @@ Let's think about what was happening.
 
 ## Task thinking about the activity (5min)
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 Which approach do you think:
 
 - Is quicker?
@@ -57,6 +64,11 @@ Which approach do you think:
 - Provides a more engaging experience?
 
 Discuss in your group, and we'll discuss together in a few minutes.
+:::
+::: {.column width="40%"}
+![Have a think...](img/mikael-kristenson-3aVlWP-7bg8-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Asking questions
 
@@ -87,6 +99,8 @@ Resource: [asking questions to support learning](https://melbourne-cshe.unimelb.
 
 ## Task: Facilitating a learning activity (15mins).
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 Soon you are going facilitate an activity to solve a puzzle on your own.
 
 You'll need groups of three, and we will do this three times so that **everybody** gets to be the facilitator.
@@ -96,6 +110,12 @@ You'll need groups of three, and we will do this three times so that **everybody
 - Round 3: Question Puzzle
 
 In each group, one person will be **student**, one **facilitator** and one **observer**. Switch after each round.
+:::
+::: {.column width="40%"}
+![Time to think.](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg)
+:::
+::::::::::::::
+
 
 ## Roles
 
@@ -142,10 +162,17 @@ What might you do when...
 
 ## Task: Questioning in Computing Labs (5mins)
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 Based on your experience as a learner, how can questioning be used in computing labs or your tutorials?
 
 - Come up with three examples with your group.
 - Choose one to share with the room.
+:::
+::: {.column width="40%"}
+![How to apply questioning?](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg)
+:::
+::::::::::::::
 
 ## Coding Class Applications
 
@@ -162,7 +189,7 @@ Question: Does this conflict with _explicit teaching_?
 
 ## Facilitating effectively:
 
-- "Ask, don’t tell."
+- "Ask, don't tell."
 - Design meaningful learning activities.
 - Provide clear expectations, goals and desired outcomes.
 - Consider what information students need and when.
