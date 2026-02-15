@@ -29,28 +29,33 @@ This session is about how we can teach to support a _diversity_ of students and 
 
 - **Accessibility**: "Assisting students to participate fully in their program of study by minimising the impact of _disability_ and _disadvantage_ on learning." [ANU Accessibility Page](https://www.anu.edu.au/students/accessibility)
 
-## Diversity in the classroom
+## Task Diversity in the classroom
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
 Think-Pair-Share:
 
-> Given that university classrooms are diverse, what opportunities and benefits does this provide?
+> Given that university classrooms are diverse, what opportunities and benefits does this provide?
 
 1. Think individually (1 min)
-2. Pair – discuss with a partner (1 min)
-3. Share in class - Listen to participants responses (2 mins)
+2. Pair: discuss with a partner (1 min)
+3. Share: present examples to the group (2 mins)
 :::
 ::: {.column width="50%"}
-![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=60%}
+![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=50%}
 :::
 ::::::::::::::
 
 ## ANU stance on inclusion
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 > Membership of the ANU community means committing to our institutional values, including “being a standard-bearer for equity and inclusion”. [ANU Strategic Plan 2021-2025](https://www.anu.edu.au/about/strategic-planning/anu-strategic-plan-2021-2025)
-
-![Inclusion, equity and diversity are ANU values.](img/anu_values.png)
+:::
+::: {.column width="40%"}
+![Inclusion, equity and diversity are ANU values.](img/anu_values.png){width=100%}
+:::
+::::::::::::::
 
 ## Code of practice for teaching and learning 
 
@@ -67,14 +72,14 @@ Again, these concepts are related. What are the difference in practice?
 
 ### Accessibility (foundations)
 
-- **Barrier removal:** Focuses on eliminating specific obstacles to access learning materials and environments
+- **Barrier removal:** Eliminating specific obstacles to access learning materials and environments
 - **Compliance-driven:** Requirements in law and ANU policy
-- **Reactive approach:** Responds to identified needs through accommodations and modifications (e.g., ANU EAP)
+- **Reactive approach:** Responds to found needs through accommodations (e.g., ANU EAP)
 
 ### Inclusion (next steps)
 
 - **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
-- **Proactive design:** Intentionally shapes the entire educational experience to support diverse learners from the outset
+- **Proactive design:** Intentionally shapes education to support diverse learners from the outset
 - **Community-building:** beyond accommodations to support all students
 
 # Equitable access to learning
@@ -86,7 +91,7 @@ Again, these concepts are related. What are the difference in practice?
 ![Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)](img/equity.png){width=70%}
 
 - **Equality**: Everyone receives the same support regardless of need.
-- **Equity**: Individuals receive the support they need to achieve the desired outcomes.
+- **Equity**: Individuals receive the support they need to achieve the desired outcomes.
 
 ## Barriers to learning
 
@@ -108,16 +113,16 @@ Some other barriers:
 :::
 ::::::::::::::
 
-## Task: Identifying barriers to learning
+## Task: Identifying barriers to learning
 
 What's a barrier to learning that you have observed as a student? 
 Is there something you have experienced or seen in action temporarily, or in particular situations?
 
-1. Write down on some sticky notes barriers you can think of.
+1. Write down on some sticky notes barriers you can think of.
 
-2. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
+2. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
 
-## Task: Overcoming barriers to learning
+## Task: Overcoming barriers to learning
 
 > Consider the students you may be teaching and the permanent or temporary or situational barriers to learning that they may face.
 
@@ -129,15 +134,13 @@ _Share_: Spend two minutes sharing ideas with the person next to you.
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
+
 - Digital content in your classes may not be accessible our students because of issues with formats, images, or structure.
-
 - For example, folks who use screen readers or other assistive technologies.
-
 - But also, folks looking at course sites on their phone or tablet (!)
-
 - ANU has [some advice about accessible digital content](https://learningandteaching.anu.edu.au/resource-collection/accessible-digital-content/)
+- **Canvas** has built-in accessibility checkers
 
-- Advice on text, colours, images, tables, accessibility checkers, etc.
 :::
 ::: {.column width="50%"}
 ![ANU's Learning and Teaching resources](img/learning-and-teaching-resources.png)
@@ -234,13 +237,13 @@ This is about being explicit in the skills needed to complete and demonstrate le
 ## Create an inclusive classroom environment
 
 :::::::::::::: {.columns}
-::: {.column width="40%"}
+::: {.column width="60%"}
 - Cultivate a positive and inclusive classroom culture
 - Support goal setting and achievement
 - Encourage self-reflection
 - Promote positive role models
 :::
-::: {.column width="60%"}
+::: {.column width="40%"}
 ![Teaching at a workshop](img/teaching-at-nime.jpg)
 :::
 ::::::::::::::
@@ -248,12 +251,12 @@ This is about being explicit in the skills needed to complete and demonstrate le
 ## Embed support systems
 
 :::::::::::::: {.columns}
-::: {.column width="40%"}
+::: {.column width="60%"}
 - Incorporate help seeking into classes 
 - how can we encourage questions?
 - Direct students to available support resources
 :::
-::: {.column width="60%"}
+::: {.column width="40%"}
 ![Photo by Matthew Waring on Unsplash](img/matthew-waring-MJAoiige14E-unsplash.jpg)
 :::
 ::::::::::::::
@@ -275,9 +278,23 @@ At your table:
 
 We'll bring the room together to hear some ideas.
 
+# Questions: Who has a question?
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Who has a question?**
+
+_It's time to head home! Happy to take questions now or hear from you over email anytime..._
+
+:::
+::: {.column width="40%"}
+![Time to head home, see you out there teachers!](img/sky-and-sea.jpg)
+:::
+::::::::::::::
+
 # Scenario discussions
 
-Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
+Each group will have 10 minutes to work through a scenario and formulate a response to share with everybody.
 
 - **Consider** the scenario and **think** about your response.
 - **Pair** with _another group member_ to share and discuss your thoughts.
@@ -322,18 +339,5 @@ __Discuss:__
 > - __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
 
 
-# Questions: Who has a question?
-
-:::::::::::::: {.columns}
-::: {.column width="60%"}
-**Who has a question?**
-
-_It's time to head home! Happy to take questions now or hear from you over email anytime..._
-
-:::
-::: {.column width="40%"}
-![Time to head home, see you out there teachers!](img/sky-and-sea.jpg)
-:::
-::::::::::::::
 
 # References {.allowframebreaks}
