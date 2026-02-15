@@ -1,12 +1,34 @@
 {
-  "makefile.configureOnOpen": false,
-  "liveServer.settings.root": "/build",
   "emeraldwalk.runonsave": {
+
     "commands": [
       {
+        // Run whenever a markdown file is saved
         "match": ".md",
-        "cmd": "make html"
+        "cmd": "make all"
       }
     ]
   },
+  "liveServer.settings.root": "/build",
+  "python-envs.defaultEnvManager": "ms-python.python:pyenv",
+  "python-envs.pythonProjects": [],
+  "cSpell.words": [
+    "Adiwangsa",
+    "AEST",
+    "analysed",
+    "behaviours",
+    "Bennetts",
+    "Bidwell",
+    "Choi",
+    "Conceptualising",
+    "internalise",
+    "Karim",
+    "Marsden",
+    "nonstandardinteraction",
+    "Reitmaier",
+    "SIGCHI",
+    "summarising",
+    "visualise",
+    "Zabin"
+  ]
 }
