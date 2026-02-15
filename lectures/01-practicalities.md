@@ -215,16 +215,13 @@ Discuss with your group and then we'll hear one example of each question from ea
 
 ## How do people develop as teachers?
 
-[Kugel (1993)](https://doi.org/10.1080/03075079312331382241) describes one pathway of development as university teachers:
+@kugel_how_professors_develop_as_teachers describes one pathway of development as university teachers:
 
 - Self
 - Subject
 - Student...
 
 As educators we also learn and are influenced by our environment, experiences, and self.
-
-Citation: Peter Kugel (1993) How professors develop as teachers, Studies in Higher
-Education, 18:3, 315-328, DOI: [10.1080/03075079312331382241](https://doi.org/10.1080/03075079312331382241)
 
 ## Phase 1: Emphasis on Teaching
 
@@ -277,11 +274,11 @@ Later stages:
 
 Knowing what teaching **is** can be tricky!
 
-[Fox’s (1983) "Personal Theories of Teaching"](https://doi.org/10.1080/03075078312331379014) offers metaphors for different ways that teaching happens.
+@fox_personal_theories_of_teaching ["Personal Theories of Teaching"](https://doi.org/10.1080/03075078312331379014) offers metaphors for different ways that teaching can happen:
+
+> Transfer, Shaping, Building, Traveling, Growing
 
 ![Fox's five metaphors for teaching](img/M1_11.png){width=70%}
-
-Citation: Fox, D. (1983). Personal theories of teaching. Studies in Higher Education, 8(2), 151–163. DOI: [10.1080/03075078312331379014](https://doi.org/10.1080/03075078312331379014)
 
 ## Transfer Theory
 
