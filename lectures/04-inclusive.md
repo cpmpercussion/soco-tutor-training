@@ -76,7 +76,7 @@ Think-Pair-Share:
 - **Compliance-driven:** Requirements in law and ANU policy
 - **Reactive approach:** Responds to found needs through accommodations (e.g., ANU EAP)
 :::
-::: {.column width="50%"}g
+::: {.column width="50%"}
 ### Inclusion: next steps
 
 - **Belonging-focused:** Creates environments where all students feel valued, supported, and able to participate fully
