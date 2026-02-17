@@ -166,12 +166,12 @@ Submit your timesheet **on time**. (please!!)
 **Prioritise your safety. Just walk out.**
 
 1. You are in control of your class, if you feel unsafe **walk out!**
-2. go to a **safe place** (e.g., CSIT Front Office)
+2. go to a **safe place** (e.g., Skaidrite Darius Front Office)
 3. call **ANU security**: **61252249** or [ANUOK App](https://services.anu.edu.au/campus-environment/safety-security/anuok-app)
 
 ## Emergency Buttons and Phones
 
-- CSIT labs have a **red panic button** on the wall near the door: ANU Security will visit immediately if the button is pressed.
+- Skaidrite Darius labs have a **red panic button** on the wall near the door: ANU Security will visit immediately if the button is pressed.
 - Life threatening emergency call **000** from your phone or **0000** from an ANU Phone, then call ANU Security **61252249** (**52249** from internal phone).
 
 Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety-security)
@@ -183,7 +183,7 @@ Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety
 ::: {.column width="50%"}
 - Other tutors: course team / communication channels (varies by course)
 - Course Convenor (your direct manager)
-- School of Computing front desk (CSIT Level 3 or <admin.comp@anu.edu.au>)
+- School of Computing front desk (Skaidrite Darius Level 3 or <admin.comp@anu.edu.au>)
 - Peter Hoefner - Associate Director (Education) in School of Computing: <adir.education.comp@anu.edu.au>
 - **me** - Assistant to the above - also <adir.education.comp@anu.edu.au>
 :::
