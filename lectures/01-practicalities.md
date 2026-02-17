@@ -19,14 +19,14 @@ _Acknowledgements:_ Many slides here created by members of the former ANU Centre
 
 ## Schedule
 
-- 09:30	1. How to be a tutor
-- 11:00	Morning Tea
-- 11:30	2. Facilitating Classes
+- 09:30: 1. How to be a tutor
+- 11:00: Morning Tea
+- 11:30: 2. Facilitating Classes
 - 13:00	Lunch
-- 13:30	3. Feedback and Marking
-- 15:00	Afternoon Tea
-- 15:30	4. Inclusive Teaching
-- 17:00	Finish
+- 13:30: 3. Feedback and Marking
+- 15:00: Afternoon Tea
+- 15:30: 4. Inclusive Teaching
+- 17:00: Finish
 
 # How to be a tutor
 
@@ -34,6 +34,8 @@ _Acknowledgements:_ Many slides here created by members of the former ANU Centre
 
 ## Task: Journey as an educator (5mins)
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 Everybody here has experience as a **learner** but this might be the start of your journey as an **educator**.
 
 Or you might have had some experiences before... (maybe not as a job!)
@@ -41,6 +43,13 @@ Or you might have had some experiences before... (maybe not as a job!)
 _Examples:_ piano teaching kids, coaching soccer team, homework help for high-schoolers, leading a club or society  
 
 **Who here has had a teaching experience before?**
+
+We will discuss examples from the room.
+:::
+::: {.column width="40%"}
+![Have you taught before?](img/anu-classroom.jpg)
+:::
+::::::::::::::
 
 ## Charles' Teaching Journey
 
@@ -50,7 +59,8 @@ _Examples:_ piano teaching kids, coaching soccer team, homework help for high-sc
 - 2014-2016: Tutor and Casual Lecturer at ANU (COMP1720, MUSI3309, COMP2100, COMP2300)
 - 2019: Lecturer at ANU (COMP2300/6300, COMP1720/6720, COMP4350/8350)
 - 2022: Developed study programs for Human Centred and Creative Computing (HCCC-MAJ, HCCC-MIN, HCCC-SPEC, HCCM-SPEC)
-- 2025: New this year! Training new CSAs, teaching COMP3900/6390.
+- 2025: Training new CSAs, teaching COMP3900/6390.
+- 2026: ....????
 
 ## What's tutoring like?
 
@@ -220,6 +230,8 @@ We're going to talk about developing as an educator.
 
 ## Task: Getting to know you as a learner (5mins)
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 Reflect on your teaching experiences, expectations and learning needs.
 
 Select three sticky notes from your table and answer these three questions:
@@ -229,6 +241,11 @@ Select three sticky notes from your table and answer these three questions:
 - What aspects of tutoring would you most like support with?
 
 Discuss with your group and then we'll hear one example of each question from each table.
+:::
+::: {.column width="40%"}
+![What are your expectations about tutoring?](img/product-school-XZkk5xT8Xrk-unsplash.jpg)
+:::
+::::::::::::::
 
 ## How do people develop as teachers?
 
@@ -253,7 +270,6 @@ As educators we also learn and are influenced by our environment, experiences, a
 :::
 ::::::::::::::
 
-
 ## Phase 2: Emphasis on Learning
 
 :::::::::::::: {.columns}
@@ -267,10 +283,9 @@ As educators we also learn and are influenced by our environment, experiences, a
 :::
 ::::::::::::::
 
-
 ## Risks
 
-Early stages: 
+Early stages:
 
 - Great content, students not engaging and not learning.
 - Overwhelm students with explanations: answering questions not asked.
@@ -283,211 +298,27 @@ Later stages:
 - Need to do _listening_ and _questioning_: these are hard skills.
 - Students annoyed! "Just tell me what to do!!"
 
-# Theories of teaching
-
-![Image by domlafou (Unsplash), Students at Aalto University, Espoo, Finland](img/dom-fou-YRMWVcdyhmI-unsplash.jpg){width=50%}
-
-## What do you mean by teaching?
-
-Knowing what teaching **is** can be tricky!
-
-@fox_personal_theories_of_teaching ["Personal Theories of Teaching"](https://doi.org/10.1080/03075078312331379014) offers metaphors for different ways that teaching can happen:
-
-> Transfer, Shaping, Building, Traveling, Growing
-
-![Fox's five metaphors for teaching](img/M1_11.png){width=70%}
-
-## Transfer Theory
+## Task: What stages resonates for you?
 
 :::::::::::::: {.columns}
-::: {.column width="50%"}
-**The teacher is like a fountain of knowledge.**
+::: {.column width="60%"}
+Think about the phases/stages of teaching described in @kugel_how_professors_develop_as_teachers
 
-- The teacher transfers knowledge to the learner who “receives” it.
-- Learners are passive and have very little autonomy in their learning.
-- The teacher presents, instructs, transfers, transmits and conveys learning.
-- Often found in lectures, presentations, seminars, reading lists and study notes etc.
+- Focus on self
+- Focus on subject
+- Focus on student
+- Student as active
+- Student as independent
+- Tuning
+
+> What stages resonate for you and why? Where are you on your teaching journey?
+
+Discuss in your groups and we will come together to hear some responses.
 :::
-::: {.column width="50%"}
-![Pouring knowledge into students.](img/M1_6.png){width=80%}
-:::
-::::::::::::::
-
-## Shaping Theory
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**The teacher is like a craftsperson or a sculptor.** 
-
-- The teacher shapes and “moulds” knowledge in the learner.
-- Learners have limited autonomy in their learning.
-- The teacher demonstrates, instructs, coaches and develops learning.
-- Often found in lectures, labs and practicals, workshops etc.
-:::
-::: {.column width="50%"}
-![Shaping young minds.](img/M1_7.png){width=80%}
+::: {.column width="40%"}
+![What kind of a teacher will you be this semester?](img/javier-trueba-iQPr1XkF5F0-unsplash.jpg)
 :::
 ::::::::::::::
-
-## Building Theory
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**The teacher is like an architect, or city planner.**
-
-- A hybrid of transfer and shaping.
-- The teacher provides the "materials” and “plans” for the learners to build from.
-- Learners have more autonomy to apply knowledge and skills to achieve predetermined outcomes.
-- The teacher instructs, enables, directs and structures learning.
-- Often found in lectures, labs and practicals, workshops etc.
-
-:::
-::: {.column width="50%"}
-![Here's the plans, get to work.](img/M1_8.png){width=60%}
-:::
-::::::::::::::
-
-## Travelling Theory
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**The teacher is like an expert guide.**
-
-- Learning is a journey of exploration facilitated by the teacher.
-- Learner has a high degree of autonomy in navigating their learning path.
-- Teacher monitors, guides, facilitates, and enables learning. They point the way.
-- Often found in problem and project-based learning, research projects etc.
-
-:::
-::: {.column width="50%"}
-![The valleys of difficulty and the peaks of enlightenment.](img/M1_9.png){width=80%}
-:::
-::::::::::::::
-
-## Growing Theory
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-**The teacher is like a gardener.**
-
-- The learner produces knowledge through exploration and discovery.
-- Learners have the autonomy to actively define their own learning path.
-- The teacher encourages, promotes, cultivates and nurtures learning.
-- Often found in self-directed learning, problem and project-based learning etc.
-- An on-going, evolving process.
-:::
-::: {.column width="50%"}
-![You get to work, I'll be back to check on you in a month.](img/M1_10.png){width=60%}
-:::
-::::::::::::::
-
-## Task: What do these mean to us? (2mins)
-
-![The _metaphors_ are not intended to be universal!](img/M1_11.png){width=70%}
-
-- Which of these approaches have you experienced?
-- What was the context and how did it affect learning?
-- Which of these approaches do you think are relevant to your own teaching?
-
-## Applying theory to practice
-
-Imagine you are a tutor for COMP1200 teaching your students how to write recursive functions in C.
-
-- In the teaching materials, you find  **5 activity designs:**
-- You examine each activity and its teaching approach.
-- Thinking back on  **Fox’s Theories of Teaching,**  you decide to match _each activity_  to  _one_ of Fox’s metaphors.
-
-Go to Charles' PollEverywhere to match activities to metaphors: <https://PollEv.com/charlesmarti205>
-
-## Approach A: Methods and Questions
-
-The tutor explains initial concept and demonstrates a prescribed method to write recursive functions.
-
-- The tutor presents some basic examples.
-- The tutor provides a method to solve similar examples.
-
-The tutor points students to resources on the course website to help solve more complex problems.
-
-- The students solve set problems from the lab webpage using the resources provided by the tutor.
-
-Some students solve the problems quickly and find them too easy
-
-- The tutor asks them to find more challenging questions to attempt but allows them to leave early.
-
-## Approach B: Activity Stations
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
-
-- Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
-- The tutor encourages group work and moves around the room helping students who get stuck.
-:::
-::: {.column width="50%"}
-![Activity Tables](img/M1_29.png){width=90%}
-:::
-::::::::::::::
-
-## Approach C: Steps
-
-The tutor presents the following steps on the whiteboard.
-
-1. Write a function definition
-2. Determine the base case for function and return the answer to that first.
-3. Determine the recursive case for the function and call the function from inside itself (more than once if needed).
-4. Test your function with different inputs.
-5. If necessary, update your function so that the outputs are correct.
-
-The students complete practice problems from the lab webpage. 
-
-## Approach D: Visualisation
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-The tutor shows this image on the board and explains how count the number of people in the list recursively.
-
-- The tutor provides recursion problems to solve using visualisation. The tutor moves around the room checking the students’ work.
-- When the students have understood the concept, the tutor shows on the board how to answer these types of questions _without_ the visualisation.
-:::
-::: {.column width="50%"}
-![[Lists (COMP1100)](https://comp.anu.edu.au/courses/comp1100/lectures/03-2-Intro_to_Lists.pdf)](img/recursive-line-datatype.jpg){ width=90% }
-:::
-::::::::::::::
-
-## Approach E: Working in Groups
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-The tutor puts students in groups to solve recursion problems on the lab webpage.
-
-- The tutor groups students of similar levels together.
-- The tutor looks out for moments when students are ready for harder problems pointing to advanced techniques.
-- If students are finished quickly, the tutor has challenging problems ready, or asks them to help others.
-:::
-::: {.column width="50%"}
-![A group at work.](img/marvin-meyer-SYTO3xs06fU-unsplash.jpg){ width=95% }
-:::
-::::::::::::::
-
-## Task: What activity resonates for you? (5min)
-
-- **Transfer:** presents, instructs, transfers, transmits and conveys learning.
-- **Shaping:** demonstrates, instructs, coaches and develops learning.
-- **Building:** instructs, enables, directs and structures learning.
-- **Travelling:** monitors, guides, facilitates, and enables learning. They point the way.
-- **Growing:** encourages, promotes, cultivates and nurtures learning.
-
-> What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
-
-Let's discuss together.
-
-## Applying theory to practice
-
-> "Everything works somewhere; nothing works everywhere."
-
-- No single approach is “correct”. Each has its purpose and context. They are all integral to effective teaching practice.
-- No approach is “singular”. They are used in combination in various ways and often occur at the same time in different contexts or at different levels of learning.
-- No approach is “universal”. In each class, there will be learners with their own individual learning needs. Your teaching approach should be responsive, adaptive and inclusive.
 
 # Questions: Who has a question?
 
