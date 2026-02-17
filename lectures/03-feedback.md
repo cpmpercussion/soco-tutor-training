@@ -335,8 +335,9 @@ Let's have a bit of a discussion:
 
 :::
 
-<!-- ## Grade Level to Marks
+## Grade Level to Marks
 
+::: {.small-table}
 Tip for marking from a rubric: Work out consistent marks for each grade level, e.g., for a criterion out of 10:
 
 | Total | HD   | D   | CR | P   | N   |
@@ -344,7 +345,10 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 | 10    | 8-10 | 7   | 6  | 5   | 0-4 |
 | 5     | 4-5  | 3-4 | 3  | 2-3 | 0-2 |
 | 4     | 4    | 3   | 2  | 2   | 0-1 |
-| 2     | 2    | 2   | 1  | 1   | 0   | -->
+| 2     | 2    | 2   | 1  | 1   | 0   |
+:::
+
+Some LMS and paper approaches have a scale within each box.
 
 ## Takeaways
 

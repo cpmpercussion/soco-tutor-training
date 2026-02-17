@@ -208,12 +208,14 @@ The tutor puts students in groups to solve recursion problems on the lab webpage
 - **Travelling:** monitors, guides, facilitates, and enables learning. They point the way.
 - **Growing:** encourages, promotes, cultivates and nurtures learning.
 
-> What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
 
 Let's discuss together.
 :::
 ::: {.column width="40%"}
 ![What kind of teaching would you like to do?](img/javier-trueba-iQPr1XkF5F0-unsplash.jpg)
+
+What activity would you most like to do as a student? Can you see any problems with how the activities are planned?
+
 :::
 ::::::::::::::
 
@@ -240,7 +242,7 @@ How do we get the students to _learn_?
 
 Let's look at _facilitation_ as a strategy and skill for you to have in your teaching.
 
-## Approaches to learning
+## Watch: Two approaches to learning
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
@@ -335,11 +337,13 @@ Based on your experience as a learner, how can questioning be used in computing 
 - Come up with three examples with your group.
 - Choose one to share with the room.
 
+We will discuss as a whole group.
 :::
 ::: {.column width="40%"}
 ![How to apply questioning?](img/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg)
 :::
 ::::::::::::::
+<!-- TODO: choose whether to cut this one. -->
 
 ## Coding Class Applications
 
