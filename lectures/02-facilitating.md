@@ -37,7 +37,7 @@ Knowing what teaching **is** can be tricky!
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-**The teacher is like a craftsperson or a sculptor.** 
+**The teacher is like a craftsperson or a sculptor.**
 
 - The teacher shapes and "moulds" knowledge in the learner.
 - Learners have limited autonomy in their learning.
@@ -138,7 +138,7 @@ Some students solve the problems quickly and find them too easy
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
-The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging. 
+The tutor sets out a series of recursive function resources and problems across several tables that become more complex and challenging.
 
 - Students self-diagnose which activity station they should be at. They can stay at any station as long as they want and can move at any time.
 - The tutor encourages group work and moves around the room helping students who get stuck.
@@ -158,7 +158,7 @@ The tutor presents the following steps on the whiteboard.
 4. Test your function with different inputs.
 5. If necessary, update your function so that the outputs are correct.
 
-The students complete practice problems from the lab webpage. 
+The students complete practice problems from the lab webpage.
 
 ## Approach D: Visualisation
 
@@ -201,6 +201,7 @@ The tutor puts students in groups to solve recursion problems on the lab webpage
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
+
 - **Transfer:** presents, instructs, transfers, transmits and conveys learning.
 - **Shaping:** demonstrates, instructs, coaches and develops learning.
 - **Building:** instructs, enables, directs and structures learning.
@@ -227,7 +228,7 @@ Think of a time you had:
 
 Discuss with your group and find one example of each (one good, one bad) to share. -->
 
-## Facilitating Learning!
+## The skill of facilitation
 
 This is really the main job of a **tutor**. (or is it?)
 
@@ -243,7 +244,7 @@ Let's look at _facilitation_ as a strategy and skill for you to have in your tea
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
-You are going to a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity. 
+You are going to a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity.
 
 - What is the objective of the activity?
 - What does the learner have to do?
@@ -414,14 +415,14 @@ At the end of each turn, the observers provide peer feedback to the facilitator 
 
 How did the dog cross the river?
 
-- A man stands on one side of a river, his dog on the other. 
-- The man calls his dog, who immediately crosses the river without getting wet and without using a bridge or a boat. 
+- A man stands on one side of a river, his dog on the other.
+- The man calls his dog, who immediately crosses the river without getting wet and without using a bridge or a boat.
 
 ## Rope Puzzle
 
 - You have 2 ropes coated in oil to help them burn.
 - The ropes burn at constant rates, and each rope will take _exactly 1 hour_ to burn all the way through.
-- With only a lighter to ignite the ropes, how can you measure exactly 45 minutes? 
+- With only a lighter to ignite the ropes, how can you measure exactly 45 minutes?
 
 ## Question Puzzle
 
