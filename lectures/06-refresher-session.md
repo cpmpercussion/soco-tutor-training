@@ -16,11 +16,11 @@ Admin, Reflection and Impact:
 - Reflection: what challenges have you encountered?
 - Strategies: ideas high impact teaching
 
-## Schedule and Groups
+### Schedule
 
-- 00:00 1. Admin
-- 00:30 2. Reflection
-- 01:15 3. Strategies
+- 00:00: 1. Admin
+- 00:30: 2. Reflection
+- 01:15: 3. Strategies
 
 You'll need to be in table groups for the activities, ideally you would have 4--5 people at your table.
 
