@@ -204,7 +204,7 @@ So we have discussed _barriers_ but what can we do about it?
 ::: {.column width="60%"}
 <!-- ![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=80%} -->
 
-Broadly adapted from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)
+Broadly adapted from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf) [@uniready_toolkit]
 :::
 ::: {.column width="40%"}
 ![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png){width=70%}
@@ -304,6 +304,8 @@ At your table:
 We'll bring the room together to hear some ideas.
 :::
 ::: {.column width="40%"}
+The Principles [@uniready_toolkit]:
+
 1. know your students
 2. **design inclusive curricula and assessments**
 3. **embed academic literacies (e.g., hidden curricula)**
