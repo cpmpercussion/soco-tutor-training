@@ -29,23 +29,6 @@ This session is about how we can teach to support a _diversity_ of students and 
 
 - **Accessibility**: "Assisting students to participate fully in their program of study by minimising the impact of _disability_ and _disadvantage_ on learning." [ANU Accessibility Page](https://www.anu.edu.au/students/accessibility)
 
-## Task Diversity in the classroom
-
-:::::::::::::: {.columns}
-::: {.column width="50%"}
-Think-Pair-Share:
-
-> Given that university classrooms are diverse, what opportunities and benefits does this provide?
-
-1. Think individually (1 min)
-2. Pair: discuss with a partner (1 min)
-3. Share: present examples to the group (2 mins)
-:::
-::: {.column width="50%"}
-![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=50%}
-:::
-::::::::::::::
-
 ## ANU stance on inclusion
 
 :::::::::::::: {.columns}
@@ -85,16 +68,33 @@ Think-Pair-Share:
 :::
 ::::::::::::::
 
-# Equitable access to learning
-
-![Photo by Nick Fewings on Unspalsh](img/nick-fewings-1ao3jJp4w9g-unsplash.jpg){width=45%}
-
 ## Equity vs Equality
 
 ![Source: Image by Ciell via [Wikimedia Common](https://commons.wikimedia.org/wiki/File:Equality_vs_Equity.png)](img/equity.png){width=70%}
 
 - **Equality**: Everyone receives the same support regardless of need.
 - **Equity**: Individuals receive the support they need to achieve the desired outcomes.
+
+## Task Diversity in the classroom
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+Think-Pair-Share:
+
+> Given that university classrooms are diverse, what opportunities and benefits does this provide?
+
+1. Think individually (1 min)
+2. Pair: discuss with a partner (1 min)
+3. Share: present examples to the group (2 mins)
+:::
+::: {.column width="50%"}
+![Photo by Shane Rounce on Unsplash](img/shane-rounce-DNkoNXQti3c-unsplash.jpg){width=50%}
+:::
+::::::::::::::
+
+# Barriers to learning
+
+![Photo by Nick Fewings on Unspalsh](img/nick-fewings-1ao3jJp4w9g-unsplash.jpg){width=45%}
 
 ## Barriers to learning
 
@@ -112,26 +112,9 @@ Some other barriers:
 
 :::
 ::: {.column width="40%"}
-![[The Persona Spectrum, Microsoft Inclusive Design](https://inclusive.microsoft.design/)](img/barriers.png){width=60%}
+![[The Persona Spectrum, Microsoft Inclusive Design](https://inclusive.microsoft.design/)](img/barriers.png){width=50%}
 :::
 ::::::::::::::
-
-## Task: Identifying barriers to learning
-
-What's a barrier to learning that you have observed as a student? 
-Is there something you have experienced or seen in action temporarily, or in particular situations?
-
-1. Write down on some sticky notes barriers you can think of.
-
-2. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
-
-## Task: Overcoming barriers to learning
-
-> Consider the students you may be teaching and the permanent or temporary or situational barriers to learning that they may face.
-
-_Reflect_: What could you do to help **reduce**, **alleviate** or **remove** some of these barriers in _your_ learning environment, content, materials and activities?
-
-_Share_: Spend two minutes sharing ideas with the person next to you.
 
 ## Accessible Digital Content
 
@@ -150,11 +133,35 @@ _Share_: Spend two minutes sharing ideas with the person next to you.
 :::
 ::::::::::::::
 
+## Task: Identifying barriers to learning (5mins)
+
+What's a barrier to learning that you have observed as a student? 
+Is there something you have experienced or seen in action temporarily, or in particular situations?
+
+1. Write down on some sticky notes barriers you can think of.
+
+2. When everyone in your group is ready, explain your sticky notes to your group. Try to identify any common themes.
+
+<!-- ## Task: Overcoming barriers to learning (5mins)
+
+> Consider the students you may be teaching and the permanent or temporary or situational barriers to learning that they may face.
+
+_Reflect_: What could you do to help **reduce**, **alleviate** or **remove** some of these barriers in _your_ learning environment, content, materials and activities?
+
+_Share_: Spend two minutes sharing ideas with the person next to you. -->
+
 # Inclusion anti-patterns
 
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+Sometimes our ways of working are not as inclusive as we would hope.
+:::
+::: {.column width="40%"}
 ![Photo by seabass creatives on Unsplash](img/seabass-creatives-U3m4_cKbUfc-unsplash.jpg)
+:::
+::::::::::::::
 
-## Inclusive teaching is not automatic.
+## Inclusive teaching is not automatic
 
 - Our teaching is probably not inclusive enough.
 - Some typical ways of working leave students out.
@@ -189,9 +196,20 @@ How do these statements interact with the idea of _academic standards_?
 
 # Strategies for inclusive teaching
 
-![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=50%}
+So we have discussed _barriers_ but what can we do about it?
+
+## UniReadyToolkit Principles
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+<!-- ![Photo by Ben Wicks on Unsplash](img/ben-wicks-sAnzTshqtWE-unsplash.jpg){width=80%} -->
 
 Broadly adapted from [UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)
+:::
+::: {.column width="40%"}
+![[UniReadyToolkit (link)](https://unireadytoolkit.com.au/wp-content/uploads/2024/08/Inclusive-teaching-guide.pdf)](img/unireadytoolkit-inclusive-teaching.png){width=70%}
+:::
+::::::::::::::
 
 ## Know your students
 
@@ -273,6 +291,8 @@ This is about being explicit in the skills needed to complete and demonstrate le
 
 ## Task: Applying one strategy ✨
 
+:::::::::::::: {.columns}
+::: {.column width="50%"}
 At your table:
 
 - Choose a strategy that you could apply in a class you are teaching or have previous taken.
@@ -282,6 +302,17 @@ At your table:
 - What would the benefits be? Would there be any drawbacks?
 
 We'll bring the room together to hear some ideas.
+:::
+::: {.column width="40%"}
+1. know your students
+2. **design inclusive curricula and assessments**
+3. **embed academic literacies (e.g., hidden curricula)**
+4. use diverse teaching strategies and resources
+5. create inclusive classroom environment
+6. embed support systems
+7. **facilitate continuous reflection**
+:::
+::::::::::::::
 
 # Questions: Who has a question?
 
