@@ -34,7 +34,7 @@ Move around now to adjust the groups!
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
-Everybody here has as an **educator** within the School of Computing, but you may not know each other.
+Everybody here is an **educator** within the School of Computing, but you may not know each other.
 
 You might also have had some teaching experiences outside of SoCo... (maybe not as a job!)
 
