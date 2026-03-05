@@ -51,16 +51,24 @@ We will discuss examples from the room.
 :::
 ::::::::::::::
 
-## Charles' Teaching Journey
+## About Charles 🤖🎶🥁📝
 
-- 2003: (in highschool): helping out percussionists in junior concert band
-- 2005: First work as a private percussion/drumset teacher
-- 2007: (maybe?): Tutor for MATH1013/14 at ANU (!)
-- 2014-2016: Tutor and Casual Lecturer at ANU (COMP1720, MUSI3309, COMP2100, COMP2300)
-- 2019: Lecturer at ANU (COMP2300/6300, COMP1720/6720, COMP4350/8350)
-- 2022: Developed study programs for Human Centred and Creative Computing (HCCC-MAJ, HCCC-MIN, HCCC-SPEC, HCCM-SPEC)
-- 2025: Training new CSAs, teaching COMP3900/6390.
-- 2026: ....????
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+**Charles Martin**
+
+- computer scientist, music technology researcher, performer
+- teaching computing at ANU since 2019 (and before that...)
+- _Assistant Associate Director Education_, School of Computing
+- teaches HCI, music computing, systems, creative coding, etc.
+- **first teaching...**: percussion teacher in ~2005, ANU MATH1013/1014 in 2007.
+- **lately** responsible for training tutors in our college (~90 in 2025, 130+ in 2026...)
+- **goal:** make sure teaching in our school is ✨✨awesome✨✨
+:::
+::: {.column width="40%"}
+![Charles playing synths (photo by Sandy Ma)](img/2024-05-29-concert-8-small.jpg)
+:::
+::::::::::::::
 
 ## What's tutoring like?
 
@@ -69,7 +77,7 @@ We will discuss examples from the room.
 - **Meeting with course convenors and other tutors:** going to meetings, understanding duties and tasks, providing ideas/info, incorporating feedback
 - **Filling in timesheets, doing admin:** navigating ANU websites, understanding rights/responsibilities at work, asking for help
 
-## Qualifications for teaching
+## Qualifications for teaching (new✨)
 
 > Why did I have to fill in a `docx` form?
 
@@ -109,12 +117,28 @@ ANU Enterprise Agreemtns [S2.5---S2.6](https://services.anu.edu.au/human-resourc
 - Online consultation (e.g. email, messages, forums) immediately prior to and following an online teaching activity
 - Attendance at meetings specifically for the purpose of assisting the CSA staff member to prepare for their teaching activity
 
-## Why do we do it this way?
+## Contemporaneous marking (new✨)
 
-- It's in the Enterprise Agreement
-- Provides guarantees of hours throughout the semester
-- Protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
-- Provides an automatic allowance for preparation, Q&A and admin work. 
+ANU Enterprise Agreement 2023--2026 [S2.6](https://services.anu.edu.au/human-resources/enterprise-agreement/schedule-2-casual-sessional-academic-activities-and-rates)
+
+S2.6:
+
+For the purposes of this provision, 'contemporaneous marking' means marking that is
+performed during a teaching activity, or marking work that could have reasonably been
+performed during the teaching activity, for example, marking oral presentations delivered
+during class.
+
+_so what does "reasonably performed during the teaching activity" mean?_
+
+## Why do we do it this way? (new✨)
+
+- teaching to associated work time ratios are set out in the [Higher Education Industry—Academic Staff—Award 2020](https://awards.fairwork.gov.au/MA000006.html) 16.4[^1]
+- tasks for associated working time are in the Enterprise Agreement
+- provides guarantees of hours throughout the semester
+- protects casual staff against unfair requests from academics (e.g., "You'll have to attend the lecture to find out what to teach! No you don't get paid for that!!")
+- provides an automatic allowance for preparation, Q&A and admin work.
+
+[^1]: so Federal Government level rules
 
 **Your manager** needs to provide tasks for you to complete in Associated Working Time.
 
@@ -161,7 +185,11 @@ Submit your timesheet **on time**. (please!!)
 
 ## Safety: What to do if something bad happens?
 
-⚠️⚠️⚠️ Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve! ⚠️⚠️⚠️
+⚠️⚠️⚠️ 
+
+Threats of [harassment, bullying, violence (interpersonal, psychological, sexual or physical) or disrupting classes completely](https://policies.anu.edu.au/ppl/document/ANUP_6097481) not acceptable---and not your job to resolve! 
+
+⚠️⚠️⚠️
 
 **Prioritise your safety. Just walk out.**
 
@@ -177,7 +205,6 @@ Submit your timesheet **on time**. (please!!)
 Link: [ANU Safety Website](https://services.anu.edu.au/campus-environment/safety-security)
 
 ## Where to get help 
-
 
 :::::::::::::: {.columns}
 ::: {.column width="50%"}
