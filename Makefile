@@ -124,7 +124,12 @@ BEAMER_OPTS = -t beamer \
 # --pdf-engine=xelatex
 
 # options for the pandoc PowerPoint writer
-PPTX_OPTS = -t pptx
+PPTX_REFERENCE = $(TEMPLATES_DIR)/reference.pptx
+PPTX_IMAGE_FILTER = $(TEMPLATES_DIR)/pptx-image-last.lua
+PPTX_OPTS = -t pptx --reference-doc=$(PPTX_REFERENCE) --lua-filter=$(PPTX_IMAGE_FILTER)
+
+$(PPTX_REFERENCE): $(TEMPLATES_DIR)/make_reference_pptx.py
+	python3 $< $@
 
 # options for the pandoc HTML writer
 HTML_OPTS = -V mainfont="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
@@ -204,7 +209,7 @@ $(LECTURES_OUT)/%.pdf: $(LECTURES_DIR)/%.md
 .PHONY: pptx
 pptx: $(LECTURES_OUT) $(LECTURE_PPTXS)
 
-$(LECTURES_OUT)/%.pptx: $(LECTURES_DIR)/%.md
+$(LECTURES_OUT)/%.pptx: $(LECTURES_DIR)/%.md $(PPTX_REFERENCE) $(PPTX_IMAGE_FILTER)
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PPTX_OPTS) $< -o $@
 
 # Index
