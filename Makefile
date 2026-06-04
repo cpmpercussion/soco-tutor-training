@@ -34,7 +34,7 @@ INDEX_GENERATOR = generate_index.py
 
 # phony targets
 .PHONY: all
-all: reveal beamer assessments resources workshops images index
+all: reveal beamer pptx assessments resources workshops images index
 
 .PHONY: public
 public: reveal beamer assessments workshops images index
@@ -122,6 +122,10 @@ BEAMER_OPTS = -t beamer \
 							-V mainfontfallback="NotoColorEmoji:mode=harf" \
 
 # --pdf-engine=xelatex
+
+# options for the pandoc PowerPoint writer
+PPTX_OPTS = -t pptx
+
 # options for the pandoc HTML writer
 HTML_OPTS = -V mainfont="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
 
@@ -129,6 +133,7 @@ HTML_OPTS = -V mainfont="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI
 LECTURE_MDS = $(wildcard $(LECTURES_DIR)/*.md)
 REVEAL_HTMLS = $(patsubst $(LECTURES_DIR)/%.md,$(LECTURES_OUT)/%.html,$(LECTURE_MDS))
 BEAMER_PDFS = $(patsubst $(LECTURES_DIR)/%.md,$(LECTURES_OUT)/%.pdf,$(LECTURE_MDS))
+LECTURE_PPTXS = $(patsubst $(LECTURES_DIR)/%.md,$(LECTURES_OUT)/%.pptx,$(LECTURE_MDS))
 
 # Find all markdown resources
 RESOURCES_MDS = $(wildcard $(RESOURCES_DIR)/*.md)
@@ -193,6 +198,14 @@ beamer: $(LECTURES_OUT) $(BEAMER_PDFS)
 
 $(LECTURES_OUT)/%.pdf: $(LECTURES_DIR)/%.md
 	$(PANDOC) $(PANDOC_COMMON_OPTS) $(BEAMER_OPTS) $< -o $@
+
+# Generate PowerPoint Lecture slides
+
+.PHONY: pptx
+pptx: $(LECTURES_OUT) $(LECTURE_PPTXS)
+
+$(LECTURES_OUT)/%.pptx: $(LECTURES_DIR)/%.md
+	$(PANDOC) $(PANDOC_COMMON_OPTS) $(PPTX_OPTS) $< -o $@
 
 # Index
 
