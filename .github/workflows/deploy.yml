@@ -30,8 +30,14 @@ jobs:
 
       - name: Install Python and Dependencies
         run: |
-          apk add --no-cache python3 py3-pip py3-yaml make 
-          tlmgr update --self
+          apk add --no-cache python3 py3-pip py3-yaml make
+          # The container ships TeX Live 2025, but the live CTAN repo has
+          # rolled over to 2026, so `tlmgr update --self` fails on the
+          # cross-release guard. Pin tlmgr to the frozen 2025 net archive:
+          # it matches the container exactly, so installs work without a
+          # self-update and the build stays reproducible across future
+          # TeX Live rollovers.
+          tlmgr option repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final
           tlmgr install libertine \
                   sourcecodepro \
                   ly1 \
