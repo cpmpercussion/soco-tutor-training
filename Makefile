@@ -37,7 +37,7 @@ INDEX_GENERATOR = generate_index.py
 all: reveal beamer pptx assessments resources workshops images index
 
 .PHONY: public
-public: reveal beamer assessments workshops images index
+public: reveal beamer pptx assessments workshops images index
 
 .PHONY: html
 html: reveal assessments resources workshops images index
@@ -214,7 +214,11 @@ $(LECTURES_OUT)/%.pptx: $(LECTURES_DIR)/%.md $(PPTX_REFERENCE) $(PPTX_IMAGE_FILT
 
 # Index
 
-$(INDEX_HTML): $(LECTURE_MDS) $(ASSESSMENTS_MDS) $(WORKSHOPS_MDS) $(RESOURCES_MDS) $(INDEX_GENERATOR)
+# Depend on the built artifacts (not the source .md) so the index
+# regenerates whenever an output appears or changes — e.g. newly built
+# pptx files. Listing them as prerequisites also lets `make -j` order the
+# index correctly after everything it links.
+$(INDEX_HTML): $(REVEAL_HTMLS) $(BEAMER_PDFS) $(LECTURE_PPTXS) $(ASSESSMENTS_HTMLS) $(ASSESSMENTS_PDFS) $(WORKSHOPS_HTMLS) $(RESOURCES_HTMLS) $(INDEX_GENERATOR)
 	python3 $(INDEX_GENERATOR) $@ $(OUTPUT_DIR)
 
 .PHONY: index
