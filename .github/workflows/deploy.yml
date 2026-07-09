@@ -9,17 +9,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-deploy:
+  # Build runs on every trigger (push, PR, manual). It carries no
+  # environment, so pull requests can build and surface a broken slide
+  # before merge instead of being rejected by the github-pages
+  # environment protection rule.
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pages: write
-      id-token: write
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    
     container:
       image: pandoc/latex:3.10.0.0-alpine
       options: --user root
@@ -71,6 +69,22 @@ jobs:
         with:
           path: './build'
 
+  # Deploy only on pushes to main (and manual dispatch) — skipped on pull
+  # requests. A skipped job never evaluates environment protection, so PRs
+  # stay green without ever touching the github-pages environment.
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
