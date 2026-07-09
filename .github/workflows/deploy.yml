@@ -21,7 +21,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     container:
-      image: pandoc/latex:3.7.0.1
+      image: pandoc/latex:3.10.0.0-alpine
       options: --user root
 
     steps:
@@ -31,13 +31,13 @@ jobs:
       - name: Install Python and Dependencies
         run: |
           apk add --no-cache python3 py3-pip py3-yaml make
-          # The container ships TeX Live 2025, but the live CTAN repo has
-          # rolled over to 2026, so `tlmgr update --self` fails on the
-          # cross-release guard. Pin tlmgr to the frozen 2025 net archive:
-          # it matches the container exactly, so installs work without a
-          # self-update and the build stays reproducible across future
-          # TeX Live rollovers.
-          tlmgr option repository https://ftp.math.utah.edu/pub/tex/historic/systems/texlive/2025/tlnet-final
+          # This image ships TeX Live 2026, matching the current live CTAN
+          # release. tlmgr still refuses to install until its own revision
+          # matches the (moving) live tlnet repo, so self-update first — this
+          # is allowed now that image and repo are the same release year.
+          # If the live CTAN later rolls over to 2027, bump the image tag to a
+          # pandoc/latex build carrying that year's TeX Live to keep them aligned.
+          tlmgr update --self
           tlmgr install libertine \
                   sourcecodepro \
                   ly1 \
