@@ -108,71 +108,42 @@ We will make a big list together on PollEverywhere.
 
 ## Principles of effective feedback
 
-![Aspects of feedback](img/M3_23.png){width=65%}
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+Feedback is _not_ just a judgement, nor a list of everything that went wrong. It is **information that helps a learner improve**.
 
-## Actionable
+Effective feedback tends to share nine qualities — grouped here by _what it does_, _how it's delivered_, and _how it builds over time_.
+:::
+::: {.column width="50%"}
+![Aspects of feedback](img/M3_23.png)
+:::
+::::::::::::::
 
-- Provides steps the student can take.
-- Promotes learner autonomy.
-- Is essential for active learning.
-- Affects future performance (i.e. is future-focused).
+## What effective feedback *does*
 
-## Constructive
+- **Actionable:** gives the student concrete steps to take next; it is future-focused, not just a verdict on the past.
+- **Goal referenced:** measured against the task's stated goals, criteria and standards.
+- **Constructive:** names strengths *and* areas to develop; objectiv e, evidence-based, and respectful of the student.
 
-- Focuses on strengths and areas for development.
-- Is respectful of the student.
-- Is objective and evidence-based.
+## How effective feedback is *delivered*
 
-## Ongoing
+- **Timely:** arrives soon enough that the student can still act on it, and respects their time and effort.
+- **User friendly:** clear, understandable and relevant to the learner; avoids jargon and marker shorthand.
+- **Transparent:** shows how the mark follows from the criteria, and says clearly what to improve and how.
 
-- Occurs across the semester.
-- Guides students in their progress.
-- Supports learning expectations.
-- Maintains student engagement.
+## How effective feedback *builds over time*
 
-## Consistent
-
-- Is maintained for all students, teams and the semester.
-- Shows clear connection between feedback and marks.
-- Is fair and equitable.
-
-## Timely
-
-- Is provided sooner rather than later.
-- Respects students’ time and effort.
-- Allows students the time to reflect, adjust and improve.
-
-## User Friendly 
-
-- Helps ensure comprehensibility and understandability.
-- Ensures that feedback is relevant to learner.
-- Enhances the impact of feedback.
-
-## Transparent
-
-- Is open and impartial.
-- Demonstrates alignment between learning outcomes, feedback and marks.
-- Advises clearly what and how to improve.
-
-## Dialogic
-
-- Provides opportunity to ask questions or clarify.
-- Takes the form of a discussion with the student.
-- Encourages active engagement with the feedback process.
-
-## Goal Referenced
-
-- Focused on specific goals and tasks.
-- Clarifies expected standards or criteria for success.
-- Is written with the student in mind.
+- **Ongoing:** happens across the semester to guide progress, not just once at the end.
+- **Consistent:** fair and equitable across all students; comments and marks line up with each other.
+- **Dialogic:** a two-way conversation where students can ask questions, clarify, and engage.
 
 ## Applying the principles
 
 Consider this approach below when providing feedback:
 
-![](img/M3_34.png){width=25%}
-![](img/M3_35.png){width=25%}
-![](img/M3_36.png){width=25%}
+1. **Strengths:** Comment on what the student did well and why.
+2. **Areas for development:** Indicate where there is room for improvement and why.
+3. **Next steps:** Suggest steps to improve, but be selective.
 
 You may also apply facilitation techniques where appropriate.
 
@@ -263,6 +234,18 @@ Let's have a bit of a discussion:
 - How can/should students use rubrics?
 - How can/should educators use rubrics? -->
 
+## What is a rubric?
+
+The word "rubric" is used loosely: it can mean anything from a _secret scoring sheet_ held only by the marker, to a shared, student-co-created _articulation of quality_ [@dawson_assessment_rubrics].
+
+Most rubrics share **three essential features**:
+
+- **Evaluative criteria** – the qualities the work is judged on.
+- **Quality definitions** – what each criterion looks like at each level.
+- **A scoring strategy** – how those judgements become marks or a grade.
+
+Clarity about what a task's rubric actually provides helps you mark consistently.
+
 ## Rubrics
 
 **Question:** Do you look at rubrics or marking criteria as a student? Do you know how to find them?
@@ -271,6 +254,18 @@ Let's have a bit of a discussion:
 - Allow consistency and clear feedback – where and how students can improve.
 - Can be provide various levels of detail.
 - Can be used before  **(preparation)** , during  **(production)**  and after  **(feedback, reflection, review and improvement)**
+
+## How rubrics differ
+
+@dawson_assessment_rubrics identifies **14 design elements** that make one rubric different from another. Here's a few highlights:
+
+- **Specificity** – _generic_ (reusable across tasks) vs _task-specific_.
+- **Secrecy** – _shared_ with students up front vs a private marking sheet.
+- **Scoring strategy** – _analytic_ (score each criterion, then combine) vs _holistic_ (one overall judgement).
+- **Quality levels** – how many levels, and how they map to grades.
+- **Users and uses** – planning, self/peer assessment, feedback, summative grading.
+
+Naming these choices helps a marking team reach a **shared understanding** of the same rubric.
 
 ## Rubrics in the assessment process
 
@@ -299,6 +294,16 @@ Let's have a bit of a discussion:
 | Fail | N | 0-49 | Attainment of learning outcomes has **not been demonstrated** |
 
 [ANU Policy: Student assessment (Coursework)](https://policies.anu.edu.au/ppl/document/ANUP_004603)
+
+## Task: Reading a Rubric (10mins)
+
+The next five slides show **example rubrics** — the first three are generic samples, and the last two are from real ANU courses (COMP1720 and COMP4350). In pairs, pick **one** — ideally the closest to a task you'll mark — and work out:
+
+1. **The three essential features** – where are the _evaluative criteria_, the _quality definitions_, and the _scoring strategy_? Is any missing or unclear?
+2. **Two design choices** – is it _generic_ or _task-specific_? _Analytic_ or _holistic_? How many _quality levels_?
+3. **As a marker** – what would be easy, and what would be hard to judge consistently?
+
+We'll hear from a couple of pairs.
 
 ## Rubric: Blog
 
