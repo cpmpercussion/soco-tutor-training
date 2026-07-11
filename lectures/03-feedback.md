@@ -186,6 +186,8 @@ Some students will attack feedback and use the content to appeal a grade.
 
 ## Task: Evaluating Code Feedback (10mins)
 
+(zoom in on each example...)
+
 ![](img/feedback_code_1.png){width=32%}
 ![](img/feedback_code_2.png){width=32%}
 ![](img/feedback_code_3.png){width=32%}
@@ -292,13 +294,30 @@ Naming these choices helps a marking team reach a **shared understanding** of th
 
 ## Task: Reading a Rubric (10mins)
 
-The next five slides show **example rubrics** — the first three are generic samples, and the last two are from real ANU courses (COMP1720 and COMP4350). In pairs, pick **one** — ideally the closest to a task you'll mark — and work out:
+The next slides show **example rubrics** — the first four are generic samples (including a generic programming rubric), and the last two are from real ANU computing courses (COMP1720 and COMP4350) — note both assess _creative, music-themed_ work rather than conventional code. In pairs, pick **one** — ideally the closest to a task you'll mark — and work out:
 
 1. **The three essential features** – where are the _evaluative criteria_, the _quality definitions_, and the _scoring strategy_? Is any missing or unclear?
 2. **Two design choices** – is it _generic_ or _task-specific_? _Analytic_ or _holistic_? How many _quality levels_?
 3. **As a marker** – what would be easy, and what would be hard to judge consistently?
 
 We'll hear from a couple of pairs.
+
+## Rubric: Programming Assignment
+
+::: {.small-table}
+
+| CRITERIA | Exceptional | Acceptable | Amateur | Unsatisfactory |
+|---|---|---|---|---|
+| **Specifications** | Works and meets all specifications. | Works and produces correct results; meets most other specs. | Produces correct results but displays them incorrectly. | Produces incorrect results. |
+| **Readability** | Exceptionally organised and very easy to follow. | Fairly easy to read. | Readable only by someone who knows what it should do. | Poorly organised and very difficult to read. |
+| **Reusability** | Whole program or each routine could be reused. | Most of the code could be reused. | Some parts could be reused. | Not organised for reuse. |
+| **Documentation** | Well written; clearly explains what the code does and how. | Embedded comments plus useful header documentation. | Comments and simple headers separating routines. | Comments that don't help the reader understand the code. |
+| **Delivery** | On time. | Within a week of the due date. | Within two weeks of the due date. | More than two weeks overdue. |
+| **Efficiency** | Very efficient without sacrificing readability. | Fairly efficient without sacrificing readability. | Brute force and unnecessarily long. | Huge and appears patched together. |{font-size: 12px;}
+
+:::
+
+Adapted from a generic programming rubric, [CSU Long Beach](https://provost.fiu.edu/apa/assessment/resources/rubrics-and-curriculum-maps/_assets/rubrics/Computer%20Programming%20Grading%20Rubric%20-%20California%20State%20University%20Long%20Beach.pdf).
 
 ## Rubric: Blog
 
@@ -335,6 +354,17 @@ We'll hear from a couple of pairs.
 
 :::
 
+## Scoring strategies for code
+
+How do these rubric levels turn into a mark?
+
+- **Weighted criteria** – each criterion carries a percentage (like the programming rubric earlier, and UChicago's CMSC 12100). Many ANU coding assessments are marked this way.
+- **Automated tests** – fast and consistent for _correctness_, but on their own a **weak form of feedback**: they tell a student _what_ failed, not _why_ or _how to improve_.
+- Strong marking usually **combines both** – autograders for correctness, human judgement for design, readability and documentation.
+
+Even with a shared rubric, markers often disagree — and disagree with their own earlier marks — so **assessor training and moderation matter**, not just the rubric [@messer_grading_consistency].
+
+<!--
 ## Grade Level to Marks
 
 ::: {.small-table}
@@ -349,6 +379,8 @@ Tip for marking from a rubric: Work out consistent marks for each grade level, e
 :::
 
 Some LMS and paper approaches have a scale within each box.
+-->
+
 
 ## Takeaways
 
