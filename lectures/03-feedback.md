@@ -123,7 +123,7 @@ Effective feedback tends to share nine qualities — grouped here by _what it do
 
 - **Actionable:** gives the student concrete steps to take next; it is future-focused, not just a verdict on the past.
 - **Goal referenced:** measured against the task's stated goals, criteria and standards.
-- **Constructive:** names strengths *and* areas to develop; objectiv e, evidence-based, and respectful of the student.
+- **Constructive:** names strengths *and* areas to develop; objective, evidence-based, and respectful of the student.
 
 ## How effective feedback is *delivered*
 
@@ -147,7 +147,7 @@ Consider this approach below when providing feedback:
 
 You may also apply facilitation techniques where appropriate.
 
-## Challenges with feedback
+## Discussion: Challenges with feedback (5mins)
 
 "But the tutor told me my project is _great_!"
 
@@ -246,14 +246,7 @@ Most rubrics share **three essential features**:
 
 Clarity about what a task's rubric actually provides helps you mark consistently.
 
-## Rubrics
-
-**Question:** Do you look at rubrics or marking criteria as a student? Do you know how to find them?
-
-- Provide clear criteria for both student and marker.
-- Allow consistency and clear feedback – where and how students can improve.
-- Can be provide various levels of detail.
-- Can be used before  **(preparation)** , during  **(production)**  and after  **(feedback, reflection, review and improvement)**
+_Do you look at rubrics or marking criteria as a student? Do you know how to find them for the course you'll tutor?_
 
 ## How rubrics differ
 
