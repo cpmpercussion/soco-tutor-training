@@ -338,7 +338,8 @@ Each group will have 10 minutes to work through a scenario and formulate a respo
 - **Pair** with _another group member_ to share and discuss your thoughts.
 - **Share** and **discuss** your preferred solutions with the group.
 
-## Scenario 0 (Everybody)
+<!-- 
+## Scenario 0 (Everybody) 
 
 _Think-Pair-Share_: 
 
@@ -375,7 +376,6 @@ __Discuss:__
 
 > - Your first class is set up and ready to go. To help you remember students’ names, you have printed name tags based on the class roll for correct spelling. One student has arrived early and told you that they hate to be identified by the legal name on their name tag. Other students are arriving, and the session starts in 2 minutes.
 > - __Extension:__ You wrote their preferred name on the back of the name tag and told the student that you would fix it for next week. During the class, the student is withdrawn and obviously not happy. After the class they disclose to you that they are transgender, and they are finding it difficult to have their name changed. The university bureaucracy is especially frustrating, given that the university says it is supportive of the LGBTQI+ community.
-
-
+-->
 
 # References {.allowframebreaks}
