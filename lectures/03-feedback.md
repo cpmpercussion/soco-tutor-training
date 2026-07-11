@@ -55,17 +55,19 @@ One question per sticky note! We will hear some together from each table.
 :::
 ::::::::::::::
 
-## Course assessments
+## Discussion: What are your course's assessments? (5mins)
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
-What are the assessments in the course(s) you'll be tutoring in?
+> What are the assessments in the course(s) you'll be tutoring in?
+
+With others tutoring the same course, list them and note:
 
 - What each assessment involves
 - When the assessments are due
 - Your role as a tutor
 
-Are these assessments opportunities for feedback? What is the purpose?
+Then discuss: **are these assessments opportunities for feedback? What is their purpose?**
 :::
 ::: {.column width="40%"}
 ![](img/M3_7.png){width=40%}
