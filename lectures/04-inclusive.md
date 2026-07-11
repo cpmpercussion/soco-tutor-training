@@ -316,6 +316,23 @@ The Principles [@uniready_toolkit]:
 :::
 ::::::::::::::
 
+<!--
+Presenter note (next time): this "Applying one strategy" task lands better when
+grounded in a concrete situation than an abstract strategy choice. Pick ONE of the
+scenarios below and have tables apply their chosen strategy to it.
+
+Recommended: **Scenario 3** (women-in-IT / classroom climate) — strongest inclusion
+fit, and it continues the "Heard around ANU" academic-standards discussion the room
+is already warm on. Good alternatives: **Scenario 1** (group formation + biased peer
+ratings -> inclusive assessment) or **Scenario 5** (name tag / trans student ->
+respect + belonging).
+
+Skip Scenarios 0 and 2 here: they lean accessibility/disability and fit better with
+the earlier barriers section. Allow ~10 min, and note that 3/4/5 can surface real
+personal experiences — set a confidentiality/respect expectation and know your
+referral points (convenor, ANU support services).
+-->
+
 # Questions: Who has a question?
 
 :::::::::::::: {.columns}
