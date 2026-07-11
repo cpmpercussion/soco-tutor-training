@@ -49,6 +49,7 @@ At your table groups:
 :::
 ::::::::::::::
 
+<!--
 ## About Charles 🤖🎶🥁📝
 
 :::::::::::::: {.columns}
@@ -66,6 +67,7 @@ At your table groups:
 ![Charles playing synths (photo by Sandy Ma)](img/2024-05-29-concert-8-small.jpg)
 :::
 ::::::::::::::
+-->
 
 ## What work have you been doing as a tutor?
 

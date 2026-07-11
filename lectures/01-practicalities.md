@@ -51,6 +51,7 @@ We will discuss examples from the room.
 :::
 ::::::::::::::
 
+<!--
 ## About Charles 🤖🎶🥁📝
 
 :::::::::::::: {.columns}
@@ -69,6 +70,7 @@ We will discuss examples from the room.
 ![Charles playing synths (photo by Sandy Ma)](img/2024-05-29-concert-8-small.jpg)
 :::
 ::::::::::::::
+-->
 
 ## What's tutoring like?
 
