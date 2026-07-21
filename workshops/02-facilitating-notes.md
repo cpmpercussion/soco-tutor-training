@@ -26,7 +26,7 @@ a hands-on role-play.
 | 2 min | **Task: What do these mean to us?** | Quick reflection on which they've experienced. |
 | ~10 min | **Applying theories** — match 5 tutorial activities (A–E) to Fox's metaphors, via PollEverywhere | The interactive heart of the first half. |
 | 5 min | **Task: What activity resonates for you?** | Whole-group discussion. |
-| ~10 min | **Watch:** two approaches to learning (Vimeo) + "instructor vs facilitator" discussion | Cue the video ready; debrief with the role questions. |
+| ~10 min | **Watch:** [two approaches to learning (Vimeo)](https://vimeo.com/506981439/3fcaf2ac8c) + "instructor vs facilitator" discussion | Cue the video ready; debrief with the role questions. Link: <https://vimeo.com/506981439/3fcaf2ac8c> |
 | ~8 min | Facilitation questions + why they work | |
 | 5 min | **Task: Thinking about questioning** | Compare the two approaches. |
 | 5 min | **Task: Questioning in Computing Labs** | Three examples per group, share one. |

@@ -246,7 +246,9 @@ Let's look at _facilitation_ as a strategy and skill for you to have in your tea
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
-You are going to a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity.
+You are going to watch a [video (link)](https://vimeo.com/506981439/3fcaf2ac8c) demonstrating a learning activity.
+
+While watching the video, think about these questions:
 
 - What is the objective of the activity?
 - What does the learner have to do?
@@ -388,6 +390,8 @@ It's important to be able to use the skill of questioning even when **you** aren
 
 (E.g., in PhD projects, what does an "answer" mean)
 
+> Note! Answers not provided! You really have to work it out! 😈
+
 ## Task: Facilitating a learning activity (25mins)
 
 :::::::::::::: {.columns}
@@ -417,10 +421,10 @@ At the end of each turn, the observers provide peer feedback to the facilitator 
 
 ## Dog Puzzle
 
-How did the dog cross the river?
-
 - A man stands on one side of a river, his dog on the other.
 - The man calls his dog, who immediately crosses the river without getting wet and without using a bridge or a boat.
+- **How did the dog cross the river?**
+
 
 ## Rope Puzzle
 
@@ -433,6 +437,8 @@ How did the dog cross the river?
 - I can break, I can get clogged, I can be attacked, I can be given, I can be kept, I can be crushed. Yet, I can be whole at the same time.
 
 ## The Goat Problem
+
+(this one is really tricky)
 
 - Imagine a circular fence enclosing an acre of grass. A [goat](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/) is inside the fence, tied to a post.
 - How long does the rope have to be so that the goat can eat half the grass?
